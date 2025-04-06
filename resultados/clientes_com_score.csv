@@ -1,0 +1,1001 @@
+Item Purchased,Category,Color,Location,Size,Gender,Shipping Type,Payment Method,Discount Applied,Subscription Status,Season,Frequency of Purchases,Previous Purchases,Purchase Amount (USD),Age,Category_Item_Color,Category_Item_Size,Category_Item_Location,Prob Alta (%),Classe Prevista,Risco de Review
+Jacket,Outerwear,Red,Texas,M,Male,Standard,Credit Card,0,1,Summer,Occasionally,0,68.05,49,Outerwear_Jacket_Red,Outerwear_Jacket_M,Outerwear_Jacket_Texas,64.2,Alta,Moderada
+Dress,Outerwear,Black,Florida,XL,Male,Express,PayPal,0,1,Winter,Weekly,0,16.68,38,Outerwear_Dress_Black,Outerwear_Dress_XL,Outerwear_Dress_Florida,63.77,Alta,Moderada
+T-shirt,Outerwear,Blue,Florida,L,Male,Standard,Debit Card,0,1,Winter,Monthly,8,158.58,27,Outerwear_T-shirt_Blue,Outerwear_T-shirt_L,Outerwear_T-shirt_Florida,71.52,Alta,Alta probabilidade
+Dress,Outerwear,Green,New York,M,Female,Express,Debit Card,0,1,Summer,Occasionally,7,352.02,54,Outerwear_Dress_Green,Outerwear_Dress_M,Outerwear_Dress_New York,69.43,Alta,Moderada
+Dress,Outerwear,Blue,Florida,S,Female,Standard,PayPal,1,1,Winter,Monthly,4,397.23,66,Outerwear_Dress_Blue,Outerwear_Dress_S,Outerwear_Dress_Florida,79.94,Alta,Alta probabilidade
+Jeans,Footwear,Blue,New York,M,Male,Standard,Debit Card,1,0,Winter,Occasionally,4,154.92,39,Footwear_Jeans_Blue,Footwear_Jeans_M,Footwear_Jeans_New York,49.25,Não-Alta,Baixa
+T-shirt,Outerwear,Yellow,Texas,S,Female,Standard,Credit Card,1,1,Winter,Weekly,8,252.87,30,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_S,Outerwear_T-shirt_Texas,91.42,Alta,Alta probabilidade
+T-shirt,Footwear,Black,California,M,Male,Express,PayPal,0,1,Winter,Weekly,2,216.35,34,Footwear_T-shirt_Black,Footwear_T-shirt_M,Footwear_T-shirt_California,80.1,Alta,Alta probabilidade
+T-shirt,Outerwear,Yellow,Nevada,L,Male,Standard,Credit Card,1,0,Winter,Weekly,2,211.16,26,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_L,Outerwear_T-shirt_Nevada,81.68,Alta,Alta probabilidade
+Dress,Accessories,Black,Texas,S,Female,Standard,PayPal,0,0,Fall,Monthly,6,123.36,41,Accessories_Dress_Black,Accessories_Dress_S,Accessories_Dress_Texas,75.73,Alta,Alta probabilidade
+Jacket,Clothing,Black,Florida,L,Female,Express,Debit Card,0,0,Winter,Occasionally,8,76.82,61,Clothing_Jacket_Black,Clothing_Jacket_L,Clothing_Jacket_Florida,50.52,Alta,Moderada
+T-shirt,Footwear,White,Nevada,L,Male,Express,PayPal,1,0,Spring,Monthly,5,106.38,31,Footwear_T-shirt_White,Footwear_T-shirt_L,Footwear_T-shirt_Nevada,60.87,Alta,Moderada
+Dress,Outerwear,Red,California,S,Male,Standard,PayPal,0,1,Summer,Weekly,1,37.11,63,Outerwear_Dress_Red,Outerwear_Dress_S,Outerwear_Dress_California,53.44,Alta,Moderada
+Jeans,Accessories,White,California,S,Female,Express,Credit Card,0,1,Fall,Monthly,0,107.08,25,Accessories_Jeans_White,Accessories_Jeans_S,Accessories_Jeans_California,59.25,Alta,Moderada
+Jacket,Clothing,Red,New York,XL,Male,Standard,Debit Card,1,1,Fall,Weekly,1,14.51,54,Clothing_Jacket_Red,Clothing_Jacket_XL,Clothing_Jacket_New York,50.49,Alta,Moderada
+Jeans,Footwear,Yellow,Nevada,XL,Female,Standard,Credit Card,0,1,Winter,Weekly,0,317.36,36,Footwear_Jeans_Yellow,Footwear_Jeans_XL,Footwear_Jeans_Nevada,88.28,Alta,Alta probabilidade
+Jacket,Clothing,Red,New York,XL,Male,Express,Debit Card,0,0,Summer,Weekly,9,165.02,45,Clothing_Jacket_Red,Clothing_Jacket_XL,Clothing_Jacket_New York,63.37,Alta,Moderada
+Dress,Accessories,Yellow,Texas,L,Female,Express,Credit Card,1,1,Spring,Occasionally,9,486.84,63,Accessories_Dress_Yellow,Accessories_Dress_L,Accessories_Dress_Texas,94.25,Alta,Alta probabilidade
+Shoes,Footwear,Blue,Nevada,L,Male,Express,PayPal,0,1,Winter,Occasionally,8,104.92,58,Footwear_Shoes_Blue,Footwear_Shoes_L,Footwear_Shoes_Nevada,42.67,Não-Alta,Baixa
+Jacket,Clothing,Blue,Texas,XL,Male,Standard,Credit Card,0,0,Summer,Weekly,9,179.46,47,Clothing_Jacket_Blue,Clothing_Jacket_XL,Clothing_Jacket_Texas,79.14,Alta,Alta probabilidade
+Jeans,Outerwear,Red,New York,L,Female,Express,Debit Card,1,1,Winter,Monthly,7,185.34,24,Outerwear_Jeans_Red,Outerwear_Jeans_L,Outerwear_Jeans_New York,54.77,Alta,Moderada
+Dress,Footwear,Red,Nevada,L,Male,Standard,Debit Card,1,1,Winter,Monthly,6,14.14,43,Footwear_Dress_Red,Footwear_Dress_L,Footwear_Dress_Nevada,45.6,Não-Alta,Baixa
+Jacket,Clothing,Yellow,New York,S,Male,Express,PayPal,1,1,Winter,Occasionally,2,421.21,57,Clothing_Jacket_Yellow,Clothing_Jacket_S,Clothing_Jacket_New York,86.47,Alta,Alta probabilidade
+Shoes,Accessories,White,Nevada,S,Female,Standard,Debit Card,1,1,Winter,Weekly,7,25.68,63,Accessories_Shoes_White,Accessories_Shoes_S,Accessories_Shoes_Nevada,43.45,Não-Alta,Baixa
+Shoes,Accessories,Yellow,New York,L,Male,Express,Credit Card,0,0,Winter,Monthly,1,470.69,63,Accessories_Shoes_Yellow,Accessories_Shoes_L,Accessories_Shoes_New York,89.83,Alta,Alta probabilidade
+T-shirt,Footwear,White,California,XL,Male,Standard,PayPal,0,0,Winter,Weekly,1,447.12,28,Footwear_T-shirt_White,Footwear_T-shirt_XL,Footwear_T-shirt_California,94.17,Alta,Alta probabilidade
+T-shirt,Clothing,Blue,New York,M,Male,Express,Debit Card,1,0,Winter,Monthly,9,272.41,31,Clothing_T-shirt_Blue,Clothing_T-shirt_M,Clothing_T-shirt_New York,66.69,Alta,Moderada
+Jeans,Footwear,Black,California,XL,Female,Standard,Debit Card,0,0,Spring,Occasionally,2,276.36,38,Footwear_Jeans_Black,Footwear_Jeans_XL,Footwear_Jeans_California,85.13,Alta,Alta probabilidade
+Jacket,Footwear,Red,New York,M,Female,Express,Credit Card,0,0,Fall,Weekly,6,330.35,25,Footwear_Jacket_Red,Footwear_Jacket_M,Footwear_Jacket_New York,76.07,Alta,Alta probabilidade
+Jacket,Clothing,White,Nevada,XL,Female,Express,Credit Card,1,1,Spring,Weekly,0,199.65,20,Clothing_Jacket_White,Clothing_Jacket_XL,Clothing_Jacket_Nevada,74.35,Alta,Alta probabilidade
+T-shirt,Clothing,Yellow,Nevada,S,Male,Standard,PayPal,1,1,Winter,Monthly,7,327.14,45,Clothing_T-shirt_Yellow,Clothing_T-shirt_S,Clothing_T-shirt_Nevada,89.19,Alta,Alta probabilidade
+Jacket,Outerwear,Blue,Nevada,L,Male,Express,Debit Card,0,0,Winter,Monthly,6,31.94,46,Outerwear_Jacket_Blue,Outerwear_Jacket_L,Outerwear_Jacket_Nevada,52.93,Alta,Moderada
+Jacket,Clothing,White,Florida,L,Male,Standard,Credit Card,1,0,Spring,Monthly,3,36.48,40,Clothing_Jacket_White,Clothing_Jacket_L,Clothing_Jacket_Florida,53.14,Alta,Moderada
+Shoes,Accessories,Yellow,Texas,S,Male,Standard,PayPal,1,0,Spring,Weekly,4,234.04,35,Accessories_Shoes_Yellow,Accessories_Shoes_S,Accessories_Shoes_Texas,85.71,Alta,Alta probabilidade
+T-shirt,Footwear,Red,Nevada,M,Female,Express,Debit Card,1,1,Fall,Occasionally,9,279.31,52,Footwear_T-shirt_Red,Footwear_T-shirt_M,Footwear_T-shirt_Nevada,65.76,Alta,Moderada
+Dress,Footwear,Red,California,M,Male,Standard,Debit Card,0,0,Spring,Occasionally,0,445.03,30,Footwear_Dress_Red,Footwear_Dress_M,Footwear_Dress_California,88.0,Alta,Alta probabilidade
+T-shirt,Accessories,Green,Nevada,M,Male,Express,PayPal,1,1,Fall,Monthly,3,61.28,29,Accessories_T-shirt_Green,Accessories_T-shirt_M,Accessories_T-shirt_Nevada,41.41,Não-Alta,Baixa
+Dress,Clothing,Black,Florida,S,Male,Express,PayPal,0,1,Winter,Occasionally,0,413.1,64,Clothing_Dress_Black,Clothing_Dress_S,Clothing_Dress_Florida,87.7,Alta,Alta probabilidade
+Shoes,Accessories,Green,California,M,Female,Standard,Credit Card,0,1,Summer,Monthly,0,112.92,67,Accessories_Shoes_Green,Accessories_Shoes_M,Accessories_Shoes_California,50.28,Alta,Moderada
+Jeans,Accessories,Blue,Florida,S,Male,Express,Debit Card,0,1,Summer,Occasionally,9,203.1,22,Accessories_Jeans_Blue,Accessories_Jeans_S,Accessories_Jeans_Florida,59.29,Alta,Moderada
+Jacket,Outerwear,White,California,XL,Male,Standard,Debit Card,1,0,Summer,Weekly,0,165.14,56,Outerwear_Jacket_White,Outerwear_Jacket_XL,Outerwear_Jacket_California,65.0,Alta,Moderada
+Shoes,Accessories,Blue,New York,XL,Male,Standard,Debit Card,1,1,Summer,Monthly,6,206.08,28,Accessories_Shoes_Blue,Accessories_Shoes_XL,Accessories_Shoes_New York,71.68,Alta,Alta probabilidade
+Jacket,Footwear,Yellow,Texas,S,Male,Express,PayPal,1,1,Winter,Occasionally,6,83.74,28,Footwear_Jacket_Yellow,Footwear_Jacket_S,Footwear_Jacket_Texas,76.44,Alta,Alta probabilidade
+Jeans,Accessories,Red,Texas,L,Male,Express,Credit Card,1,0,Summer,Weekly,3,256.75,64,Accessories_Jeans_Red,Accessories_Jeans_L,Accessories_Jeans_Texas,68.05,Alta,Moderada
+Jeans,Footwear,Green,Florida,XL,Female,Standard,Debit Card,1,1,Spring,Occasionally,1,402.8,59,Footwear_Jeans_Green,Footwear_Jeans_XL,Footwear_Jeans_Florida,81.67,Alta,Alta probabilidade
+Shoes,Footwear,Green,Texas,M,Male,Standard,PayPal,0,1,Spring,Weekly,2,226.35,64,Footwear_Shoes_Green,Footwear_Shoes_M,Footwear_Shoes_Texas,46.7,Não-Alta,Baixa
+Jeans,Footwear,Green,Florida,S,Male,Express,Debit Card,0,1,Summer,Weekly,7,250.4,48,Footwear_Jeans_Green,Footwear_Jeans_S,Footwear_Jeans_Florida,61.73,Alta,Moderada
+Dress,Clothing,Blue,Florida,M,Male,Express,Credit Card,0,0,Spring,Occasionally,7,425.9,48,Clothing_Dress_Blue,Clothing_Dress_M,Clothing_Dress_Florida,83.65,Alta,Alta probabilidade
+Jeans,Outerwear,Red,Florida,M,Male,Express,Debit Card,1,1,Fall,Occasionally,5,355.97,30,Outerwear_Jeans_Red,Outerwear_Jeans_M,Outerwear_Jeans_Florida,66.81,Alta,Moderada
+Jacket,Footwear,White,Texas,L,Male,Express,Credit Card,0,1,Winter,Weekly,9,250.32,31,Footwear_Jacket_White,Footwear_Jacket_L,Footwear_Jacket_Texas,85.75,Alta,Alta probabilidade
+Jacket,Footwear,Yellow,Florida,M,Male,Standard,Credit Card,0,0,Summer,Weekly,8,136.27,66,Footwear_Jacket_Yellow,Footwear_Jacket_M,Footwear_Jacket_Florida,70.76,Alta,Alta probabilidade
+Jacket,Clothing,White,Texas,L,Male,Express,Debit Card,1,0,Summer,Weekly,8,443.61,62,Clothing_Jacket_White,Clothing_Jacket_L,Clothing_Jacket_Texas,85.98,Alta,Alta probabilidade
+Jacket,Footwear,Blue,Florida,XL,Male,Standard,Debit Card,1,1,Winter,Monthly,3,292.74,59,Footwear_Jacket_Blue,Footwear_Jacket_XL,Footwear_Jacket_Florida,81.19,Alta,Alta probabilidade
+Dress,Accessories,Yellow,Nevada,S,Male,Standard,Credit Card,0,1,Spring,Weekly,0,118.36,42,Accessories_Dress_Yellow,Accessories_Dress_S,Accessories_Dress_Nevada,77.59,Alta,Alta probabilidade
+T-shirt,Accessories,Green,Florida,M,Male,Express,PayPal,0,0,Winter,Monthly,0,141.87,50,Accessories_T-shirt_Green,Accessories_T-shirt_M,Accessories_T-shirt_Florida,52.4,Alta,Moderada
+Shoes,Outerwear,Black,California,S,Female,Standard,Credit Card,1,1,Winter,Weekly,9,403.54,50,Outerwear_Shoes_Black,Outerwear_Shoes_S,Outerwear_Shoes_California,88.88,Alta,Alta probabilidade
+Jacket,Footwear,Blue,Florida,M,Female,Express,Debit Card,1,0,Spring,Monthly,4,31.63,32,Footwear_Jacket_Blue,Footwear_Jacket_M,Footwear_Jacket_Florida,41.44,Não-Alta,Baixa
+Jeans,Clothing,Blue,New York,S,Female,Standard,Debit Card,1,1,Winter,Weekly,1,496.13,33,Clothing_Jeans_Blue,Clothing_Jeans_S,Clothing_Jeans_New York,51.07,Alta,Moderada
+Jacket,Accessories,Red,Florida,M,Female,Express,PayPal,1,0,Spring,Weekly,5,73.87,61,Accessories_Jacket_Red,Accessories_Jacket_M,Accessories_Jacket_Florida,40.33,Não-Alta,Baixa
+Jeans,Clothing,White,California,M,Male,Standard,Credit Card,0,1,Spring,Weekly,6,400.07,55,Clothing_Jeans_White,Clothing_Jeans_M,Clothing_Jeans_California,78.56,Alta,Alta probabilidade
+Jeans,Clothing,Blue,California,M,Female,Standard,Credit Card,0,0,Winter,Occasionally,0,203.44,23,Clothing_Jeans_Blue,Clothing_Jeans_M,Clothing_Jeans_California,37.38,Não-Alta,Baixa
+Jacket,Accessories,Blue,Texas,M,Female,Express,Credit Card,1,0,Fall,Occasionally,5,251.19,61,Accessories_Jacket_Blue,Accessories_Jacket_M,Accessories_Jacket_Texas,68.59,Alta,Moderada
+Dress,Clothing,Green,Nevada,M,Male,Express,Debit Card,0,0,Spring,Weekly,7,441.52,42,Clothing_Dress_Green,Clothing_Dress_M,Clothing_Dress_Nevada,74.88,Alta,Alta probabilidade
+Jeans,Accessories,Green,Florida,M,Female,Standard,Credit Card,0,0,Winter,Monthly,4,212.33,32,Accessories_Jeans_Green,Accessories_Jeans_M,Accessories_Jeans_Florida,56.34,Alta,Moderada
+Jeans,Clothing,Yellow,Texas,M,Female,Standard,PayPal,1,0,Spring,Monthly,6,273.37,21,Clothing_Jeans_Yellow,Clothing_Jeans_M,Clothing_Jeans_Texas,72.3,Alta,Alta probabilidade
+Jacket,Accessories,Black,Nevada,M,Male,Express,Debit Card,0,1,Fall,Weekly,9,34.16,21,Accessories_Jacket_Black,Accessories_Jacket_M,Accessories_Jacket_Nevada,53.29,Alta,Moderada
+Jeans,Footwear,Red,Florida,M,Male,Standard,Debit Card,0,1,Fall,Occasionally,5,11.15,47,Footwear_Jeans_Red,Footwear_Jeans_M,Footwear_Jeans_Florida,37.55,Não-Alta,Baixa
+Jeans,Outerwear,Black,New York,S,Male,Express,Credit Card,0,0,Summer,Monthly,3,129.95,51,Outerwear_Jeans_Black,Outerwear_Jeans_S,Outerwear_Jeans_New York,61.34,Alta,Moderada
+Jacket,Accessories,Yellow,Florida,L,Female,Standard,PayPal,1,1,Spring,Occasionally,6,343.49,44,Accessories_Jacket_Yellow,Accessories_Jacket_L,Accessories_Jacket_Florida,86.38,Alta,Alta probabilidade
+Jacket,Accessories,Green,California,M,Female,Express,Debit Card,1,1,Spring,Monthly,9,69.42,48,Accessories_Jacket_Green,Accessories_Jacket_M,Accessories_Jacket_California,45.33,Não-Alta,Baixa
+Shoes,Outerwear,White,California,L,Male,Standard,Debit Card,0,1,Winter,Weekly,8,65.74,49,Outerwear_Shoes_White,Outerwear_Shoes_L,Outerwear_Shoes_California,59.43,Alta,Moderada
+Dress,Accessories,Green,New York,M,Male,Express,Credit Card,1,1,Spring,Occasionally,9,211.37,61,Accessories_Dress_Green,Accessories_Dress_M,Accessories_Dress_New York,59.17,Alta,Moderada
+Dress,Accessories,Red,Texas,M,Female,Express,Credit Card,1,1,Summer,Monthly,9,327.44,56,Accessories_Dress_Red,Accessories_Dress_M,Accessories_Dress_Texas,78.38,Alta,Alta probabilidade
+Jeans,Clothing,Green,Nevada,S,Male,Standard,PayPal,1,1,Fall,Weekly,6,358.92,69,Clothing_Jeans_Green,Clothing_Jeans_S,Clothing_Jeans_Nevada,40.56,Não-Alta,Baixa
+Dress,Outerwear,Red,Florida,XL,Female,Express,Credit Card,0,0,Fall,Weekly,4,97.44,26,Outerwear_Dress_Red,Outerwear_Dress_XL,Outerwear_Dress_Florida,61.55,Alta,Moderada
+Jeans,Footwear,Red,California,XL,Male,Standard,PayPal,0,1,Summer,Weekly,6,49.0,58,Footwear_Jeans_Red,Footwear_Jeans_XL,Footwear_Jeans_California,56.32,Alta,Moderada
+Shoes,Accessories,Red,Texas,S,Male,Express,Debit Card,1,1,Spring,Occasionally,2,470.79,25,Accessories_Shoes_Red,Accessories_Shoes_S,Accessories_Shoes_Texas,90.62,Alta,Alta probabilidade
+Jacket,Outerwear,Yellow,New York,L,Female,Express,PayPal,0,1,Spring,Occasionally,1,137.73,31,Outerwear_Jacket_Yellow,Outerwear_Jacket_L,Outerwear_Jacket_New York,73.12,Alta,Alta probabilidade
+Jacket,Clothing,Red,California,XL,Male,Express,PayPal,0,0,Summer,Weekly,4,428.14,50,Clothing_Jacket_Red,Clothing_Jacket_XL,Clothing_Jacket_California,85.22,Alta,Alta probabilidade
+Jacket,Footwear,Red,New York,S,Male,Standard,PayPal,0,1,Winter,Occasionally,3,433.11,40,Footwear_Jacket_Red,Footwear_Jacket_S,Footwear_Jacket_New York,88.3,Alta,Alta probabilidade
+Dress,Outerwear,White,Florida,S,Male,Express,Debit Card,0,1,Fall,Monthly,4,388.54,38,Outerwear_Dress_White,Outerwear_Dress_S,Outerwear_Dress_Florida,84.34,Alta,Alta probabilidade
+Shoes,Footwear,Black,Nevada,XL,Female,Standard,Credit Card,0,1,Summer,Weekly,7,92.73,29,Footwear_Shoes_Black,Footwear_Shoes_XL,Footwear_Shoes_Nevada,81.16,Alta,Alta probabilidade
+Dress,Footwear,Blue,California,L,Male,Express,Debit Card,1,0,Summer,Weekly,3,412.68,19,Footwear_Dress_Blue,Footwear_Dress_L,Footwear_Dress_California,82.14,Alta,Alta probabilidade
+Dress,Footwear,Black,California,S,Male,Standard,Credit Card,0,1,Spring,Occasionally,8,386.93,30,Footwear_Dress_Black,Footwear_Dress_S,Footwear_Dress_California,93.03,Alta,Alta probabilidade
+Shoes,Accessories,Red,Florida,M,Male,Standard,PayPal,0,0,Fall,Weekly,6,302.39,21,Accessories_Shoes_Red,Accessories_Shoes_M,Accessories_Shoes_Florida,70.05,Alta,Alta probabilidade
+Shoes,Accessories,White,Texas,L,Male,Standard,PayPal,0,1,Spring,Monthly,9,175.23,37,Accessories_Shoes_White,Accessories_Shoes_L,Accessories_Shoes_Texas,79.0,Alta,Alta probabilidade
+Shoes,Clothing,Green,Nevada,L,Male,Express,PayPal,1,0,Summer,Occasionally,6,138.63,67,Clothing_Shoes_Green,Clothing_Shoes_L,Clothing_Shoes_Nevada,32.28,Não-Alta,Baixa
+Shoes,Clothing,White,California,XL,Male,Standard,PayPal,1,0,Winter,Occasionally,7,69.73,68,Clothing_Shoes_White,Clothing_Shoes_XL,Clothing_Shoes_California,52.79,Alta,Moderada
+Jacket,Outerwear,Red,Nevada,XL,Female,Express,PayPal,1,0,Fall,Weekly,5,259.78,65,Outerwear_Jacket_Red,Outerwear_Jacket_XL,Outerwear_Jacket_Nevada,61.34,Alta,Moderada
+T-shirt,Clothing,White,California,M,Female,Standard,Credit Card,0,1,Summer,Weekly,7,296.78,31,Clothing_T-shirt_White,Clothing_T-shirt_M,Clothing_T-shirt_California,80.93,Alta,Alta probabilidade
+T-shirt,Footwear,White,Nevada,S,Male,Standard,Credit Card,1,0,Summer,Weekly,2,186.08,47,Footwear_T-shirt_White,Footwear_T-shirt_S,Footwear_T-shirt_Nevada,72.6,Alta,Alta probabilidade
+Shoes,Footwear,Red,New York,XL,Female,Standard,PayPal,1,0,Winter,Occasionally,9,242.93,46,Footwear_Shoes_Red,Footwear_Shoes_XL,Footwear_Shoes_New York,62.26,Alta,Moderada
+T-shirt,Accessories,Yellow,California,XL,Female,Standard,Debit Card,1,0,Summer,Weekly,9,188.12,25,Accessories_T-shirt_Yellow,Accessories_T-shirt_XL,Accessories_T-shirt_California,84.54,Alta,Alta probabilidade
+T-shirt,Footwear,White,Nevada,L,Male,Express,Debit Card,1,0,Summer,Monthly,0,324.09,29,Footwear_T-shirt_White,Footwear_T-shirt_L,Footwear_T-shirt_Nevada,78.25,Alta,Alta probabilidade
+Shoes,Outerwear,Blue,Texas,XL,Female,Standard,PayPal,0,1,Fall,Weekly,5,451.62,58,Outerwear_Shoes_Blue,Outerwear_Shoes_XL,Outerwear_Shoes_Texas,91.51,Alta,Alta probabilidade
+T-shirt,Footwear,Blue,New York,XL,Female,Standard,Credit Card,1,1,Fall,Weekly,0,90.32,55,Footwear_T-shirt_Blue,Footwear_T-shirt_XL,Footwear_T-shirt_New York,68.52,Alta,Moderada
+Dress,Footwear,White,New York,XL,Female,Express,Debit Card,1,1,Fall,Occasionally,8,196.89,43,Footwear_Dress_White,Footwear_Dress_XL,Footwear_Dress_New York,71.13,Alta,Alta probabilidade
+Jeans,Outerwear,Yellow,Texas,XL,Female,Standard,Debit Card,0,1,Spring,Weekly,1,79.03,67,Outerwear_Jeans_Yellow,Outerwear_Jeans_XL,Outerwear_Jeans_Texas,79.49,Alta,Alta probabilidade
+Jeans,Clothing,Green,Nevada,L,Female,Standard,Debit Card,0,0,Winter,Occasionally,1,316.22,19,Clothing_Jeans_Green,Clothing_Jeans_L,Clothing_Jeans_Nevada,75.18,Alta,Alta probabilidade
+Shoes,Clothing,Red,Florida,M,Female,Standard,PayPal,1,1,Fall,Weekly,6,367.15,57,Clothing_Shoes_Red,Clothing_Shoes_M,Clothing_Shoes_Florida,66.96,Alta,Moderada
+Jacket,Outerwear,Blue,Texas,M,Female,Standard,Debit Card,0,0,Spring,Monthly,1,466.64,31,Outerwear_Jacket_Blue,Outerwear_Jacket_M,Outerwear_Jacket_Texas,94.26,Alta,Alta probabilidade
+Shoes,Accessories,Green,Nevada,S,Female,Express,Debit Card,1,1,Spring,Monthly,9,146.65,23,Accessories_Shoes_Green,Accessories_Shoes_S,Accessories_Shoes_Nevada,51.84,Alta,Moderada
+Jacket,Footwear,White,Texas,XL,Male,Express,Debit Card,0,1,Winter,Occasionally,7,475.6,59,Footwear_Jacket_White,Footwear_Jacket_XL,Footwear_Jacket_Texas,94.58,Alta,Alta probabilidade
+Jeans,Outerwear,Green,Texas,L,Male,Standard,Debit Card,0,1,Winter,Occasionally,5,41.0,57,Outerwear_Jeans_Green,Outerwear_Jeans_L,Outerwear_Jeans_Texas,51.85,Alta,Moderada
+Shoes,Footwear,Black,California,S,Female,Express,Credit Card,1,0,Summer,Weekly,6,305.48,48,Footwear_Shoes_Black,Footwear_Shoes_S,Footwear_Shoes_California,61.61,Alta,Moderada
+Dress,Accessories,Blue,Nevada,S,Female,Express,PayPal,0,1,Spring,Weekly,6,38.0,34,Accessories_Dress_Blue,Accessories_Dress_S,Accessories_Dress_Nevada,47.49,Não-Alta,Baixa
+T-shirt,Footwear,White,Florida,M,Male,Standard,PayPal,1,1,Fall,Monthly,5,447.95,42,Footwear_T-shirt_White,Footwear_T-shirt_M,Footwear_T-shirt_Florida,87.91,Alta,Alta probabilidade
+Jacket,Outerwear,Red,California,L,Female,Express,Credit Card,0,1,Winter,Weekly,9,269.61,49,Outerwear_Jacket_Red,Outerwear_Jacket_L,Outerwear_Jacket_California,69.15,Alta,Moderada
+T-shirt,Footwear,Yellow,Texas,L,Female,Standard,Credit Card,1,0,Spring,Monthly,8,337.98,29,Footwear_T-shirt_Yellow,Footwear_T-shirt_L,Footwear_T-shirt_Texas,93.83,Alta,Alta probabilidade
+T-shirt,Clothing,White,Texas,L,Male,Express,PayPal,0,1,Fall,Occasionally,8,417.47,66,Clothing_T-shirt_White,Clothing_T-shirt_L,Clothing_T-shirt_Texas,94.32,Alta,Alta probabilidade
+Shoes,Accessories,Red,Texas,M,Male,Express,Debit Card,0,1,Spring,Weekly,6,83.65,30,Accessories_Shoes_Red,Accessories_Shoes_M,Accessories_Shoes_Texas,62.16,Alta,Moderada
+T-shirt,Accessories,Yellow,Nevada,M,Male,Express,Debit Card,0,0,Winter,Occasionally,8,28.91,36,Accessories_T-shirt_Yellow,Accessories_T-shirt_M,Accessories_T-shirt_Nevada,56.32,Alta,Moderada
+Dress,Accessories,Yellow,Nevada,M,Female,Standard,PayPal,0,0,Summer,Weekly,9,440.65,61,Accessories_Dress_Yellow,Accessories_Dress_M,Accessories_Dress_Nevada,85.71,Alta,Alta probabilidade
+T-shirt,Outerwear,White,California,M,Female,Express,Debit Card,0,1,Spring,Monthly,2,164.32,65,Outerwear_T-shirt_White,Outerwear_T-shirt_M,Outerwear_T-shirt_California,69.54,Alta,Moderada
+Shoes,Accessories,Green,Florida,M,Male,Standard,Credit Card,1,1,Fall,Occasionally,2,73.2,42,Accessories_Shoes_Green,Accessories_Shoes_M,Accessories_Shoes_Florida,42.13,Não-Alta,Baixa
+Dress,Clothing,Green,California,XL,Male,Standard,Debit Card,0,1,Winter,Occasionally,0,239.55,48,Clothing_Dress_Green,Clothing_Dress_XL,Clothing_Dress_California,76.94,Alta,Alta probabilidade
+Jeans,Outerwear,Yellow,New York,XL,Female,Express,Debit Card,1,0,Summer,Weekly,4,303.17,54,Outerwear_Jeans_Yellow,Outerwear_Jeans_XL,Outerwear_Jeans_New York,78.53,Alta,Alta probabilidade
+T-shirt,Clothing,Green,Texas,L,Male,Standard,Debit Card,1,0,Fall,Occasionally,3,25.18,42,Clothing_T-shirt_Green,Clothing_T-shirt_L,Clothing_T-shirt_Texas,65.53,Alta,Moderada
+Shoes,Footwear,Black,Texas,S,Female,Express,PayPal,1,0,Fall,Monthly,1,144.7,33,Footwear_Shoes_Black,Footwear_Shoes_S,Footwear_Shoes_Texas,29.18,Não-Alta,Baixa
+Jeans,Footwear,Yellow,Texas,L,Female,Standard,Credit Card,0,1,Fall,Occasionally,8,26.07,55,Footwear_Jeans_Yellow,Footwear_Jeans_L,Footwear_Jeans_Texas,67.73,Alta,Moderada
+Jeans,Footwear,Yellow,California,S,Male,Standard,Debit Card,1,0,Spring,Occasionally,2,215.96,60,Footwear_Jeans_Yellow,Footwear_Jeans_S,Footwear_Jeans_California,76.45,Alta,Alta probabilidade
+Jacket,Footwear,Red,California,M,Male,Express,PayPal,0,1,Winter,Weekly,7,448.6,66,Footwear_Jacket_Red,Footwear_Jacket_M,Footwear_Jacket_California,84.48,Alta,Alta probabilidade
+Dress,Clothing,Green,Texas,S,Female,Express,Debit Card,1,0,Fall,Occasionally,5,491.5,40,Clothing_Dress_Green,Clothing_Dress_S,Clothing_Dress_Texas,60.31,Alta,Moderada
+T-shirt,Outerwear,Yellow,California,L,Male,Express,Credit Card,1,0,Spring,Weekly,4,322.15,31,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_L,Outerwear_T-shirt_California,89.35,Alta,Alta probabilidade
+Shoes,Outerwear,Black,Nevada,L,Male,Express,Debit Card,1,0,Winter,Weekly,0,89.2,23,Outerwear_Shoes_Black,Outerwear_Shoes_L,Outerwear_Shoes_Nevada,53.63,Alta,Moderada
+Jacket,Accessories,Red,Nevada,S,Male,Standard,Credit Card,1,1,Winter,Occasionally,3,453.87,42,Accessories_Jacket_Red,Accessories_Jacket_S,Accessories_Jacket_Nevada,87.04,Alta,Alta probabilidade
+Dress,Clothing,White,California,XL,Male,Standard,Debit Card,1,1,Spring,Monthly,2,262.96,40,Clothing_Dress_White,Clothing_Dress_XL,Clothing_Dress_California,79.8,Alta,Alta probabilidade
+Jacket,Footwear,Yellow,Texas,M,Female,Standard,Credit Card,0,1,Spring,Weekly,0,85.34,60,Footwear_Jacket_Yellow,Footwear_Jacket_M,Footwear_Jacket_Texas,80.6,Alta,Alta probabilidade
+Dress,Clothing,Black,California,M,Female,Express,Debit Card,1,1,Fall,Occasionally,4,461.65,29,Clothing_Dress_Black,Clothing_Dress_M,Clothing_Dress_California,94.88,Alta,Alta probabilidade
+Dress,Accessories,Blue,California,L,Female,Standard,Credit Card,1,0,Winter,Weekly,5,381.16,30,Accessories_Dress_Blue,Accessories_Dress_L,Accessories_Dress_California,82.51,Alta,Alta probabilidade
+T-shirt,Accessories,Black,California,XL,Female,Express,Debit Card,0,1,Summer,Monthly,1,368.54,53,Accessories_T-shirt_Black,Accessories_T-shirt_XL,Accessories_T-shirt_California,90.97,Alta,Alta probabilidade
+Dress,Clothing,Black,New York,S,Male,Standard,Debit Card,0,0,Spring,Monthly,2,357.5,56,Clothing_Dress_Black,Clothing_Dress_S,Clothing_Dress_New York,93.63,Alta,Alta probabilidade
+Jacket,Clothing,Red,Nevada,M,Male,Express,PayPal,0,1,Winter,Weekly,5,108.17,51,Clothing_Jacket_Red,Clothing_Jacket_M,Clothing_Jacket_Nevada,44.53,Não-Alta,Baixa
+Dress,Clothing,White,Florida,XL,Female,Standard,PayPal,1,1,Winter,Monthly,3,113.39,23,Clothing_Dress_White,Clothing_Dress_XL,Clothing_Dress_Florida,57.71,Alta,Moderada
+T-shirt,Outerwear,Blue,Florida,M,Female,Standard,Credit Card,1,0,Fall,Occasionally,8,347.26,55,Outerwear_T-shirt_Blue,Outerwear_T-shirt_M,Outerwear_T-shirt_Florida,75.65,Alta,Alta probabilidade
+T-shirt,Footwear,Green,New York,XL,Male,Express,Debit Card,1,0,Summer,Occasionally,4,117.66,67,Footwear_T-shirt_Green,Footwear_T-shirt_XL,Footwear_T-shirt_New York,57.73,Alta,Moderada
+Jacket,Clothing,Green,California,XL,Female,Standard,Credit Card,1,1,Fall,Weekly,3,224.95,69,Clothing_Jacket_Green,Clothing_Jacket_XL,Clothing_Jacket_California,70.53,Alta,Alta probabilidade
+Jeans,Clothing,Black,New York,L,Female,Express,PayPal,1,1,Summer,Monthly,1,393.18,57,Clothing_Jeans_Black,Clothing_Jeans_L,Clothing_Jeans_New York,87.76,Alta,Alta probabilidade
+Jeans,Clothing,Red,New York,M,Male,Standard,Credit Card,1,0,Summer,Occasionally,5,394.14,25,Clothing_Jeans_Red,Clothing_Jeans_M,Clothing_Jeans_New York,68.62,Alta,Moderada
+Dress,Accessories,Red,Texas,S,Female,Standard,Credit Card,0,0,Spring,Occasionally,9,232.1,25,Accessories_Dress_Red,Accessories_Dress_S,Accessories_Dress_Texas,83.1,Alta,Alta probabilidade
+Shoes,Accessories,Green,Nevada,L,Male,Express,PayPal,0,0,Winter,Occasionally,1,398.17,57,Accessories_Shoes_Green,Accessories_Shoes_L,Accessories_Shoes_Nevada,69.83,Alta,Moderada
+Dress,Outerwear,Blue,Florida,L,Male,Express,Debit Card,1,0,Winter,Weekly,6,420.92,50,Outerwear_Dress_Blue,Outerwear_Dress_L,Outerwear_Dress_Florida,78.27,Alta,Alta probabilidade
+Jacket,Footwear,White,California,S,Female,Standard,Credit Card,1,0,Winter,Weekly,2,330.84,51,Footwear_Jacket_White,Footwear_Jacket_S,Footwear_Jacket_California,83.81,Alta,Alta probabilidade
+Jacket,Outerwear,Blue,Florida,L,Male,Standard,PayPal,1,1,Summer,Occasionally,8,121.93,61,Outerwear_Jacket_Blue,Outerwear_Jacket_L,Outerwear_Jacket_Florida,73.59,Alta,Alta probabilidade
+Jacket,Footwear,Yellow,Florida,XL,Female,Standard,Debit Card,1,1,Winter,Occasionally,4,144.27,32,Footwear_Jacket_Yellow,Footwear_Jacket_XL,Footwear_Jacket_Florida,79.88,Alta,Alta probabilidade
+Jacket,Accessories,Yellow,Nevada,XL,Male,Standard,PayPal,1,1,Spring,Monthly,7,164.27,53,Accessories_Jacket_Yellow,Accessories_Jacket_XL,Accessories_Jacket_Nevada,80.27,Alta,Alta probabilidade
+Jacket,Accessories,White,Florida,M,Female,Standard,Credit Card,0,1,Summer,Monthly,5,67.23,52,Accessories_Jacket_White,Accessories_Jacket_M,Accessories_Jacket_Florida,55.73,Alta,Moderada
+T-shirt,Accessories,Green,Florida,M,Female,Standard,Debit Card,0,0,Summer,Monthly,9,143.85,63,Accessories_T-shirt_Green,Accessories_T-shirt_M,Accessories_T-shirt_Florida,53.36,Alta,Moderada
+Jeans,Outerwear,White,New York,S,Female,Express,Debit Card,1,0,Summer,Weekly,7,112.66,39,Outerwear_Jeans_White,Outerwear_Jeans_S,Outerwear_Jeans_New York,46.44,Não-Alta,Baixa
+Jacket,Clothing,Red,Nevada,M,Male,Express,PayPal,0,0,Summer,Occasionally,2,233.11,40,Clothing_Jacket_Red,Clothing_Jacket_M,Clothing_Jacket_Nevada,53.74,Alta,Moderada
+Shoes,Clothing,Yellow,Texas,XL,Male,Express,PayPal,1,1,Spring,Weekly,2,455.13,57,Clothing_Shoes_Yellow,Clothing_Shoes_XL,Clothing_Shoes_Texas,93.8,Alta,Alta probabilidade
+Shoes,Accessories,Black,California,S,Female,Standard,PayPal,1,0,Winter,Occasionally,4,61.2,62,Accessories_Shoes_Black,Accessories_Shoes_S,Accessories_Shoes_California,53.71,Alta,Moderada
+Shoes,Clothing,Black,Florida,S,Male,Standard,Debit Card,1,0,Spring,Monthly,9,362.93,68,Clothing_Shoes_Black,Clothing_Shoes_S,Clothing_Shoes_Florida,80.98,Alta,Alta probabilidade
+Shoes,Clothing,Green,California,M,Female,Standard,Debit Card,0,1,Winter,Monthly,2,346.77,39,Clothing_Shoes_Green,Clothing_Shoes_M,Clothing_Shoes_California,72.34,Alta,Alta probabilidade
+T-shirt,Outerwear,Red,Texas,XL,Female,Express,Credit Card,0,1,Spring,Monthly,7,56.92,22,Outerwear_T-shirt_Red,Outerwear_T-shirt_XL,Outerwear_T-shirt_Texas,79.27,Alta,Alta probabilidade
+Shoes,Footwear,Blue,California,S,Male,Express,Debit Card,1,1,Fall,Monthly,9,462.06,48,Footwear_Shoes_Blue,Footwear_Shoes_S,Footwear_Shoes_California,60.35,Alta,Moderada
+Jacket,Accessories,Red,Texas,XL,Female,Standard,Credit Card,0,0,Fall,Occasionally,7,288.55,30,Accessories_Jacket_Red,Accessories_Jacket_XL,Accessories_Jacket_Texas,87.68,Alta,Alta probabilidade
+Dress,Accessories,Black,New York,XL,Male,Standard,PayPal,0,0,Fall,Monthly,1,188.23,45,Accessories_Dress_Black,Accessories_Dress_XL,Accessories_Dress_New York,78.89,Alta,Alta probabilidade
+Shoes,Outerwear,Black,Florida,XL,Female,Express,PayPal,1,1,Fall,Occasionally,3,380.7,37,Outerwear_Shoes_Black,Outerwear_Shoes_XL,Outerwear_Shoes_Florida,84.63,Alta,Alta probabilidade
+T-shirt,Outerwear,Yellow,Texas,M,Male,Express,Debit Card,0,1,Summer,Occasionally,9,136.11,50,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_M,Outerwear_T-shirt_Texas,79.1,Alta,Alta probabilidade
+T-shirt,Clothing,Red,California,L,Female,Express,PayPal,0,0,Summer,Weekly,0,349.82,33,Clothing_T-shirt_Red,Clothing_T-shirt_L,Clothing_T-shirt_California,78.82,Alta,Alta probabilidade
+Shoes,Accessories,Red,Florida,L,Female,Standard,PayPal,1,1,Spring,Monthly,3,29.46,46,Accessories_Shoes_Red,Accessories_Shoes_L,Accessories_Shoes_Florida,44.01,Não-Alta,Baixa
+Dress,Footwear,Black,New York,S,Male,Standard,Debit Card,1,0,Spring,Monthly,3,421.31,40,Footwear_Dress_Black,Footwear_Dress_S,Footwear_Dress_New York,90.58,Alta,Alta probabilidade
+Shoes,Outerwear,Blue,Florida,XL,Female,Standard,Credit Card,0,1,Fall,Weekly,9,229.6,41,Outerwear_Shoes_Blue,Outerwear_Shoes_XL,Outerwear_Shoes_Florida,75.74,Alta,Alta probabilidade
+T-shirt,Footwear,Green,Texas,M,Female,Express,Debit Card,1,1,Winter,Occasionally,8,321.98,51,Footwear_T-shirt_Green,Footwear_T-shirt_M,Footwear_T-shirt_Texas,79.34,Alta,Alta probabilidade
+Jeans,Footwear,Green,New York,XL,Male,Express,Credit Card,0,1,Fall,Monthly,2,118.41,24,Footwear_Jeans_Green,Footwear_Jeans_XL,Footwear_Jeans_New York,60.95,Alta,Moderada
+Jacket,Accessories,Red,California,XL,Female,Standard,Debit Card,1,0,Spring,Occasionally,1,341.77,55,Accessories_Jacket_Red,Accessories_Jacket_XL,Accessories_Jacket_California,84.11,Alta,Alta probabilidade
+T-shirt,Accessories,Green,New York,M,Male,Standard,Debit Card,1,0,Fall,Weekly,8,388.4,54,Accessories_T-shirt_Green,Accessories_T-shirt_M,Accessories_T-shirt_New York,77.42,Alta,Alta probabilidade
+Shoes,Outerwear,Black,New York,L,Female,Express,PayPal,1,1,Spring,Occasionally,8,241.87,21,Outerwear_Shoes_Black,Outerwear_Shoes_L,Outerwear_Shoes_New York,73.74,Alta,Alta probabilidade
+Jacket,Accessories,Black,Nevada,XL,Male,Standard,Debit Card,1,0,Fall,Monthly,0,312.69,51,Accessories_Jacket_Black,Accessories_Jacket_XL,Accessories_Jacket_Nevada,84.04,Alta,Alta probabilidade
+Shoes,Accessories,Red,New York,XL,Female,Express,Debit Card,0,1,Winter,Occasionally,5,233.6,59,Accessories_Shoes_Red,Accessories_Shoes_XL,Accessories_Shoes_New York,69.6,Alta,Moderada
+Shoes,Accessories,Red,New York,L,Female,Express,Credit Card,1,1,Fall,Occasionally,9,448.1,39,Accessories_Shoes_Red,Accessories_Shoes_L,Accessories_Shoes_New York,80.42,Alta,Alta probabilidade
+Jeans,Footwear,Yellow,Florida,M,Female,Standard,PayPal,1,0,Winter,Monthly,7,253.96,22,Footwear_Jeans_Yellow,Footwear_Jeans_M,Footwear_Jeans_Florida,72.04,Alta,Alta probabilidade
+Jacket,Outerwear,Red,California,S,Male,Express,Credit Card,1,0,Winter,Monthly,2,422.49,67,Outerwear_Jacket_Red,Outerwear_Jacket_S,Outerwear_Jacket_California,77.65,Alta,Alta probabilidade
+Jacket,Clothing,Blue,Florida,L,Male,Standard,Credit Card,0,0,Spring,Occasionally,8,402.66,59,Clothing_Jacket_Blue,Clothing_Jacket_L,Clothing_Jacket_Florida,82.65,Alta,Alta probabilidade
+Jeans,Footwear,Green,Florida,S,Male,Express,PayPal,0,0,Winter,Occasionally,1,211.15,40,Footwear_Jeans_Green,Footwear_Jeans_S,Footwear_Jeans_Florida,54.74,Alta,Moderada
+T-shirt,Accessories,Red,Texas,S,Male,Express,PayPal,1,1,Summer,Weekly,5,122.74,32,Accessories_T-shirt_Red,Accessories_T-shirt_S,Accessories_T-shirt_Texas,70.34,Alta,Alta probabilidade
+Shoes,Footwear,White,Florida,L,Female,Standard,PayPal,1,0,Summer,Monthly,0,208.98,48,Footwear_Shoes_White,Footwear_Shoes_L,Footwear_Shoes_Florida,79.31,Alta,Alta probabilidade
+Dress,Accessories,Yellow,Nevada,XL,Female,Express,Debit Card,1,0,Summer,Occasionally,6,414.85,26,Accessories_Dress_Yellow,Accessories_Dress_XL,Accessories_Dress_Nevada,88.04,Alta,Alta probabilidade
+Shoes,Accessories,White,Nevada,S,Male,Standard,PayPal,1,1,Spring,Monthly,2,121.54,60,Accessories_Shoes_White,Accessories_Shoes_S,Accessories_Shoes_Nevada,58.39,Alta,Moderada
+Shoes,Footwear,Black,Texas,S,Male,Standard,PayPal,1,1,Summer,Weekly,6,266.97,42,Footwear_Shoes_Black,Footwear_Shoes_S,Footwear_Shoes_Texas,50.13,Alta,Moderada
+T-shirt,Outerwear,Green,California,M,Male,Express,PayPal,1,1,Spring,Occasionally,3,404.99,42,Outerwear_T-shirt_Green,Outerwear_T-shirt_M,Outerwear_T-shirt_California,81.98,Alta,Alta probabilidade
+Shoes,Accessories,Red,California,XL,Female,Standard,Credit Card,0,1,Spring,Occasionally,8,183.2,66,Accessories_Shoes_Red,Accessories_Shoes_XL,Accessories_Shoes_California,75.14,Alta,Alta probabilidade
+Jeans,Outerwear,White,Florida,S,Male,Standard,Credit Card,1,0,Summer,Occasionally,4,324.68,38,Outerwear_Jeans_White,Outerwear_Jeans_S,Outerwear_Jeans_Florida,75.07,Alta,Alta probabilidade
+Jeans,Clothing,Green,Florida,M,Male,Standard,Debit Card,1,0,Winter,Monthly,2,130.36,26,Clothing_Jeans_Green,Clothing_Jeans_M,Clothing_Jeans_Florida,13.45,Não-Alta,Baixa
+Jacket,Accessories,Black,Florida,XL,Female,Standard,Credit Card,1,1,Fall,Weekly,7,63.55,65,Accessories_Jacket_Black,Accessories_Jacket_XL,Accessories_Jacket_Florida,67.64,Alta,Moderada
+Dress,Outerwear,Blue,California,L,Female,Standard,Debit Card,1,1,Spring,Monthly,5,399.25,55,Outerwear_Dress_Blue,Outerwear_Dress_L,Outerwear_Dress_California,84.24,Alta,Alta probabilidade
+Shoes,Outerwear,Yellow,New York,L,Male,Standard,Credit Card,1,0,Summer,Occasionally,1,58.49,39,Outerwear_Shoes_Yellow,Outerwear_Shoes_L,Outerwear_Shoes_New York,60.24,Alta,Moderada
+Shoes,Clothing,Green,Nevada,M,Female,Express,PayPal,1,0,Spring,Weekly,2,142.98,60,Clothing_Shoes_Green,Clothing_Shoes_M,Clothing_Shoes_Nevada,33.94,Não-Alta,Baixa
+T-shirt,Outerwear,Green,New York,L,Male,Standard,Credit Card,0,0,Winter,Occasionally,7,429.0,40,Outerwear_T-shirt_Green,Outerwear_T-shirt_L,Outerwear_T-shirt_New York,87.28,Alta,Alta probabilidade
+Jeans,Outerwear,Blue,New York,S,Female,Express,Debit Card,0,0,Winter,Occasionally,9,179.77,66,Outerwear_Jeans_Blue,Outerwear_Jeans_S,Outerwear_Jeans_New York,49.93,Não-Alta,Baixa
+Dress,Clothing,Green,California,XL,Male,Express,Credit Card,0,0,Summer,Monthly,6,486.79,21,Clothing_Dress_Green,Clothing_Dress_XL,Clothing_Dress_California,90.03,Alta,Alta probabilidade
+Jacket,Accessories,Black,New York,S,Male,Standard,PayPal,0,1,Spring,Occasionally,9,490.07,46,Accessories_Jacket_Black,Accessories_Jacket_S,Accessories_Jacket_New York,93.62,Alta,Alta probabilidade
+Jeans,Outerwear,Black,Texas,S,Male,Express,Debit Card,0,1,Fall,Weekly,5,141.46,32,Outerwear_Jeans_Black,Outerwear_Jeans_S,Outerwear_Jeans_Texas,74.18,Alta,Alta probabilidade
+Jacket,Outerwear,Blue,Florida,L,Male,Express,PayPal,0,1,Fall,Occasionally,0,30.08,18,Outerwear_Jacket_Blue,Outerwear_Jacket_L,Outerwear_Jacket_Florida,68.59,Alta,Moderada
+T-shirt,Outerwear,Yellow,Texas,S,Female,Standard,PayPal,1,1,Spring,Occasionally,8,355.48,47,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_S,Outerwear_T-shirt_Texas,93.43,Alta,Alta probabilidade
+T-shirt,Footwear,Red,Nevada,L,Female,Standard,Debit Card,1,0,Spring,Monthly,2,230.98,46,Footwear_T-shirt_Red,Footwear_T-shirt_L,Footwear_T-shirt_Nevada,71.67,Alta,Alta probabilidade
+Shoes,Clothing,White,Florida,XL,Female,Standard,PayPal,1,1,Spring,Weekly,4,59.37,37,Clothing_Shoes_White,Clothing_Shoes_XL,Clothing_Shoes_Florida,57.26,Alta,Moderada
+Dress,Footwear,Red,New York,XL,Female,Express,PayPal,1,0,Summer,Monthly,6,356.69,50,Footwear_Dress_Red,Footwear_Dress_XL,Footwear_Dress_New York,78.45,Alta,Alta probabilidade
+Jacket,Clothing,Green,Nevada,S,Male,Express,Credit Card,1,0,Winter,Occasionally,6,25.28,58,Clothing_Jacket_Green,Clothing_Jacket_S,Clothing_Jacket_Nevada,33.08,Não-Alta,Baixa
+Jeans,Accessories,White,Florida,M,Male,Standard,PayPal,1,0,Fall,Monthly,2,436.4,61,Accessories_Jeans_White,Accessories_Jeans_M,Accessories_Jeans_Florida,75.61,Alta,Alta probabilidade
+T-shirt,Accessories,Blue,New York,L,Female,Standard,PayPal,0,0,Summer,Monthly,3,77.94,53,Accessories_T-shirt_Blue,Accessories_T-shirt_L,Accessories_T-shirt_New York,53.84,Alta,Moderada
+Shoes,Outerwear,Blue,Texas,L,Female,Express,PayPal,1,0,Spring,Monthly,9,72.38,39,Outerwear_Shoes_Blue,Outerwear_Shoes_L,Outerwear_Shoes_Texas,53.51,Alta,Moderada
+Shoes,Clothing,Yellow,Florida,S,Female,Express,PayPal,0,0,Spring,Monthly,6,96.08,30,Clothing_Shoes_Yellow,Clothing_Shoes_S,Clothing_Shoes_Florida,60.46,Alta,Moderada
+Jacket,Accessories,White,New York,L,Female,Express,Debit Card,0,0,Winter,Occasionally,7,480.53,24,Accessories_Jacket_White,Accessories_Jacket_L,Accessories_Jacket_New York,87.59,Alta,Alta probabilidade
+T-shirt,Clothing,Black,Texas,L,Female,Express,Credit Card,1,1,Spring,Occasionally,1,349.65,25,Clothing_T-shirt_Black,Clothing_T-shirt_L,Clothing_T-shirt_Texas,93.4,Alta,Alta probabilidade
+Dress,Accessories,White,Nevada,M,Male,Standard,PayPal,1,0,Summer,Weekly,8,402.67,45,Accessories_Dress_White,Accessories_Dress_M,Accessories_Dress_Nevada,77.57,Alta,Alta probabilidade
+T-shirt,Footwear,Green,Nevada,M,Male,Express,PayPal,1,1,Summer,Monthly,6,204.84,62,Footwear_T-shirt_Green,Footwear_T-shirt_M,Footwear_T-shirt_Nevada,55.29,Alta,Moderada
+Jacket,Accessories,Black,Nevada,S,Male,Express,Debit Card,1,1,Winter,Monthly,7,174.79,60,Accessories_Jacket_Black,Accessories_Jacket_S,Accessories_Jacket_Nevada,67.22,Alta,Moderada
+Jacket,Footwear,Blue,Nevada,M,Female,Express,PayPal,1,0,Summer,Weekly,5,124.9,26,Footwear_Jacket_Blue,Footwear_Jacket_M,Footwear_Jacket_Nevada,44.17,Não-Alta,Baixa
+T-shirt,Accessories,White,California,S,Female,Express,Debit Card,1,0,Fall,Monthly,5,245.52,42,Accessories_T-shirt_White,Accessories_T-shirt_S,Accessories_T-shirt_California,73.6,Alta,Alta probabilidade
+Jacket,Outerwear,Red,Florida,XL,Female,Standard,Credit Card,1,1,Summer,Weekly,8,280.4,33,Outerwear_Jacket_Red,Outerwear_Jacket_XL,Outerwear_Jacket_Florida,85.22,Alta,Alta probabilidade
+T-shirt,Footwear,Yellow,Florida,S,Female,Standard,Credit Card,0,1,Summer,Occasionally,3,319.57,27,Footwear_T-shirt_Yellow,Footwear_T-shirt_S,Footwear_T-shirt_Florida,90.73,Alta,Alta probabilidade
+Jeans,Accessories,Red,California,XL,Male,Express,PayPal,1,1,Summer,Weekly,4,135.99,28,Accessories_Jeans_Red,Accessories_Jeans_XL,Accessories_Jeans_California,58.84,Alta,Moderada
+T-shirt,Outerwear,Yellow,New York,S,Male,Express,PayPal,1,1,Fall,Monthly,8,474.84,48,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_S,Outerwear_T-shirt_New York,92.24,Alta,Alta probabilidade
+T-shirt,Footwear,Green,New York,L,Female,Standard,PayPal,0,0,Spring,Weekly,0,93.18,29,Footwear_T-shirt_Green,Footwear_T-shirt_L,Footwear_T-shirt_New York,61.91,Alta,Moderada
+Jacket,Outerwear,Red,Nevada,M,Male,Standard,Debit Card,1,0,Summer,Occasionally,3,483.17,48,Outerwear_Jacket_Red,Outerwear_Jacket_M,Outerwear_Jacket_Nevada,79.2,Alta,Alta probabilidade
+Jacket,Clothing,White,Texas,XL,Male,Express,PayPal,1,0,Winter,Monthly,6,17.28,31,Clothing_Jacket_White,Clothing_Jacket_XL,Clothing_Jacket_Texas,60.9,Alta,Moderada
+Shoes,Clothing,White,New York,S,Female,Express,PayPal,0,1,Fall,Occasionally,8,245.75,68,Clothing_Shoes_White,Clothing_Shoes_S,Clothing_Shoes_New York,61.16,Alta,Moderada
+Shoes,Footwear,Red,Texas,M,Female,Standard,Credit Card,1,0,Winter,Occasionally,9,173.35,61,Footwear_Shoes_Red,Footwear_Shoes_M,Footwear_Shoes_Texas,21.54,Não-Alta,Baixa
+Jeans,Accessories,White,Florida,S,Female,Standard,PayPal,1,1,Summer,Weekly,5,230.07,49,Accessories_Jeans_White,Accessories_Jeans_S,Accessories_Jeans_Florida,63.19,Alta,Moderada
+Shoes,Footwear,Green,Texas,M,Female,Standard,Credit Card,1,0,Winter,Occasionally,7,289.63,67,Footwear_Shoes_Green,Footwear_Shoes_M,Footwear_Shoes_Texas,44.11,Não-Alta,Baixa
+T-shirt,Outerwear,Black,Florida,M,Female,Standard,PayPal,1,1,Summer,Monthly,8,223.44,34,Outerwear_T-shirt_Black,Outerwear_T-shirt_M,Outerwear_T-shirt_Florida,75.45,Alta,Alta probabilidade
+Jacket,Accessories,Green,California,S,Female,Standard,Credit Card,1,0,Fall,Occasionally,9,213.27,52,Accessories_Jacket_Green,Accessories_Jacket_S,Accessories_Jacket_California,64.65,Alta,Moderada
+Shoes,Clothing,Yellow,California,XL,Male,Standard,PayPal,1,0,Winter,Occasionally,3,369.03,18,Clothing_Shoes_Yellow,Clothing_Shoes_XL,Clothing_Shoes_California,88.69,Alta,Alta probabilidade
+Shoes,Accessories,Green,Nevada,XL,Male,Express,Credit Card,0,1,Winter,Weekly,0,346.08,46,Accessories_Shoes_Green,Accessories_Shoes_XL,Accessories_Shoes_Nevada,79.51,Alta,Alta probabilidade
+Jeans,Clothing,Yellow,New York,L,Female,Standard,Debit Card,1,1,Summer,Occasionally,7,418.3,68,Clothing_Jeans_Yellow,Clothing_Jeans_L,Clothing_Jeans_New York,85.29,Alta,Alta probabilidade
+Jeans,Accessories,White,Nevada,M,Male,Standard,Credit Card,1,1,Summer,Weekly,1,132.48,21,Accessories_Jeans_White,Accessories_Jeans_M,Accessories_Jeans_Nevada,54.15,Alta,Moderada
+T-shirt,Accessories,Black,Florida,L,Female,Standard,Credit Card,0,1,Spring,Weekly,0,308.67,40,Accessories_T-shirt_Black,Accessories_T-shirt_L,Accessories_T-shirt_Florida,89.14,Alta,Alta probabilidade
+Jacket,Accessories,White,Nevada,L,Female,Standard,Credit Card,0,1,Summer,Monthly,6,296.75,45,Accessories_Jacket_White,Accessories_Jacket_L,Accessories_Jacket_Nevada,79.13,Alta,Alta probabilidade
+Jeans,Outerwear,Blue,Texas,S,Female,Express,PayPal,1,0,Summer,Monthly,9,191.17,33,Outerwear_Jeans_Blue,Outerwear_Jeans_S,Outerwear_Jeans_Texas,60.78,Alta,Moderada
+Shoes,Outerwear,White,Florida,S,Female,Express,PayPal,0,1,Spring,Monthly,8,248.17,29,Outerwear_Shoes_White,Outerwear_Shoes_S,Outerwear_Shoes_Florida,73.66,Alta,Alta probabilidade
+Jacket,Footwear,Yellow,California,S,Male,Standard,PayPal,1,0,Summer,Monthly,8,163.75,38,Footwear_Jacket_Yellow,Footwear_Jacket_S,Footwear_Jacket_California,76.7,Alta,Alta probabilidade
+Jacket,Footwear,White,New York,M,Female,Express,Debit Card,1,0,Summer,Weekly,2,79.5,62,Footwear_Jacket_White,Footwear_Jacket_M,Footwear_Jacket_New York,44.46,Não-Alta,Baixa
+Shoes,Clothing,White,Florida,S,Male,Express,Debit Card,0,0,Spring,Occasionally,5,114.76,34,Clothing_Shoes_White,Clothing_Shoes_S,Clothing_Shoes_Florida,54.48,Alta,Moderada
+Jeans,Outerwear,Black,Florida,S,Female,Express,Credit Card,1,0,Fall,Monthly,6,61.7,57,Outerwear_Jeans_Black,Outerwear_Jeans_S,Outerwear_Jeans_Florida,46.45,Não-Alta,Baixa
+Shoes,Clothing,White,Texas,M,Female,Express,Debit Card,1,0,Fall,Monthly,9,344.7,30,Clothing_Shoes_White,Clothing_Shoes_M,Clothing_Shoes_Texas,75.26,Alta,Alta probabilidade
+Jacket,Footwear,Black,New York,M,Female,Express,Credit Card,0,1,Summer,Monthly,8,333.76,69,Footwear_Jacket_Black,Footwear_Jacket_M,Footwear_Jacket_New York,81.63,Alta,Alta probabilidade
+Dress,Clothing,Red,California,XL,Male,Express,Credit Card,0,1,Summer,Occasionally,1,475.8,49,Clothing_Dress_Red,Clothing_Dress_XL,Clothing_Dress_California,96.37,Alta,Alta probabilidade
+Dress,Footwear,Blue,Florida,S,Female,Standard,Credit Card,0,0,Spring,Monthly,7,367.54,54,Footwear_Dress_Blue,Footwear_Dress_S,Footwear_Dress_Florida,84.18,Alta,Alta probabilidade
+T-shirt,Outerwear,Black,Florida,S,Female,Standard,Debit Card,0,0,Spring,Occasionally,6,35.5,67,Outerwear_T-shirt_Black,Outerwear_T-shirt_S,Outerwear_T-shirt_Florida,64.01,Alta,Moderada
+Shoes,Accessories,Yellow,Texas,S,Female,Standard,PayPal,1,1,Fall,Weekly,3,443.28,32,Accessories_Shoes_Yellow,Accessories_Shoes_S,Accessories_Shoes_Texas,93.04,Alta,Alta probabilidade
+Shoes,Outerwear,Red,Nevada,XL,Male,Standard,Debit Card,0,1,Winter,Weekly,1,432.71,29,Outerwear_Shoes_Red,Outerwear_Shoes_XL,Outerwear_Shoes_Nevada,88.77,Alta,Alta probabilidade
+T-shirt,Clothing,Black,California,S,Male,Standard,Credit Card,0,0,Summer,Weekly,7,227.23,66,Clothing_T-shirt_Black,Clothing_T-shirt_S,Clothing_T-shirt_California,79.74,Alta,Alta probabilidade
+T-shirt,Clothing,Black,New York,XL,Male,Express,Credit Card,0,1,Winter,Occasionally,4,297.07,32,Clothing_T-shirt_Black,Clothing_T-shirt_XL,Clothing_T-shirt_New York,92.16,Alta,Alta probabilidade
+T-shirt,Outerwear,Blue,Florida,L,Female,Standard,Debit Card,0,1,Winter,Monthly,5,488.28,51,Outerwear_T-shirt_Blue,Outerwear_T-shirt_L,Outerwear_T-shirt_Florida,90.01,Alta,Alta probabilidade
+Jacket,Outerwear,Yellow,Florida,XL,Male,Standard,Credit Card,0,1,Spring,Monthly,6,270.83,23,Outerwear_Jacket_Yellow,Outerwear_Jacket_XL,Outerwear_Jacket_Florida,93.4,Alta,Alta probabilidade
+Shoes,Footwear,Green,California,L,Female,Express,Credit Card,1,0,Summer,Monthly,9,453.61,34,Footwear_Shoes_Green,Footwear_Shoes_L,Footwear_Shoes_California,80.63,Alta,Alta probabilidade
+Jacket,Clothing,Green,Nevada,S,Male,Express,Debit Card,0,1,Summer,Monthly,0,50.69,65,Clothing_Jacket_Green,Clothing_Jacket_S,Clothing_Jacket_Nevada,38.43,Não-Alta,Baixa
+T-shirt,Clothing,Black,Florida,L,Male,Standard,Debit Card,1,0,Spring,Monthly,7,103.62,66,Clothing_T-shirt_Black,Clothing_T-shirt_L,Clothing_T-shirt_Florida,69.48,Alta,Moderada
+Shoes,Outerwear,White,California,XL,Female,Express,Debit Card,0,0,Winter,Occasionally,3,225.97,37,Outerwear_Shoes_White,Outerwear_Shoes_XL,Outerwear_Shoes_California,74.34,Alta,Alta probabilidade
+Jacket,Accessories,Yellow,Texas,M,Male,Express,Credit Card,0,0,Spring,Weekly,8,296.53,26,Accessories_Jacket_Yellow,Accessories_Jacket_M,Accessories_Jacket_Texas,89.9,Alta,Alta probabilidade
+Jacket,Clothing,Red,Nevada,L,Female,Express,Credit Card,0,0,Fall,Monthly,0,409.95,22,Clothing_Jacket_Red,Clothing_Jacket_L,Clothing_Jacket_Nevada,78.59,Alta,Alta probabilidade
+T-shirt,Accessories,White,New York,L,Female,Express,PayPal,0,0,Summer,Weekly,1,494.25,40,Accessories_T-shirt_White,Accessories_T-shirt_L,Accessories_T-shirt_New York,88.72,Alta,Alta probabilidade
+Shoes,Outerwear,White,Florida,S,Male,Standard,PayPal,0,1,Fall,Occasionally,5,200.54,50,Outerwear_Shoes_White,Outerwear_Shoes_S,Outerwear_Shoes_Florida,68.06,Alta,Moderada
+T-shirt,Outerwear,Yellow,California,XL,Female,Express,Debit Card,0,0,Spring,Occasionally,9,33.23,55,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_XL,Outerwear_T-shirt_California,72.95,Alta,Alta probabilidade
+Shoes,Footwear,Black,Texas,L,Female,Standard,PayPal,0,0,Summer,Monthly,0,402.57,31,Footwear_Shoes_Black,Footwear_Shoes_L,Footwear_Shoes_Texas,70.02,Alta,Alta probabilidade
+Dress,Clothing,Black,New York,L,Male,Standard,Credit Card,0,0,Fall,Occasionally,3,306.15,34,Clothing_Dress_Black,Clothing_Dress_L,Clothing_Dress_New York,96.21,Alta,Alta probabilidade
+Jeans,Accessories,Black,California,L,Male,Express,PayPal,1,1,Fall,Weekly,7,107.29,36,Accessories_Jeans_Black,Accessories_Jeans_L,Accessories_Jeans_California,55.78,Alta,Moderada
+Jeans,Footwear,Black,California,L,Female,Express,Credit Card,0,1,Winter,Monthly,9,252.47,50,Footwear_Jeans_Black,Footwear_Jeans_L,Footwear_Jeans_California,76.64,Alta,Alta probabilidade
+Jeans,Clothing,Green,New York,M,Male,Express,Debit Card,1,1,Summer,Monthly,4,373.73,18,Clothing_Jeans_Green,Clothing_Jeans_M,Clothing_Jeans_New York,46.66,Não-Alta,Baixa
+T-shirt,Footwear,Black,Texas,XL,Female,Standard,Debit Card,0,1,Fall,Weekly,8,387.5,30,Footwear_T-shirt_Black,Footwear_T-shirt_XL,Footwear_T-shirt_Texas,95.74,Alta,Alta probabilidade
+Dress,Outerwear,Green,Texas,S,Female,Express,Credit Card,1,1,Fall,Monthly,5,254.81,63,Outerwear_Dress_Green,Outerwear_Dress_S,Outerwear_Dress_Texas,73.9,Alta,Alta probabilidade
+Shoes,Clothing,Green,Nevada,S,Male,Express,PayPal,0,1,Winter,Monthly,0,159.56,44,Clothing_Shoes_Green,Clothing_Shoes_S,Clothing_Shoes_Nevada,48.43,Não-Alta,Baixa
+Jacket,Footwear,Black,Florida,M,Male,Express,Debit Card,0,1,Fall,Weekly,5,487.13,23,Footwear_Jacket_Black,Footwear_Jacket_M,Footwear_Jacket_Florida,90.94,Alta,Alta probabilidade
+Shoes,Footwear,Blue,New York,XL,Male,Express,Debit Card,0,0,Fall,Monthly,5,335.05,23,Footwear_Shoes_Blue,Footwear_Shoes_XL,Footwear_Shoes_New York,69.47,Alta,Moderada
+Jacket,Accessories,Red,New York,L,Male,Express,PayPal,1,0,Fall,Monthly,5,210.04,50,Accessories_Jacket_Red,Accessories_Jacket_L,Accessories_Jacket_New York,58.38,Alta,Moderada
+Shoes,Footwear,White,New York,M,Female,Standard,PayPal,1,1,Winter,Weekly,7,147.43,47,Footwear_Shoes_White,Footwear_Shoes_M,Footwear_Shoes_New York,60.65,Alta,Moderada
+Dress,Clothing,Green,Texas,XL,Female,Express,Credit Card,1,0,Fall,Occasionally,5,368.24,63,Clothing_Dress_Green,Clothing_Dress_XL,Clothing_Dress_Texas,70.46,Alta,Alta probabilidade
+Jacket,Clothing,Yellow,Florida,L,Male,Express,PayPal,1,0,Fall,Weekly,4,128.67,52,Clothing_Jacket_Yellow,Clothing_Jacket_L,Clothing_Jacket_Florida,57.79,Alta,Moderada
+T-shirt,Accessories,Yellow,Nevada,M,Male,Express,PayPal,0,1,Summer,Monthly,1,94.14,40,Accessories_T-shirt_Yellow,Accessories_T-shirt_M,Accessories_T-shirt_Nevada,64.52,Alta,Moderada
+Shoes,Clothing,Red,California,XL,Female,Standard,PayPal,0,0,Summer,Weekly,3,269.62,27,Clothing_Shoes_Red,Clothing_Shoes_XL,Clothing_Shoes_California,74.74,Alta,Alta probabilidade
+Shoes,Outerwear,Yellow,California,S,Female,Express,Credit Card,0,0,Winter,Monthly,9,152.09,68,Outerwear_Shoes_Yellow,Outerwear_Shoes_S,Outerwear_Shoes_California,70.28,Alta,Alta probabilidade
+Jacket,Clothing,Blue,New York,S,Female,Standard,Credit Card,1,1,Spring,Monthly,4,318.16,36,Clothing_Jacket_Blue,Clothing_Jacket_S,Clothing_Jacket_New York,79.74,Alta,Alta probabilidade
+T-shirt,Clothing,Yellow,Florida,XL,Female,Standard,Debit Card,0,0,Summer,Weekly,9,67.79,68,Clothing_T-shirt_Yellow,Clothing_T-shirt_XL,Clothing_T-shirt_Florida,79.33,Alta,Alta probabilidade
+T-shirt,Footwear,White,Texas,S,Male,Express,Credit Card,1,1,Winter,Monthly,3,330.92,45,Footwear_T-shirt_White,Footwear_T-shirt_S,Footwear_T-shirt_Texas,90.04,Alta,Alta probabilidade
+Dress,Footwear,White,Florida,XL,Female,Express,Debit Card,1,1,Fall,Occasionally,1,148.82,40,Footwear_Dress_White,Footwear_Dress_XL,Footwear_Dress_Florida,66.11,Alta,Moderada
+T-shirt,Clothing,Green,Florida,L,Female,Express,PayPal,1,0,Fall,Monthly,6,10.12,21,Clothing_T-shirt_Green,Clothing_T-shirt_L,Clothing_T-shirt_Florida,44.5,Não-Alta,Baixa
+T-shirt,Accessories,Black,Texas,XL,Male,Standard,Debit Card,1,0,Winter,Weekly,9,72.2,37,Accessories_T-shirt_Black,Accessories_T-shirt_XL,Accessories_T-shirt_Texas,81.28,Alta,Alta probabilidade
+T-shirt,Footwear,Blue,New York,L,Female,Standard,Debit Card,1,0,Fall,Occasionally,9,467.47,36,Footwear_T-shirt_Blue,Footwear_T-shirt_L,Footwear_T-shirt_New York,86.75,Alta,Alta probabilidade
+Jeans,Accessories,Green,Florida,M,Female,Standard,PayPal,0,1,Fall,Occasionally,1,435.0,59,Accessories_Jeans_Green,Accessories_Jeans_M,Accessories_Jeans_Florida,72.51,Alta,Alta probabilidade
+Dress,Clothing,Blue,California,XL,Male,Standard,Debit Card,1,1,Spring,Monthly,0,124.47,44,Clothing_Dress_Blue,Clothing_Dress_XL,Clothing_Dress_California,73.91,Alta,Alta probabilidade
+Shoes,Clothing,Black,Texas,M,Male,Standard,Credit Card,1,1,Fall,Weekly,4,391.4,51,Clothing_Shoes_Black,Clothing_Shoes_M,Clothing_Shoes_Texas,87.83,Alta,Alta probabilidade
+Jacket,Outerwear,Yellow,Nevada,S,Male,Standard,Credit Card,0,0,Summer,Monthly,0,308.2,21,Outerwear_Jacket_Yellow,Outerwear_Jacket_S,Outerwear_Jacket_Nevada,85.53,Alta,Alta probabilidade
+Shoes,Footwear,Yellow,New York,L,Female,Express,Credit Card,1,0,Fall,Monthly,0,485.74,55,Footwear_Shoes_Yellow,Footwear_Shoes_L,Footwear_Shoes_New York,93.45,Alta,Alta probabilidade
+Dress,Clothing,Black,Texas,XL,Female,Express,Credit Card,1,1,Winter,Weekly,0,193.07,24,Clothing_Dress_Black,Clothing_Dress_XL,Clothing_Dress_Texas,88.46,Alta,Alta probabilidade
+Jacket,Outerwear,Green,Nevada,M,Male,Standard,Debit Card,0,0,Spring,Weekly,5,343.92,65,Outerwear_Jacket_Green,Outerwear_Jacket_M,Outerwear_Jacket_Nevada,86.72,Alta,Alta probabilidade
+Dress,Footwear,Black,Nevada,L,Male,Express,Debit Card,0,0,Fall,Monthly,8,41.13,24,Footwear_Dress_Black,Footwear_Dress_L,Footwear_Dress_Nevada,54.84,Alta,Moderada
+T-shirt,Clothing,Red,Florida,L,Female,Express,PayPal,0,1,Winter,Occasionally,9,204.16,67,Clothing_T-shirt_Red,Clothing_T-shirt_L,Clothing_T-shirt_Florida,68.51,Alta,Moderada
+Jacket,Clothing,White,Florida,S,Male,Standard,Debit Card,1,1,Summer,Monthly,0,482.27,69,Clothing_Jacket_White,Clothing_Jacket_S,Clothing_Jacket_Florida,86.69,Alta,Alta probabilidade
+T-shirt,Footwear,Green,Florida,S,Male,Standard,Debit Card,0,0,Fall,Occasionally,4,274.1,43,Footwear_T-shirt_Green,Footwear_T-shirt_S,Footwear_T-shirt_Florida,75.82,Alta,Alta probabilidade
+Shoes,Footwear,Blue,Texas,L,Male,Express,Debit Card,0,1,Spring,Monthly,8,151.06,43,Footwear_Shoes_Blue,Footwear_Shoes_L,Footwear_Shoes_Texas,28.51,Não-Alta,Baixa
+Shoes,Footwear,Red,Texas,L,Female,Standard,PayPal,0,0,Fall,Weekly,8,68.93,36,Footwear_Shoes_Red,Footwear_Shoes_L,Footwear_Shoes_Texas,22.58,Não-Alta,Baixa
+Jacket,Clothing,Green,New York,XL,Female,Standard,Credit Card,1,1,Winter,Occasionally,0,354.73,26,Clothing_Jacket_Green,Clothing_Jacket_XL,Clothing_Jacket_New York,82.7,Alta,Alta probabilidade
+Jacket,Clothing,Black,Florida,L,Female,Express,Debit Card,0,1,Spring,Weekly,7,325.98,37,Clothing_Jacket_Black,Clothing_Jacket_L,Clothing_Jacket_Florida,82.33,Alta,Alta probabilidade
+Dress,Outerwear,Black,Nevada,XL,Female,Standard,PayPal,1,1,Fall,Weekly,0,193.23,59,Outerwear_Dress_Black,Outerwear_Dress_XL,Outerwear_Dress_Nevada,74.36,Alta,Alta probabilidade
+Dress,Accessories,Black,California,L,Female,Express,PayPal,1,0,Summer,Weekly,7,475.96,62,Accessories_Dress_Black,Accessories_Dress_L,Accessories_Dress_California,86.16,Alta,Alta probabilidade
+T-shirt,Footwear,Black,New York,S,Female,Express,PayPal,0,0,Spring,Weekly,0,20.88,67,Footwear_T-shirt_Black,Footwear_T-shirt_S,Footwear_T-shirt_New York,60.44,Alta,Moderada
+Jacket,Clothing,Blue,Texas,XL,Male,Express,Credit Card,1,1,Summer,Weekly,4,158.82,33,Clothing_Jacket_Blue,Clothing_Jacket_XL,Clothing_Jacket_Texas,74.9,Alta,Alta probabilidade
+Shoes,Clothing,Red,New York,M,Female,Express,Debit Card,1,1,Winter,Monthly,7,461.32,34,Clothing_Shoes_Red,Clothing_Shoes_M,Clothing_Shoes_New York,76.65,Alta,Alta probabilidade
+Dress,Footwear,Yellow,New York,S,Female,Express,PayPal,0,1,Fall,Occasionally,5,167.26,39,Footwear_Dress_Yellow,Footwear_Dress_S,Footwear_Dress_New York,73.19,Alta,Alta probabilidade
+Dress,Accessories,White,New York,XL,Male,Standard,Credit Card,1,0,Summer,Monthly,8,133.6,30,Accessories_Dress_White,Accessories_Dress_XL,Accessories_Dress_New York,71.41,Alta,Alta probabilidade
+Shoes,Footwear,Blue,New York,XL,Female,Standard,PayPal,0,1,Winter,Monthly,0,271.77,29,Footwear_Shoes_Blue,Footwear_Shoes_XL,Footwear_Shoes_New York,68.55,Alta,Moderada
+Dress,Accessories,Blue,California,M,Female,Standard,PayPal,1,1,Fall,Monthly,8,413.66,27,Accessories_Dress_Blue,Accessories_Dress_M,Accessories_Dress_California,81.17,Alta,Alta probabilidade
+T-shirt,Clothing,Yellow,Florida,XL,Male,Standard,PayPal,1,1,Winter,Weekly,0,60.54,18,Clothing_T-shirt_Yellow,Clothing_T-shirt_XL,Clothing_T-shirt_Florida,83.55,Alta,Alta probabilidade
+Jacket,Accessories,Yellow,Nevada,L,Male,Express,PayPal,0,1,Summer,Monthly,9,472.08,49,Accessories_Jacket_Yellow,Accessories_Jacket_L,Accessories_Jacket_Nevada,89.96,Alta,Alta probabilidade
+Shoes,Outerwear,White,New York,M,Male,Express,PayPal,0,0,Winter,Occasionally,9,399.59,47,Outerwear_Shoes_White,Outerwear_Shoes_M,Outerwear_Shoes_New York,77.01,Alta,Alta probabilidade
+Jacket,Clothing,White,New York,S,Female,Standard,Credit Card,1,0,Spring,Monthly,2,98.81,25,Clothing_Jacket_White,Clothing_Jacket_S,Clothing_Jacket_New York,62.71,Alta,Moderada
+Dress,Outerwear,Yellow,New York,S,Male,Express,Debit Card,1,1,Fall,Weekly,0,358.88,38,Outerwear_Dress_Yellow,Outerwear_Dress_S,Outerwear_Dress_New York,86.23,Alta,Alta probabilidade
+Dress,Footwear,Black,Florida,L,Female,Standard,Debit Card,0,0,Winter,Occasionally,2,198.63,39,Footwear_Dress_Black,Footwear_Dress_L,Footwear_Dress_Florida,74.13,Alta,Alta probabilidade
+Shoes,Footwear,Blue,Texas,S,Female,Standard,Debit Card,1,0,Summer,Occasionally,1,207.12,35,Footwear_Shoes_Blue,Footwear_Shoes_S,Footwear_Shoes_Texas,22.11,Não-Alta,Baixa
+T-shirt,Footwear,Green,Texas,XL,Female,Standard,Debit Card,1,0,Fall,Occasionally,1,393.81,19,Footwear_T-shirt_Green,Footwear_T-shirt_XL,Footwear_T-shirt_Texas,91.12,Alta,Alta probabilidade
+Jeans,Accessories,White,California,XL,Female,Express,Credit Card,1,1,Spring,Occasionally,8,481.76,65,Accessories_Jeans_White,Accessories_Jeans_XL,Accessories_Jeans_California,89.16,Alta,Alta probabilidade
+Shoes,Clothing,White,Texas,L,Male,Express,Credit Card,1,0,Fall,Monthly,7,72.06,61,Clothing_Shoes_White,Clothing_Shoes_L,Clothing_Shoes_Texas,52.49,Alta,Moderada
+Jeans,Footwear,Yellow,New York,S,Male,Express,Credit Card,0,0,Spring,Weekly,0,216.11,26,Footwear_Jeans_Yellow,Footwear_Jeans_S,Footwear_Jeans_New York,79.54,Alta,Alta probabilidade
+Jeans,Footwear,Red,New York,S,Female,Express,PayPal,0,0,Fall,Occasionally,3,245.66,20,Footwear_Jeans_Red,Footwear_Jeans_S,Footwear_Jeans_New York,61.83,Alta,Moderada
+T-shirt,Clothing,Green,New York,L,Male,Standard,PayPal,0,1,Winter,Occasionally,0,194.39,43,Clothing_T-shirt_Green,Clothing_T-shirt_L,Clothing_T-shirt_New York,76.51,Alta,Alta probabilidade
+Jeans,Footwear,Green,California,M,Female,Express,PayPal,0,1,Winter,Weekly,0,187.96,38,Footwear_Jeans_Green,Footwear_Jeans_M,Footwear_Jeans_California,52.82,Alta,Moderada
+Jeans,Outerwear,White,New York,S,Female,Express,Debit Card,0,0,Summer,Monthly,3,35.61,47,Outerwear_Jeans_White,Outerwear_Jeans_S,Outerwear_Jeans_New York,40.95,Não-Alta,Baixa
+T-shirt,Clothing,Black,Texas,M,Female,Express,PayPal,0,0,Spring,Occasionally,1,345.91,45,Clothing_T-shirt_Black,Clothing_T-shirt_M,Clothing_T-shirt_Texas,86.27,Alta,Alta probabilidade
+Jeans,Clothing,Red,Florida,S,Male,Standard,Debit Card,1,1,Summer,Monthly,2,223.75,53,Clothing_Jeans_Red,Clothing_Jeans_S,Clothing_Jeans_Florida,30.33,Não-Alta,Baixa
+Jeans,Clothing,Green,Florida,S,Female,Standard,PayPal,0,1,Winter,Monthly,8,105.45,43,Clothing_Jeans_Green,Clothing_Jeans_S,Clothing_Jeans_Florida,12.43,Não-Alta,Baixa
+Jeans,Outerwear,White,Nevada,S,Female,Express,Debit Card,1,0,Spring,Monthly,1,409.86,51,Outerwear_Jeans_White,Outerwear_Jeans_S,Outerwear_Jeans_Nevada,76.57,Alta,Alta probabilidade
+Shoes,Clothing,Green,Texas,S,Male,Express,PayPal,1,0,Summer,Monthly,3,403.25,25,Clothing_Shoes_Green,Clothing_Shoes_S,Clothing_Shoes_Texas,79.33,Alta,Alta probabilidade
+Shoes,Outerwear,Red,New York,XL,Male,Express,PayPal,1,1,Summer,Occasionally,0,248.33,27,Outerwear_Shoes_Red,Outerwear_Shoes_XL,Outerwear_Shoes_New York,70.85,Alta,Alta probabilidade
+Shoes,Clothing,Red,Florida,M,Male,Express,Credit Card,0,1,Summer,Occasionally,1,156.24,65,Clothing_Shoes_Red,Clothing_Shoes_M,Clothing_Shoes_Florida,47.14,Não-Alta,Baixa
+T-shirt,Accessories,Blue,Texas,M,Male,Standard,PayPal,1,0,Summer,Monthly,4,322.67,60,Accessories_T-shirt_Blue,Accessories_T-shirt_M,Accessories_T-shirt_Texas,80.82,Alta,Alta probabilidade
+Dress,Footwear,Yellow,Florida,S,Female,Express,PayPal,0,1,Summer,Monthly,9,151.19,67,Footwear_Dress_Yellow,Footwear_Dress_S,Footwear_Dress_Florida,69.12,Alta,Moderada
+Jeans,Accessories,Yellow,New York,S,Male,Express,Credit Card,1,0,Spring,Weekly,0,125.64,31,Accessories_Jeans_Yellow,Accessories_Jeans_S,Accessories_Jeans_New York,66.92,Alta,Moderada
+Jeans,Footwear,White,Florida,M,Female,Express,Debit Card,1,0,Summer,Weekly,6,367.95,57,Footwear_Jeans_White,Footwear_Jeans_M,Footwear_Jeans_Florida,66.69,Alta,Moderada
+T-shirt,Outerwear,Red,Nevada,XL,Male,Standard,Credit Card,0,0,Spring,Weekly,3,29.76,32,Outerwear_T-shirt_Red,Outerwear_T-shirt_XL,Outerwear_T-shirt_Nevada,67.79,Alta,Moderada
+Jeans,Accessories,Blue,Nevada,L,Male,Standard,Credit Card,1,1,Summer,Occasionally,5,56.44,34,Accessories_Jeans_Blue,Accessories_Jeans_L,Accessories_Jeans_Nevada,41.66,Não-Alta,Baixa
+Shoes,Clothing,Blue,Florida,L,Male,Express,Debit Card,1,0,Winter,Weekly,7,13.33,35,Clothing_Shoes_Blue,Clothing_Shoes_L,Clothing_Shoes_Florida,31.44,Não-Alta,Baixa
+Dress,Footwear,Green,Texas,M,Male,Express,PayPal,1,0,Winter,Occasionally,5,84.94,49,Footwear_Dress_Green,Footwear_Dress_M,Footwear_Dress_Texas,49.59,Não-Alta,Baixa
+Jacket,Footwear,Green,Texas,S,Male,Express,Debit Card,1,1,Summer,Occasionally,1,43.81,55,Footwear_Jacket_Green,Footwear_Jacket_S,Footwear_Jacket_Texas,54.15,Alta,Moderada
+Jeans,Accessories,Blue,Texas,S,Male,Express,PayPal,0,1,Fall,Occasionally,0,497.94,40,Accessories_Jeans_Blue,Accessories_Jeans_S,Accessories_Jeans_Texas,88.65,Alta,Alta probabilidade
+Shoes,Outerwear,Green,Florida,XL,Female,Express,PayPal,1,0,Winter,Occasionally,7,151.52,63,Outerwear_Shoes_Green,Outerwear_Shoes_XL,Outerwear_Shoes_Florida,48.87,Não-Alta,Baixa
+Jacket,Accessories,Red,Texas,L,Male,Standard,Debit Card,1,0,Spring,Weekly,7,83.14,40,Accessories_Jacket_Red,Accessories_Jacket_L,Accessories_Jacket_Texas,66.8,Alta,Moderada
+Dress,Outerwear,Black,New York,XL,Male,Standard,Credit Card,0,1,Summer,Monthly,8,128.09,52,Outerwear_Dress_Black,Outerwear_Dress_XL,Outerwear_Dress_New York,78.96,Alta,Alta probabilidade
+Jacket,Outerwear,Red,Nevada,L,Male,Standard,Debit Card,1,1,Spring,Monthly,5,468.7,56,Outerwear_Jacket_Red,Outerwear_Jacket_L,Outerwear_Jacket_Nevada,86.58,Alta,Alta probabilidade
+Shoes,Footwear,Blue,New York,M,Male,Express,PayPal,1,1,Fall,Monthly,0,264.88,32,Footwear_Shoes_Blue,Footwear_Shoes_M,Footwear_Shoes_New York,35.28,Não-Alta,Baixa
+Jacket,Accessories,Blue,Texas,L,Female,Standard,Debit Card,1,0,Summer,Weekly,8,188.76,41,Accessories_Jacket_Blue,Accessories_Jacket_L,Accessories_Jacket_Texas,70.37,Alta,Alta probabilidade
+T-shirt,Accessories,Red,New York,XL,Male,Standard,Debit Card,1,0,Winter,Monthly,2,437.96,45,Accessories_T-shirt_Red,Accessories_T-shirt_XL,Accessories_T-shirt_New York,90.15,Alta,Alta probabilidade
+Jacket,Outerwear,Green,Texas,XL,Male,Standard,PayPal,0,0,Spring,Weekly,5,203.55,33,Outerwear_Jacket_Green,Outerwear_Jacket_XL,Outerwear_Jacket_Texas,92.54,Alta,Alta probabilidade
+Jeans,Accessories,Green,Florida,XL,Male,Express,Credit Card,1,1,Winter,Weekly,9,174.15,33,Accessories_Jeans_Green,Accessories_Jeans_XL,Accessories_Jeans_Florida,60.68,Alta,Moderada
+Jeans,Clothing,Yellow,New York,M,Male,Express,Debit Card,0,0,Winter,Weekly,9,111.57,57,Clothing_Jeans_Yellow,Clothing_Jeans_M,Clothing_Jeans_New York,28.42,Não-Alta,Baixa
+T-shirt,Clothing,Blue,Florida,L,Female,Standard,PayPal,1,1,Summer,Monthly,8,195.12,56,Clothing_T-shirt_Blue,Clothing_T-shirt_L,Clothing_T-shirt_Florida,69.33,Alta,Moderada
+Shoes,Accessories,White,Florida,L,Male,Express,PayPal,1,0,Spring,Monthly,2,165.18,23,Accessories_Shoes_White,Accessories_Shoes_L,Accessories_Shoes_Florida,59.67,Alta,Moderada
+Jeans,Accessories,Yellow,California,XL,Female,Standard,Debit Card,1,1,Fall,Monthly,4,341.88,19,Accessories_Jeans_Yellow,Accessories_Jeans_XL,Accessories_Jeans_California,88.37,Alta,Alta probabilidade
+Dress,Outerwear,Green,Texas,L,Male,Standard,Credit Card,0,0,Winter,Occasionally,4,151.9,30,Outerwear_Dress_Green,Outerwear_Dress_L,Outerwear_Dress_Texas,72.44,Alta,Alta probabilidade
+Jeans,Clothing,Red,Nevada,S,Female,Standard,Debit Card,1,0,Summer,Weekly,9,292.83,61,Clothing_Jeans_Red,Clothing_Jeans_S,Clothing_Jeans_Nevada,48.15,Não-Alta,Baixa
+Jeans,Clothing,Green,Texas,S,Female,Standard,Credit Card,1,1,Summer,Occasionally,6,42.29,64,Clothing_Jeans_Green,Clothing_Jeans_S,Clothing_Jeans_Texas,32.46,Não-Alta,Baixa
+Shoes,Footwear,Red,Nevada,S,Male,Express,Credit Card,0,1,Fall,Weekly,3,103.73,26,Footwear_Shoes_Red,Footwear_Shoes_S,Footwear_Shoes_Nevada,50.79,Alta,Moderada
+Jacket,Outerwear,Yellow,Texas,L,Male,Express,Credit Card,0,0,Summer,Monthly,3,209.63,51,Outerwear_Jacket_Yellow,Outerwear_Jacket_L,Outerwear_Jacket_Texas,84.14,Alta,Alta probabilidade
+Jeans,Footwear,Blue,Florida,M,Female,Express,Credit Card,0,1,Winter,Weekly,6,469.11,34,Footwear_Jeans_Blue,Footwear_Jeans_M,Footwear_Jeans_Florida,81.9,Alta,Alta probabilidade
+T-shirt,Clothing,Green,New York,M,Female,Express,Debit Card,0,1,Summer,Weekly,8,194.85,44,Clothing_T-shirt_Green,Clothing_T-shirt_M,Clothing_T-shirt_New York,59.01,Alta,Moderada
+Jacket,Outerwear,Red,New York,M,Male,Standard,PayPal,1,0,Spring,Occasionally,3,335.4,46,Outerwear_Jacket_Red,Outerwear_Jacket_M,Outerwear_Jacket_New York,74.35,Alta,Alta probabilidade
+Dress,Accessories,Blue,California,M,Female,Express,PayPal,1,1,Spring,Weekly,3,134.99,54,Accessories_Dress_Blue,Accessories_Dress_M,Accessories_Dress_California,52.49,Alta,Moderada
+Shoes,Outerwear,White,Nevada,S,Female,Standard,PayPal,1,0,Winter,Monthly,5,72.25,60,Outerwear_Shoes_White,Outerwear_Shoes_S,Outerwear_Shoes_Nevada,45.31,Não-Alta,Baixa
+Dress,Accessories,Red,Nevada,S,Female,Express,PayPal,1,0,Spring,Weekly,5,38.68,39,Accessories_Dress_Red,Accessories_Dress_S,Accessories_Dress_Nevada,40.97,Não-Alta,Baixa
+Jacket,Accessories,Yellow,Nevada,XL,Male,Express,PayPal,0,1,Fall,Weekly,6,159.65,68,Accessories_Jacket_Yellow,Accessories_Jacket_XL,Accessories_Jacket_Nevada,74.64,Alta,Alta probabilidade
+Jacket,Outerwear,White,Florida,L,Female,Express,PayPal,1,1,Summer,Weekly,0,87.25,41,Outerwear_Jacket_White,Outerwear_Jacket_L,Outerwear_Jacket_Florida,64.25,Alta,Moderada
+Jacket,Accessories,White,Nevada,L,Female,Standard,Debit Card,1,0,Winter,Occasionally,2,95.27,24,Accessories_Jacket_White,Accessories_Jacket_L,Accessories_Jacket_Nevada,54.08,Alta,Moderada
+Dress,Footwear,Black,New York,M,Female,Standard,Credit Card,1,0,Fall,Weekly,8,382.77,51,Footwear_Dress_Black,Footwear_Dress_M,Footwear_Dress_New York,83.99,Alta,Alta probabilidade
+Jacket,Clothing,Green,Florida,S,Male,Standard,PayPal,1,0,Summer,Weekly,5,17.76,65,Clothing_Jacket_Green,Clothing_Jacket_S,Clothing_Jacket_Florida,34.06,Não-Alta,Baixa
+Dress,Accessories,Red,Texas,M,Male,Standard,Debit Card,0,0,Fall,Occasionally,5,283.33,29,Accessories_Dress_Red,Accessories_Dress_M,Accessories_Dress_Texas,79.46,Alta,Alta probabilidade
+Jacket,Footwear,White,Nevada,XL,Female,Express,PayPal,1,0,Winter,Occasionally,4,195.94,40,Footwear_Jacket_White,Footwear_Jacket_XL,Footwear_Jacket_Nevada,67.43,Alta,Moderada
+T-shirt,Accessories,Black,Nevada,L,Male,Standard,PayPal,1,0,Winter,Occasionally,2,258.21,32,Accessories_T-shirt_Black,Accessories_T-shirt_L,Accessories_T-shirt_Nevada,78.39,Alta,Alta probabilidade
+Jacket,Clothing,Yellow,Texas,L,Female,Standard,Credit Card,1,1,Fall,Occasionally,4,285.79,50,Clothing_Jacket_Yellow,Clothing_Jacket_L,Clothing_Jacket_Texas,86.62,Alta,Alta probabilidade
+Dress,Footwear,Blue,Nevada,M,Male,Express,Credit Card,0,1,Summer,Monthly,0,163.55,30,Footwear_Dress_Blue,Footwear_Dress_M,Footwear_Dress_Nevada,59.57,Alta,Moderada
+Jeans,Clothing,Red,Texas,XL,Male,Express,Credit Card,0,1,Spring,Monthly,2,154.6,40,Clothing_Jeans_Red,Clothing_Jeans_XL,Clothing_Jeans_Texas,89.77,Alta,Alta probabilidade
+Jacket,Clothing,White,Florida,L,Female,Standard,PayPal,1,0,Spring,Weekly,3,369.37,55,Clothing_Jacket_White,Clothing_Jacket_L,Clothing_Jacket_Florida,78.44,Alta,Alta probabilidade
+Jeans,Footwear,Green,New York,XL,Male,Express,PayPal,1,1,Fall,Monthly,4,436.93,49,Footwear_Jeans_Green,Footwear_Jeans_XL,Footwear_Jeans_New York,80.65,Alta,Alta probabilidade
+T-shirt,Footwear,Black,Texas,XL,Male,Standard,PayPal,1,0,Winter,Weekly,9,104.36,62,Footwear_T-shirt_Black,Footwear_T-shirt_XL,Footwear_T-shirt_Texas,82.16,Alta,Alta probabilidade
+Shoes,Footwear,White,California,M,Male,Express,Credit Card,0,0,Summer,Monthly,8,57.83,67,Footwear_Shoes_White,Footwear_Shoes_M,Footwear_Shoes_California,48.49,Não-Alta,Baixa
+T-shirt,Outerwear,Green,Texas,S,Female,Standard,Debit Card,1,1,Summer,Occasionally,3,449.92,52,Outerwear_T-shirt_Green,Outerwear_T-shirt_S,Outerwear_T-shirt_Texas,90.17,Alta,Alta probabilidade
+Jacket,Footwear,White,Nevada,M,Male,Standard,PayPal,1,0,Winter,Occasionally,2,181.45,18,Footwear_Jacket_White,Footwear_Jacket_M,Footwear_Jacket_Nevada,63.16,Alta,Moderada
+Jeans,Footwear,Red,Florida,S,Male,Standard,PayPal,1,0,Spring,Monthly,9,280.15,64,Footwear_Jeans_Red,Footwear_Jeans_S,Footwear_Jeans_Florida,67.8,Alta,Moderada
+Jeans,Footwear,Red,Florida,XL,Female,Standard,PayPal,0,0,Summer,Monthly,0,186.18,62,Footwear_Jeans_Red,Footwear_Jeans_XL,Footwear_Jeans_Florida,62.39,Alta,Moderada
+Dress,Footwear,Red,Texas,S,Male,Standard,Debit Card,1,0,Fall,Weekly,9,71.64,22,Footwear_Dress_Red,Footwear_Dress_S,Footwear_Dress_Texas,65.61,Alta,Moderada
+Jeans,Accessories,Yellow,New York,XL,Male,Express,PayPal,1,0,Spring,Weekly,5,298.77,30,Accessories_Jeans_Yellow,Accessories_Jeans_XL,Accessories_Jeans_New York,82.97,Alta,Alta probabilidade
+Dress,Outerwear,Yellow,California,L,Male,Standard,Debit Card,0,0,Fall,Weekly,6,267.32,22,Outerwear_Dress_Yellow,Outerwear_Dress_L,Outerwear_Dress_California,84.98,Alta,Alta probabilidade
+Shoes,Clothing,Black,Florida,L,Male,Standard,PayPal,0,1,Spring,Occasionally,9,109.47,49,Clothing_Shoes_Black,Clothing_Shoes_L,Clothing_Shoes_Florida,62.43,Alta,Moderada
+Jacket,Footwear,Red,Nevada,L,Male,Standard,Debit Card,1,0,Winter,Occasionally,7,231.42,68,Footwear_Jacket_Red,Footwear_Jacket_L,Footwear_Jacket_Nevada,63.39,Alta,Moderada
+Dress,Accessories,Green,Nevada,M,Female,Standard,PayPal,0,0,Fall,Occasionally,0,400.5,38,Accessories_Dress_Green,Accessories_Dress_M,Accessories_Dress_Nevada,72.77,Alta,Alta probabilidade
+Shoes,Accessories,White,New York,M,Female,Standard,Credit Card,1,0,Fall,Occasionally,3,299.31,41,Accessories_Shoes_White,Accessories_Shoes_M,Accessories_Shoes_New York,69.89,Alta,Moderada
+Jeans,Accessories,Blue,Florida,XL,Male,Express,Credit Card,0,0,Winter,Weekly,4,57.49,35,Accessories_Jeans_Blue,Accessories_Jeans_XL,Accessories_Jeans_Florida,51.4,Alta,Moderada
+Jeans,Clothing,Green,Texas,L,Male,Express,Credit Card,0,1,Fall,Occasionally,1,278.53,38,Clothing_Jeans_Green,Clothing_Jeans_L,Clothing_Jeans_Texas,87.08,Alta,Alta probabilidade
+Shoes,Footwear,Yellow,Nevada,M,Male,Standard,Credit Card,1,1,Spring,Occasionally,0,354.34,27,Footwear_Shoes_Yellow,Footwear_Shoes_M,Footwear_Shoes_Nevada,94.58,Alta,Alta probabilidade
+Jeans,Outerwear,Yellow,New York,L,Female,Express,PayPal,1,0,Summer,Occasionally,7,398.42,41,Outerwear_Jeans_Yellow,Outerwear_Jeans_L,Outerwear_Jeans_New York,78.95,Alta,Alta probabilidade
+Shoes,Outerwear,Green,Florida,M,Female,Standard,Credit Card,1,0,Summer,Occasionally,5,318.27,57,Outerwear_Shoes_Green,Outerwear_Shoes_M,Outerwear_Shoes_Florida,62.66,Alta,Moderada
+Dress,Accessories,Yellow,Florida,S,Male,Express,Debit Card,0,0,Winter,Monthly,4,84.8,64,Accessories_Dress_Yellow,Accessories_Dress_S,Accessories_Dress_Florida,62.61,Alta,Moderada
+Dress,Clothing,Red,Florida,S,Male,Express,Credit Card,1,1,Spring,Weekly,8,357.98,38,Clothing_Dress_Red,Clothing_Dress_S,Clothing_Dress_Florida,84.24,Alta,Alta probabilidade
+Shoes,Clothing,Black,Florida,L,Female,Standard,Credit Card,1,1,Fall,Weekly,1,341.9,42,Clothing_Shoes_Black,Clothing_Shoes_L,Clothing_Shoes_Florida,79.85,Alta,Alta probabilidade
+Dress,Clothing,White,Florida,XL,Male,Express,Credit Card,1,1,Fall,Occasionally,9,21.97,69,Clothing_Dress_White,Clothing_Dress_XL,Clothing_Dress_Florida,40.54,Não-Alta,Baixa
+Dress,Outerwear,Black,Nevada,M,Female,Express,PayPal,1,1,Summer,Monthly,7,211.76,40,Outerwear_Dress_Black,Outerwear_Dress_M,Outerwear_Dress_Nevada,62.95,Alta,Moderada
+Dress,Accessories,White,New York,M,Female,Standard,Credit Card,1,0,Fall,Weekly,9,173.15,39,Accessories_Dress_White,Accessories_Dress_M,Accessories_Dress_New York,61.51,Alta,Moderada
+T-shirt,Footwear,White,Florida,S,Male,Standard,Debit Card,0,1,Summer,Weekly,8,338.01,21,Footwear_T-shirt_White,Footwear_T-shirt_S,Footwear_T-shirt_Florida,88.2,Alta,Alta probabilidade
+Jacket,Outerwear,Black,California,S,Female,Express,Credit Card,1,1,Winter,Occasionally,0,115.91,51,Outerwear_Jacket_Black,Outerwear_Jacket_S,Outerwear_Jacket_California,76.83,Alta,Alta probabilidade
+Jeans,Accessories,Green,California,XL,Male,Express,Credit Card,1,0,Fall,Occasionally,6,299.53,23,Accessories_Jeans_Green,Accessories_Jeans_XL,Accessories_Jeans_California,72.0,Alta,Alta probabilidade
+T-shirt,Accessories,White,New York,XL,Male,Express,Credit Card,0,0,Spring,Weekly,7,457.47,45,Accessories_T-shirt_White,Accessories_T-shirt_XL,Accessories_T-shirt_New York,93.44,Alta,Alta probabilidade
+Dress,Footwear,Black,Texas,XL,Male,Standard,Debit Card,1,1,Fall,Weekly,2,400.92,48,Footwear_Dress_Black,Footwear_Dress_XL,Footwear_Dress_Texas,94.25,Alta,Alta probabilidade
+Shoes,Footwear,White,Texas,L,Male,Express,Credit Card,1,1,Summer,Monthly,3,461.51,52,Footwear_Shoes_White,Footwear_Shoes_L,Footwear_Shoes_Texas,83.97,Alta,Alta probabilidade
+Dress,Footwear,Blue,Texas,S,Male,Express,Debit Card,1,1,Winter,Weekly,2,489.47,56,Footwear_Dress_Blue,Footwear_Dress_S,Footwear_Dress_Texas,91.02,Alta,Alta probabilidade
+Jacket,Clothing,Green,California,L,Male,Express,Debit Card,1,1,Summer,Weekly,6,15.23,59,Clothing_Jacket_Green,Clothing_Jacket_L,Clothing_Jacket_California,35.29,Não-Alta,Baixa
+Dress,Footwear,Red,Texas,S,Female,Standard,Credit Card,1,0,Fall,Occasionally,8,315.14,40,Footwear_Dress_Red,Footwear_Dress_S,Footwear_Dress_Texas,83.65,Alta,Alta probabilidade
+Shoes,Accessories,White,Nevada,S,Female,Standard,Debit Card,0,0,Summer,Weekly,2,212.29,23,Accessories_Shoes_White,Accessories_Shoes_S,Accessories_Shoes_Nevada,67.17,Alta,Moderada
+Jacket,Footwear,Blue,Florida,M,Female,Standard,PayPal,0,1,Summer,Occasionally,5,431.33,33,Footwear_Jacket_Blue,Footwear_Jacket_M,Footwear_Jacket_Florida,83.26,Alta,Alta probabilidade
+Dress,Accessories,Red,California,S,Female,Standard,Credit Card,0,1,Winter,Weekly,7,133.39,19,Accessories_Dress_Red,Accessories_Dress_S,Accessories_Dress_California,70.81,Alta,Alta probabilidade
+Jacket,Outerwear,Red,New York,S,Male,Express,Credit Card,1,1,Spring,Weekly,5,490.7,41,Outerwear_Jacket_Red,Outerwear_Jacket_S,Outerwear_Jacket_New York,90.15,Alta,Alta probabilidade
+Jeans,Clothing,White,New York,L,Female,Standard,Debit Card,0,1,Fall,Weekly,1,310.72,34,Clothing_Jeans_White,Clothing_Jeans_L,Clothing_Jeans_New York,81.08,Alta,Alta probabilidade
+Jeans,Outerwear,Black,Florida,S,Female,Express,Debit Card,1,1,Winter,Monthly,6,398.83,62,Outerwear_Jeans_Black,Outerwear_Jeans_S,Outerwear_Jeans_Florida,80.27,Alta,Alta probabilidade
+Dress,Outerwear,White,California,L,Female,Express,Credit Card,1,0,Spring,Occasionally,1,51.94,18,Outerwear_Dress_White,Outerwear_Dress_L,Outerwear_Dress_California,56.24,Alta,Moderada
+Jacket,Accessories,Blue,Texas,XL,Male,Express,PayPal,1,0,Summer,Monthly,1,99.89,23,Accessories_Jacket_Blue,Accessories_Jacket_XL,Accessories_Jacket_Texas,68.05,Alta,Moderada
+Shoes,Outerwear,Red,Texas,S,Female,Express,Debit Card,0,0,Spring,Weekly,1,381.62,22,Outerwear_Shoes_Red,Outerwear_Shoes_S,Outerwear_Shoes_Texas,87.08,Alta,Alta probabilidade
+Dress,Accessories,White,Nevada,S,Male,Standard,Debit Card,0,1,Summer,Monthly,0,20.77,62,Accessories_Dress_White,Accessories_Dress_S,Accessories_Dress_Nevada,50.66,Alta,Moderada
+Jeans,Footwear,Black,Nevada,L,Female,Standard,PayPal,0,1,Summer,Occasionally,0,410.27,67,Footwear_Jeans_Black,Footwear_Jeans_L,Footwear_Jeans_Nevada,81.81,Alta,Alta probabilidade
+Jeans,Footwear,White,Texas,XL,Male,Standard,PayPal,1,0,Winter,Weekly,6,16.84,46,Footwear_Jeans_White,Footwear_Jeans_XL,Footwear_Jeans_Texas,61.53,Alta,Moderada
+Dress,Accessories,Green,New York,M,Male,Standard,Credit Card,0,0,Summer,Monthly,4,331.99,29,Accessories_Dress_Green,Accessories_Dress_M,Accessories_Dress_New York,75.77,Alta,Alta probabilidade
+Jacket,Footwear,Black,New York,XL,Female,Standard,PayPal,1,1,Winter,Monthly,2,188.9,56,Footwear_Jacket_Black,Footwear_Jacket_XL,Footwear_Jacket_New York,79.64,Alta,Alta probabilidade
+Jeans,Clothing,Blue,Nevada,L,Male,Express,Credit Card,0,0,Spring,Occasionally,0,309.63,64,Clothing_Jeans_Blue,Clothing_Jeans_L,Clothing_Jeans_Nevada,63.65,Alta,Moderada
+Jacket,Outerwear,Red,Florida,XL,Male,Standard,PayPal,0,1,Spring,Monthly,9,351.06,20,Outerwear_Jacket_Red,Outerwear_Jacket_XL,Outerwear_Jacket_Florida,91.52,Alta,Alta probabilidade
+Jeans,Clothing,White,Texas,L,Female,Standard,Debit Card,1,1,Summer,Occasionally,5,177.81,65,Clothing_Jeans_White,Clothing_Jeans_L,Clothing_Jeans_Texas,81.24,Alta,Alta probabilidade
+Jeans,Outerwear,Black,Nevada,L,Female,Standard,Credit Card,1,0,Winter,Weekly,0,62.9,18,Outerwear_Jeans_Black,Outerwear_Jeans_L,Outerwear_Jeans_Nevada,53.4,Alta,Moderada
+T-shirt,Footwear,Green,Nevada,M,Female,Standard,Credit Card,0,0,Summer,Weekly,8,44.13,44,Footwear_T-shirt_Green,Footwear_T-shirt_M,Footwear_T-shirt_Nevada,47.12,Não-Alta,Baixa
+Jeans,Clothing,Black,Texas,S,Male,Express,Credit Card,0,0,Winter,Monthly,1,298.58,65,Clothing_Jeans_Black,Clothing_Jeans_S,Clothing_Jeans_Texas,79.51,Alta,Alta probabilidade
+Shoes,Footwear,Yellow,Texas,L,Male,Express,PayPal,0,1,Winter,Weekly,0,265.12,41,Footwear_Shoes_Yellow,Footwear_Shoes_L,Footwear_Shoes_Texas,80.65,Alta,Alta probabilidade
+Dress,Outerwear,Green,New York,L,Male,Express,Debit Card,1,1,Winter,Weekly,6,373.68,61,Outerwear_Dress_Green,Outerwear_Dress_L,Outerwear_Dress_New York,74.47,Alta,Alta probabilidade
+Dress,Accessories,Blue,Florida,M,Female,Express,Credit Card,1,0,Spring,Monthly,5,259.77,36,Accessories_Dress_Blue,Accessories_Dress_M,Accessories_Dress_Florida,65.23,Alta,Moderada
+Jacket,Accessories,Red,Florida,L,Male,Express,Credit Card,0,1,Winter,Weekly,5,217.0,25,Accessories_Jacket_Red,Accessories_Jacket_L,Accessories_Jacket_Florida,71.98,Alta,Alta probabilidade
+Jeans,Clothing,Blue,Texas,S,Male,Standard,Credit Card,0,1,Spring,Monthly,4,205.06,61,Clothing_Jeans_Blue,Clothing_Jeans_S,Clothing_Jeans_Texas,50.92,Alta,Moderada
+Shoes,Footwear,White,California,M,Male,Express,Credit Card,1,1,Winter,Occasionally,3,22.96,64,Footwear_Shoes_White,Footwear_Shoes_M,Footwear_Shoes_California,44.87,Não-Alta,Baixa
+Jacket,Footwear,Black,Nevada,S,Male,Express,Debit Card,0,0,Spring,Occasionally,3,174.42,19,Footwear_Jacket_Black,Footwear_Jacket_S,Footwear_Jacket_Nevada,74.83,Alta,Alta probabilidade
+T-shirt,Clothing,Yellow,Nevada,S,Male,Express,PayPal,1,1,Fall,Occasionally,2,488.25,47,Clothing_T-shirt_Yellow,Clothing_T-shirt_S,Clothing_T-shirt_Nevada,92.51,Alta,Alta probabilidade
+Jacket,Accessories,Green,Texas,M,Male,Standard,Debit Card,1,0,Spring,Monthly,9,438.04,47,Accessories_Jacket_Green,Accessories_Jacket_M,Accessories_Jacket_Texas,87.52,Alta,Alta probabilidade
+Jacket,Outerwear,Green,California,L,Male,Standard,Credit Card,1,0,Spring,Monthly,7,171.4,66,Outerwear_Jacket_Green,Outerwear_Jacket_L,Outerwear_Jacket_California,78.04,Alta,Alta probabilidade
+Jeans,Clothing,Black,New York,S,Female,Express,Debit Card,1,1,Summer,Weekly,6,298.02,56,Clothing_Jeans_Black,Clothing_Jeans_S,Clothing_Jeans_New York,53.94,Alta,Moderada
+T-shirt,Outerwear,Yellow,Texas,S,Female,Standard,Credit Card,1,0,Winter,Weekly,8,425.18,62,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_S,Outerwear_T-shirt_Texas,94.57,Alta,Alta probabilidade
+Jacket,Accessories,Black,Texas,S,Female,Standard,PayPal,1,1,Fall,Weekly,0,226.22,49,Accessories_Jacket_Black,Accessories_Jacket_S,Accessories_Jacket_Texas,83.11,Alta,Alta probabilidade
+Shoes,Footwear,White,Nevada,S,Male,Express,PayPal,0,0,Summer,Weekly,6,18.8,18,Footwear_Shoes_White,Footwear_Shoes_S,Footwear_Shoes_Nevada,64.38,Alta,Moderada
+Shoes,Accessories,Blue,Texas,M,Male,Standard,PayPal,1,0,Winter,Weekly,9,46.51,55,Accessories_Shoes_Blue,Accessories_Shoes_M,Accessories_Shoes_Texas,48.25,Não-Alta,Baixa
+Dress,Clothing,Green,Texas,M,Female,Standard,Credit Card,1,1,Fall,Monthly,3,260.09,30,Clothing_Dress_Green,Clothing_Dress_M,Clothing_Dress_Texas,62.9,Alta,Moderada
+T-shirt,Footwear,White,Texas,XL,Male,Standard,Debit Card,0,0,Fall,Monthly,6,485.03,28,Footwear_T-shirt_White,Footwear_T-shirt_XL,Footwear_T-shirt_Texas,96.36,Alta,Alta probabilidade
+T-shirt,Clothing,Blue,Nevada,XL,Female,Express,PayPal,1,0,Fall,Occasionally,0,349.67,27,Clothing_T-shirt_Blue,Clothing_T-shirt_XL,Clothing_T-shirt_Nevada,83.48,Alta,Alta probabilidade
+Dress,Clothing,White,New York,S,Male,Express,Credit Card,0,0,Winter,Occasionally,4,44.75,65,Clothing_Dress_White,Clothing_Dress_S,Clothing_Dress_New York,37.43,Não-Alta,Baixa
+Jacket,Accessories,Yellow,New York,L,Male,Express,Credit Card,1,1,Fall,Occasionally,2,102.79,43,Accessories_Jacket_Yellow,Accessories_Jacket_L,Accessories_Jacket_New York,66.54,Alta,Moderada
+T-shirt,Clothing,Green,Texas,S,Female,Standard,Debit Card,0,1,Fall,Occasionally,4,387.95,37,Clothing_T-shirt_Green,Clothing_T-shirt_S,Clothing_T-shirt_Texas,92.64,Alta,Alta probabilidade
+Shoes,Accessories,Black,Nevada,L,Female,Express,PayPal,0,0,Summer,Monthly,3,422.31,34,Accessories_Shoes_Black,Accessories_Shoes_L,Accessories_Shoes_Nevada,81.85,Alta,Alta probabilidade
+Shoes,Footwear,Black,New York,S,Female,Standard,Credit Card,1,0,Spring,Monthly,1,312.67,34,Footwear_Shoes_Black,Footwear_Shoes_S,Footwear_Shoes_New York,72.51,Alta,Alta probabilidade
+Jeans,Accessories,Blue,New York,XL,Female,Standard,Debit Card,1,0,Winter,Monthly,3,325.77,21,Accessories_Jeans_Blue,Accessories_Jeans_XL,Accessories_Jeans_New York,76.98,Alta,Alta probabilidade
+T-shirt,Footwear,Red,New York,XL,Female,Standard,PayPal,1,1,Spring,Weekly,2,23.89,22,Footwear_T-shirt_Red,Footwear_T-shirt_XL,Footwear_T-shirt_New York,66.57,Alta,Moderada
+Jacket,Accessories,Yellow,Nevada,L,Male,Express,Debit Card,1,1,Summer,Weekly,0,415.98,40,Accessories_Jacket_Yellow,Accessories_Jacket_L,Accessories_Jacket_Nevada,86.91,Alta,Alta probabilidade
+Dress,Outerwear,Blue,Nevada,S,Male,Express,Debit Card,0,0,Spring,Occasionally,9,396.25,63,Outerwear_Dress_Blue,Outerwear_Dress_S,Outerwear_Dress_Nevada,79.0,Alta,Alta probabilidade
+Dress,Outerwear,Red,Texas,L,Male,Express,Credit Card,0,1,Fall,Weekly,7,136.93,69,Outerwear_Dress_Red,Outerwear_Dress_L,Outerwear_Dress_Texas,68.57,Alta,Moderada
+Jacket,Clothing,White,Florida,XL,Female,Express,Credit Card,0,1,Fall,Monthly,4,357.25,27,Clothing_Jacket_White,Clothing_Jacket_XL,Clothing_Jacket_Florida,85.54,Alta,Alta probabilidade
+Jeans,Accessories,Yellow,New York,S,Female,Standard,Credit Card,1,1,Winter,Occasionally,3,115.28,63,Accessories_Jeans_Yellow,Accessories_Jeans_S,Accessories_Jeans_New York,63.97,Alta,Moderada
+Dress,Accessories,White,Florida,S,Female,Express,Debit Card,0,1,Winter,Occasionally,9,29.76,45,Accessories_Dress_White,Accessories_Dress_S,Accessories_Dress_Florida,49.14,Não-Alta,Baixa
+T-shirt,Footwear,Green,Nevada,L,Female,Standard,Credit Card,1,0,Winter,Weekly,4,108.56,50,Footwear_T-shirt_Green,Footwear_T-shirt_L,Footwear_T-shirt_Nevada,55.13,Alta,Moderada
+Jeans,Clothing,Yellow,Nevada,M,Female,Express,Debit Card,1,1,Summer,Occasionally,3,97.53,60,Clothing_Jeans_Yellow,Clothing_Jeans_M,Clothing_Jeans_Nevada,22.18,Não-Alta,Baixa
+T-shirt,Accessories,Red,Nevada,L,Female,Express,Debit Card,0,1,Winter,Weekly,2,175.5,43,Accessories_T-shirt_Red,Accessories_T-shirt_L,Accessories_T-shirt_Nevada,63.88,Alta,Moderada
+Shoes,Clothing,Green,Florida,XL,Male,Express,Credit Card,1,0,Summer,Weekly,4,215.04,67,Clothing_Shoes_Green,Clothing_Shoes_XL,Clothing_Shoes_Florida,56.51,Alta,Moderada
+Jeans,Outerwear,Black,Nevada,XL,Male,Standard,PayPal,0,0,Fall,Occasionally,3,259.18,65,Outerwear_Jeans_Black,Outerwear_Jeans_XL,Outerwear_Jeans_Nevada,74.92,Alta,Alta probabilidade
+Dress,Accessories,Red,Texas,XL,Male,Standard,PayPal,1,1,Spring,Weekly,0,243.61,46,Accessories_Dress_Red,Accessories_Dress_XL,Accessories_Dress_Texas,85.48,Alta,Alta probabilidade
+Jeans,Accessories,Blue,Nevada,XL,Male,Standard,PayPal,0,1,Fall,Weekly,2,142.63,44,Accessories_Jeans_Blue,Accessories_Jeans_XL,Accessories_Jeans_Nevada,59.8,Alta,Moderada
+Jeans,Clothing,Black,California,XL,Male,Standard,Debit Card,1,0,Fall,Weekly,9,24.29,35,Clothing_Jeans_Black,Clothing_Jeans_XL,Clothing_Jeans_California,73.78,Alta,Alta probabilidade
+Jeans,Accessories,Black,Florida,M,Female,Standard,Debit Card,0,0,Fall,Weekly,9,306.5,57,Accessories_Jeans_Black,Accessories_Jeans_M,Accessories_Jeans_Florida,71.47,Alta,Alta probabilidade
+Jeans,Clothing,Blue,California,S,Female,Express,Debit Card,0,0,Winter,Occasionally,7,203.91,27,Clothing_Jeans_Blue,Clothing_Jeans_S,Clothing_Jeans_California,28.97,Não-Alta,Baixa
+T-shirt,Accessories,Yellow,Nevada,L,Female,Standard,Credit Card,1,1,Winter,Monthly,6,156.35,59,Accessories_T-shirt_Yellow,Accessories_T-shirt_L,Accessories_T-shirt_Nevada,75.38,Alta,Alta probabilidade
+Shoes,Footwear,Black,Texas,L,Female,Standard,Debit Card,1,1,Winter,Monthly,1,434.8,22,Footwear_Shoes_Black,Footwear_Shoes_L,Footwear_Shoes_Texas,75.37,Alta,Alta probabilidade
+Jacket,Clothing,Red,New York,XL,Female,Standard,Credit Card,0,0,Spring,Weekly,0,375.9,27,Clothing_Jacket_Red,Clothing_Jacket_XL,Clothing_Jacket_New York,88.09,Alta,Alta probabilidade
+Jeans,Accessories,Green,Nevada,L,Female,Standard,Credit Card,1,1,Winter,Weekly,2,430.31,67,Accessories_Jeans_Green,Accessories_Jeans_L,Accessories_Jeans_Nevada,74.85,Alta,Alta probabilidade
+Dress,Outerwear,Black,Texas,XL,Male,Express,PayPal,1,0,Summer,Weekly,4,252.54,38,Outerwear_Dress_Black,Outerwear_Dress_XL,Outerwear_Dress_Texas,85.31,Alta,Alta probabilidade
+Jeans,Accessories,Red,Florida,M,Female,Standard,PayPal,1,1,Fall,Monthly,9,74.16,41,Accessories_Jeans_Red,Accessories_Jeans_M,Accessories_Jeans_Florida,37.53,Não-Alta,Baixa
+Dress,Outerwear,White,California,M,Female,Express,PayPal,0,0,Spring,Weekly,0,351.15,55,Outerwear_Dress_White,Outerwear_Dress_M,Outerwear_Dress_California,78.6,Alta,Alta probabilidade
+T-shirt,Outerwear,Red,California,S,Female,Express,Credit Card,0,0,Spring,Occasionally,2,110.98,20,Outerwear_T-shirt_Red,Outerwear_T-shirt_S,Outerwear_T-shirt_California,68.93,Alta,Moderada
+Dress,Footwear,Green,California,M,Female,Express,Credit Card,1,1,Spring,Occasionally,2,226.2,57,Footwear_Dress_Green,Footwear_Dress_M,Footwear_Dress_California,63.78,Alta,Moderada
+Jacket,Clothing,Red,Florida,M,Male,Standard,Credit Card,1,1,Spring,Occasionally,4,41.85,48,Clothing_Jacket_Red,Clothing_Jacket_M,Clothing_Jacket_Florida,46.92,Não-Alta,Baixa
+Shoes,Accessories,Blue,Texas,S,Male,Express,Debit Card,0,1,Spring,Monthly,2,414.4,58,Accessories_Shoes_Blue,Accessories_Shoes_S,Accessories_Shoes_Texas,88.46,Alta,Alta probabilidade
+Dress,Footwear,Green,Florida,L,Female,Standard,Credit Card,1,1,Summer,Weekly,8,71.71,54,Footwear_Dress_Green,Footwear_Dress_L,Footwear_Dress_Florida,48.56,Não-Alta,Baixa
+Dress,Accessories,Yellow,California,XL,Male,Standard,PayPal,0,1,Fall,Weekly,0,452.52,19,Accessories_Dress_Yellow,Accessories_Dress_XL,Accessories_Dress_California,95.2,Alta,Alta probabilidade
+Shoes,Outerwear,White,Nevada,XL,Male,Standard,PayPal,1,1,Spring,Weekly,3,433.47,19,Outerwear_Shoes_White,Outerwear_Shoes_XL,Outerwear_Shoes_Nevada,90.11,Alta,Alta probabilidade
+Jacket,Clothing,Blue,New York,L,Female,Standard,Credit Card,1,0,Fall,Monthly,9,237.65,56,Clothing_Jacket_Blue,Clothing_Jacket_L,Clothing_Jacket_New York,62.66,Alta,Moderada
+Jeans,Accessories,Yellow,Florida,S,Female,Standard,Credit Card,1,1,Winter,Monthly,9,374.74,66,Accessories_Jeans_Yellow,Accessories_Jeans_S,Accessories_Jeans_Florida,84.7,Alta,Alta probabilidade
+Dress,Accessories,Red,Florida,L,Female,Express,PayPal,0,0,Spring,Monthly,3,313.53,59,Accessories_Dress_Red,Accessories_Dress_L,Accessories_Dress_Florida,71.57,Alta,Alta probabilidade
+Shoes,Outerwear,Green,Texas,M,Female,Express,Credit Card,0,0,Spring,Monthly,0,403.51,61,Outerwear_Shoes_Green,Outerwear_Shoes_M,Outerwear_Shoes_Texas,82.77,Alta,Alta probabilidade
+T-shirt,Accessories,White,Texas,S,Female,Standard,PayPal,0,1,Fall,Occasionally,1,221.58,51,Accessories_T-shirt_White,Accessories_T-shirt_S,Accessories_T-shirt_Texas,83.24,Alta,Alta probabilidade
+Shoes,Accessories,Blue,Florida,S,Male,Express,Debit Card,0,0,Spring,Monthly,0,395.05,59,Accessories_Shoes_Blue,Accessories_Shoes_S,Accessories_Shoes_Florida,79.11,Alta,Alta probabilidade
+T-shirt,Outerwear,Yellow,California,S,Female,Standard,PayPal,1,0,Spring,Monthly,5,236.6,37,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_S,Outerwear_T-shirt_California,85.26,Alta,Alta probabilidade
+Jacket,Footwear,Yellow,New York,XL,Female,Express,Debit Card,1,1,Spring,Monthly,2,471.07,50,Footwear_Jacket_Yellow,Footwear_Jacket_XL,Footwear_Jacket_New York,94.11,Alta,Alta probabilidade
+Jeans,Outerwear,White,Texas,L,Female,Express,Credit Card,0,1,Summer,Weekly,6,248.32,21,Outerwear_Jeans_White,Outerwear_Jeans_L,Outerwear_Jeans_Texas,78.6,Alta,Alta probabilidade
+Shoes,Footwear,Red,California,S,Male,Express,Credit Card,1,1,Summer,Weekly,4,236.68,62,Footwear_Shoes_Red,Footwear_Shoes_S,Footwear_Shoes_California,43.57,Não-Alta,Baixa
+Dress,Clothing,White,Nevada,S,Female,Express,Debit Card,1,0,Spring,Weekly,8,394.69,61,Clothing_Dress_White,Clothing_Dress_S,Clothing_Dress_Nevada,49.3,Não-Alta,Baixa
+Jacket,Footwear,Yellow,Texas,S,Female,Express,Credit Card,0,1,Summer,Occasionally,6,412.57,28,Footwear_Jacket_Yellow,Footwear_Jacket_S,Footwear_Jacket_Texas,94.31,Alta,Alta probabilidade
+Shoes,Footwear,Black,California,L,Female,Standard,Debit Card,1,1,Winter,Occasionally,3,281.7,59,Footwear_Shoes_Black,Footwear_Shoes_L,Footwear_Shoes_California,68.46,Alta,Moderada
+Dress,Clothing,Blue,California,XL,Male,Standard,Credit Card,1,1,Spring,Monthly,4,98.1,64,Clothing_Dress_Blue,Clothing_Dress_XL,Clothing_Dress_California,71.97,Alta,Alta probabilidade
+Shoes,Footwear,White,New York,M,Female,Express,PayPal,0,1,Winter,Weekly,4,239.2,22,Footwear_Shoes_White,Footwear_Shoes_M,Footwear_Shoes_New York,71.37,Alta,Alta probabilidade
+T-shirt,Outerwear,Yellow,New York,XL,Female,Standard,Credit Card,1,0,Fall,Occasionally,4,484.36,42,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_XL,Outerwear_T-shirt_New York,94.93,Alta,Alta probabilidade
+Shoes,Footwear,Red,Nevada,S,Female,Express,PayPal,1,1,Winter,Weekly,9,378.96,66,Footwear_Shoes_Red,Footwear_Shoes_S,Footwear_Shoes_Nevada,67.55,Alta,Moderada
+Shoes,Clothing,Yellow,California,XL,Male,Standard,PayPal,1,0,Fall,Occasionally,8,407.47,54,Clothing_Shoes_Yellow,Clothing_Shoes_XL,Clothing_Shoes_California,88.02,Alta,Alta probabilidade
+Shoes,Outerwear,Red,California,XL,Female,Express,Debit Card,0,1,Spring,Occasionally,9,26.08,51,Outerwear_Shoes_Red,Outerwear_Shoes_XL,Outerwear_Shoes_California,54.74,Alta,Moderada
+Jacket,Clothing,White,New York,M,Female,Express,Credit Card,0,0,Fall,Monthly,2,239.25,26,Clothing_Jacket_White,Clothing_Jacket_M,Clothing_Jacket_New York,66.32,Alta,Moderada
+Shoes,Clothing,Red,Texas,L,Female,Express,Debit Card,1,0,Fall,Monthly,5,326.84,23,Clothing_Shoes_Red,Clothing_Shoes_L,Clothing_Shoes_Texas,74.05,Alta,Alta probabilidade
+Dress,Accessories,Green,Texas,L,Male,Standard,Credit Card,1,0,Winter,Occasionally,7,416.72,35,Accessories_Dress_Green,Accessories_Dress_L,Accessories_Dress_Texas,87.44,Alta,Alta probabilidade
+T-shirt,Accessories,Green,Florida,XL,Female,Standard,PayPal,1,1,Winter,Monthly,8,34.14,31,Accessories_T-shirt_Green,Accessories_T-shirt_XL,Accessories_T-shirt_Florida,57.21,Alta,Moderada
+T-shirt,Clothing,Green,New York,XL,Female,Express,PayPal,0,0,Winter,Occasionally,6,427.7,36,Clothing_T-shirt_Green,Clothing_T-shirt_XL,Clothing_T-shirt_New York,91.12,Alta,Alta probabilidade
+Shoes,Clothing,Black,Florida,L,Female,Express,Credit Card,0,1,Spring,Occasionally,2,278.72,31,Clothing_Shoes_Black,Clothing_Shoes_L,Clothing_Shoes_Florida,77.57,Alta,Alta probabilidade
+Jacket,Clothing,White,New York,L,Male,Standard,Credit Card,0,1,Spring,Weekly,0,106.68,57,Clothing_Jacket_White,Clothing_Jacket_L,Clothing_Jacket_New York,66.37,Alta,Moderada
+Jacket,Accessories,Yellow,Nevada,M,Male,Standard,Debit Card,1,1,Winter,Monthly,3,165.46,34,Accessories_Jacket_Yellow,Accessories_Jacket_M,Accessories_Jacket_Nevada,71.53,Alta,Alta probabilidade
+Dress,Accessories,Yellow,California,S,Female,Standard,Credit Card,1,1,Spring,Monthly,5,148.15,52,Accessories_Dress_Yellow,Accessories_Dress_S,Accessories_Dress_California,79.07,Alta,Alta probabilidade
+Shoes,Footwear,Black,Nevada,XL,Male,Standard,Credit Card,1,1,Spring,Monthly,2,270.12,46,Footwear_Shoes_Black,Footwear_Shoes_XL,Footwear_Shoes_Nevada,90.83,Alta,Alta probabilidade
+T-shirt,Footwear,Red,New York,L,Male,Standard,Credit Card,1,0,Fall,Weekly,0,35.33,59,Footwear_T-shirt_Red,Footwear_T-shirt_L,Footwear_T-shirt_New York,53.48,Alta,Moderada
+Jacket,Clothing,Black,California,XL,Male,Express,Debit Card,1,1,Fall,Weekly,5,87.68,34,Clothing_Jacket_Black,Clothing_Jacket_XL,Clothing_Jacket_California,67.64,Alta,Moderada
+Shoes,Outerwear,Red,Texas,XL,Female,Standard,Credit Card,0,0,Winter,Weekly,0,408.22,60,Outerwear_Shoes_Red,Outerwear_Shoes_XL,Outerwear_Shoes_Texas,90.99,Alta,Alta probabilidade
+Jacket,Outerwear,Red,Texas,L,Female,Express,PayPal,1,0,Spring,Monthly,8,74.98,25,Outerwear_Jacket_Red,Outerwear_Jacket_L,Outerwear_Jacket_Texas,62.49,Alta,Moderada
+Jacket,Accessories,Blue,Florida,M,Male,Express,Debit Card,1,0,Fall,Monthly,0,124.36,18,Accessories_Jacket_Blue,Accessories_Jacket_M,Accessories_Jacket_Florida,48.6,Não-Alta,Baixa
+T-shirt,Accessories,Yellow,New York,XL,Male,Standard,Debit Card,1,0,Summer,Monthly,5,232.15,62,Accessories_T-shirt_Yellow,Accessories_T-shirt_XL,Accessories_T-shirt_New York,84.63,Alta,Alta probabilidade
+Jeans,Accessories,Green,New York,M,Male,Standard,PayPal,0,0,Spring,Weekly,0,263.39,53,Accessories_Jeans_Green,Accessories_Jeans_M,Accessories_Jeans_New York,61.58,Alta,Moderada
+Dress,Clothing,Red,Texas,L,Female,Express,PayPal,1,0,Summer,Weekly,6,384.17,24,Clothing_Dress_Red,Clothing_Dress_L,Clothing_Dress_Texas,87.98,Alta,Alta probabilidade
+Dress,Outerwear,Blue,Nevada,S,Female,Standard,PayPal,0,0,Winter,Occasionally,2,229.19,63,Outerwear_Dress_Blue,Outerwear_Dress_S,Outerwear_Dress_Nevada,63.11,Alta,Moderada
+T-shirt,Footwear,Yellow,California,S,Male,Express,Credit Card,0,1,Spring,Weekly,5,397.03,22,Footwear_T-shirt_Yellow,Footwear_T-shirt_S,Footwear_T-shirt_California,94.84,Alta,Alta probabilidade
+Jacket,Clothing,Green,Nevada,XL,Male,Standard,PayPal,0,0,Winter,Occasionally,6,312.99,41,Clothing_Jacket_Green,Clothing_Jacket_XL,Clothing_Jacket_Nevada,75.17,Alta,Alta probabilidade
+Shoes,Footwear,Red,Nevada,L,Male,Standard,Credit Card,0,1,Winter,Monthly,0,65.42,45,Footwear_Shoes_Red,Footwear_Shoes_L,Footwear_Shoes_Nevada,56.78,Alta,Moderada
+Jacket,Footwear,Red,Texas,M,Male,Standard,Debit Card,0,0,Winter,Weekly,0,86.6,60,Footwear_Jacket_Red,Footwear_Jacket_M,Footwear_Jacket_Texas,64.33,Alta,Moderada
+T-shirt,Clothing,Black,Texas,XL,Female,Express,Debit Card,1,0,Winter,Monthly,4,224.15,34,Clothing_T-shirt_Black,Clothing_T-shirt_XL,Clothing_T-shirt_Texas,90.17,Alta,Alta probabilidade
+Dress,Footwear,Black,Texas,L,Male,Standard,PayPal,1,0,Winter,Monthly,5,204.48,54,Footwear_Dress_Black,Footwear_Dress_L,Footwear_Dress_Texas,80.66,Alta,Alta probabilidade
+Jacket,Outerwear,Yellow,Florida,L,Female,Express,Credit Card,0,0,Spring,Monthly,8,374.34,37,Outerwear_Jacket_Yellow,Outerwear_Jacket_L,Outerwear_Jacket_Florida,92.0,Alta,Alta probabilidade
+Dress,Footwear,Green,Nevada,M,Male,Standard,PayPal,0,1,Summer,Monthly,0,294.56,20,Footwear_Dress_Green,Footwear_Dress_M,Footwear_Dress_Nevada,71.67,Alta,Alta probabilidade
+Shoes,Outerwear,Red,New York,XL,Male,Express,PayPal,0,1,Spring,Weekly,3,200.19,54,Outerwear_Shoes_Red,Outerwear_Shoes_XL,Outerwear_Shoes_New York,71.82,Alta,Alta probabilidade
+Dress,Outerwear,Yellow,California,L,Male,Standard,Credit Card,1,1,Spring,Monthly,9,93.67,43,Outerwear_Dress_Yellow,Outerwear_Dress_L,Outerwear_Dress_California,75.84,Alta,Alta probabilidade
+Dress,Outerwear,Yellow,Florida,L,Male,Express,PayPal,1,0,Spring,Occasionally,7,121.15,32,Outerwear_Dress_Yellow,Outerwear_Dress_L,Outerwear_Dress_Florida,65.52,Alta,Moderada
+Jeans,Accessories,White,New York,L,Male,Express,Debit Card,0,0,Fall,Weekly,9,292.0,68,Accessories_Jeans_White,Accessories_Jeans_L,Accessories_Jeans_New York,65.43,Alta,Moderada
+Jeans,Footwear,Black,Nevada,M,Female,Express,PayPal,1,0,Fall,Monthly,8,217.49,65,Footwear_Jeans_Black,Footwear_Jeans_M,Footwear_Jeans_Nevada,52.12,Alta,Moderada
+Jeans,Clothing,Green,Texas,XL,Male,Express,Credit Card,1,1,Spring,Weekly,2,262.31,25,Clothing_Jeans_Green,Clothing_Jeans_XL,Clothing_Jeans_Texas,86.34,Alta,Alta probabilidade
+Dress,Clothing,Red,Nevada,XL,Male,Express,Credit Card,0,0,Summer,Occasionally,1,93.63,30,Clothing_Dress_Red,Clothing_Dress_XL,Clothing_Dress_Nevada,74.12,Alta,Alta probabilidade
+T-shirt,Footwear,Yellow,California,XL,Male,Express,Debit Card,0,1,Spring,Monthly,3,334.82,65,Footwear_T-shirt_Yellow,Footwear_T-shirt_XL,Footwear_T-shirt_California,93.08,Alta,Alta probabilidade
+Dress,Accessories,Red,Florida,XL,Female,Standard,Credit Card,1,1,Winter,Occasionally,1,427.74,20,Accessories_Dress_Red,Accessories_Dress_XL,Accessories_Dress_Florida,89.36,Alta,Alta probabilidade
+T-shirt,Accessories,White,Florida,S,Female,Express,Credit Card,1,0,Fall,Monthly,0,136.39,18,Accessories_T-shirt_White,Accessories_T-shirt_S,Accessories_T-shirt_Florida,65.27,Alta,Moderada
+T-shirt,Outerwear,Green,California,S,Female,Express,Debit Card,1,0,Fall,Occasionally,2,250.84,26,Outerwear_T-shirt_Green,Outerwear_T-shirt_S,Outerwear_T-shirt_California,68.71,Alta,Moderada
+Jeans,Footwear,Yellow,New York,XL,Female,Express,PayPal,0,1,Spring,Monthly,6,488.01,48,Footwear_Jeans_Yellow,Footwear_Jeans_XL,Footwear_Jeans_New York,93.19,Alta,Alta probabilidade
+Jacket,Footwear,Red,New York,M,Male,Standard,Debit Card,0,1,Spring,Weekly,0,173.29,58,Footwear_Jacket_Red,Footwear_Jacket_M,Footwear_Jacket_New York,68.7,Alta,Moderada
+Shoes,Clothing,Black,Florida,S,Male,Standard,PayPal,0,1,Summer,Monthly,1,301.57,43,Clothing_Shoes_Black,Clothing_Shoes_S,Clothing_Shoes_Florida,79.25,Alta,Alta probabilidade
+Jeans,Footwear,White,Florida,L,Male,Standard,Debit Card,1,0,Summer,Weekly,0,54.2,34,Footwear_Jeans_White,Footwear_Jeans_L,Footwear_Jeans_Florida,45.82,Não-Alta,Baixa
+Jeans,Accessories,Green,Texas,S,Female,Express,PayPal,1,0,Winter,Monthly,7,306.95,51,Accessories_Jeans_Green,Accessories_Jeans_S,Accessories_Jeans_Texas,68.83,Alta,Moderada
+Jacket,Footwear,White,New York,L,Male,Standard,Debit Card,0,0,Spring,Monthly,4,53.92,26,Footwear_Jacket_White,Footwear_Jacket_L,Footwear_Jacket_New York,64.21,Alta,Moderada
+Shoes,Clothing,Black,California,XL,Male,Standard,PayPal,1,0,Spring,Occasionally,7,480.03,68,Clothing_Shoes_Black,Clothing_Shoes_XL,Clothing_Shoes_California,90.82,Alta,Alta probabilidade
+Dress,Outerwear,Green,New York,S,Female,Express,Debit Card,0,0,Spring,Occasionally,2,360.67,30,Outerwear_Dress_Green,Outerwear_Dress_S,Outerwear_Dress_New York,78.0,Alta,Alta probabilidade
+Dress,Clothing,White,Texas,M,Female,Express,PayPal,1,0,Fall,Occasionally,6,396.2,22,Clothing_Dress_White,Clothing_Dress_M,Clothing_Dress_Texas,65.37,Alta,Moderada
+Jeans,Clothing,Blue,Florida,S,Female,Standard,Debit Card,0,1,Winter,Monthly,7,355.01,58,Clothing_Jeans_Blue,Clothing_Jeans_S,Clothing_Jeans_Florida,21.37,Não-Alta,Baixa
+Shoes,Outerwear,Black,Florida,S,Male,Express,Credit Card,1,1,Summer,Monthly,5,298.97,30,Outerwear_Shoes_Black,Outerwear_Shoes_S,Outerwear_Shoes_Florida,80.03,Alta,Alta probabilidade
+Jeans,Clothing,Black,Texas,S,Male,Express,PayPal,1,1,Fall,Monthly,6,230.46,18,Clothing_Jeans_Black,Clothing_Jeans_S,Clothing_Jeans_Texas,73.37,Alta,Alta probabilidade
+T-shirt,Clothing,Black,California,XL,Female,Express,Debit Card,0,0,Fall,Weekly,1,430.6,42,Clothing_T-shirt_Black,Clothing_T-shirt_XL,Clothing_T-shirt_California,91.88,Alta,Alta probabilidade
+Jeans,Footwear,Blue,Florida,M,Male,Express,PayPal,0,1,Fall,Weekly,7,478.85,64,Footwear_Jeans_Blue,Footwear_Jeans_M,Footwear_Jeans_Florida,77.97,Alta,Alta probabilidade
+Jeans,Footwear,Blue,Nevada,S,Female,Standard,PayPal,0,0,Fall,Monthly,4,254.53,21,Footwear_Jeans_Blue,Footwear_Jeans_S,Footwear_Jeans_Nevada,64.53,Alta,Moderada
+Dress,Outerwear,Red,Florida,M,Female,Express,Debit Card,0,0,Winter,Occasionally,6,466.45,53,Outerwear_Dress_Red,Outerwear_Dress_M,Outerwear_Dress_Florida,79.85,Alta,Alta probabilidade
+Dress,Footwear,Yellow,Nevada,XL,Male,Standard,PayPal,0,1,Spring,Occasionally,0,295.83,69,Footwear_Dress_Yellow,Footwear_Dress_XL,Footwear_Dress_Nevada,88.56,Alta,Alta probabilidade
+Dress,Footwear,White,Texas,L,Female,Standard,Debit Card,1,0,Summer,Occasionally,4,273.81,27,Footwear_Dress_White,Footwear_Dress_L,Footwear_Dress_Texas,81.49,Alta,Alta probabilidade
+T-shirt,Clothing,Red,Texas,S,Female,Standard,Credit Card,0,1,Summer,Monthly,0,232.7,45,Clothing_T-shirt_Red,Clothing_T-shirt_S,Clothing_T-shirt_Texas,88.52,Alta,Alta probabilidade
+Dress,Accessories,White,Florida,M,Female,Standard,PayPal,0,1,Fall,Occasionally,7,112.55,23,Accessories_Dress_White,Accessories_Dress_M,Accessories_Dress_Florida,57.34,Alta,Moderada
+Shoes,Footwear,Yellow,New York,M,Male,Express,Credit Card,0,0,Fall,Monthly,3,11.82,44,Footwear_Shoes_Yellow,Footwear_Shoes_M,Footwear_Shoes_New York,59.76,Alta,Moderada
+Jacket,Accessories,Blue,Nevada,XL,Female,Express,PayPal,0,1,Winter,Weekly,3,128.34,29,Accessories_Jacket_Blue,Accessories_Jacket_XL,Accessories_Jacket_Nevada,62.97,Alta,Moderada
+Shoes,Footwear,Yellow,California,S,Female,Express,PayPal,0,1,Fall,Occasionally,1,259.76,69,Footwear_Shoes_Yellow,Footwear_Shoes_S,Footwear_Shoes_California,80.32,Alta,Alta probabilidade
+Shoes,Footwear,Blue,Florida,L,Female,Standard,PayPal,1,1,Summer,Weekly,4,196.18,65,Footwear_Shoes_Blue,Footwear_Shoes_L,Footwear_Shoes_Florida,46.77,Não-Alta,Baixa
+Dress,Outerwear,Yellow,California,M,Female,Standard,Debit Card,0,1,Summer,Occasionally,0,229.76,20,Outerwear_Dress_Yellow,Outerwear_Dress_M,Outerwear_Dress_California,80.8,Alta,Alta probabilidade
+Jacket,Outerwear,Red,Florida,S,Female,Standard,Credit Card,0,0,Spring,Monthly,8,490.52,63,Outerwear_Jacket_Red,Outerwear_Jacket_S,Outerwear_Jacket_Florida,93.03,Alta,Alta probabilidade
+Jacket,Outerwear,Green,New York,L,Female,Express,PayPal,0,1,Spring,Monthly,4,181.63,50,Outerwear_Jacket_Green,Outerwear_Jacket_L,Outerwear_Jacket_New York,82.18,Alta,Alta probabilidade
+Jacket,Accessories,Red,New York,M,Female,Standard,Debit Card,1,1,Summer,Monthly,5,231.57,27,Accessories_Jacket_Red,Accessories_Jacket_M,Accessories_Jacket_New York,66.51,Alta,Moderada
+T-shirt,Clothing,White,New York,M,Male,Express,PayPal,1,1,Summer,Monthly,1,75.42,48,Clothing_T-shirt_White,Clothing_T-shirt_M,Clothing_T-shirt_New York,55.42,Alta,Moderada
+Dress,Footwear,Red,New York,L,Male,Express,Debit Card,0,0,Winter,Occasionally,9,33.5,32,Footwear_Dress_Red,Footwear_Dress_L,Footwear_Dress_New York,46.73,Não-Alta,Baixa
+Jacket,Footwear,Black,Texas,L,Female,Express,PayPal,0,1,Winter,Weekly,9,389.95,24,Footwear_Jacket_Black,Footwear_Jacket_L,Footwear_Jacket_Texas,91.98,Alta,Alta probabilidade
+T-shirt,Footwear,White,Texas,XL,Male,Express,Credit Card,1,0,Summer,Monthly,0,289.63,53,Footwear_T-shirt_White,Footwear_T-shirt_XL,Footwear_T-shirt_Texas,88.82,Alta,Alta probabilidade
+Jeans,Accessories,Yellow,Nevada,S,Male,Standard,Credit Card,1,1,Fall,Occasionally,3,382.75,31,Accessories_Jeans_Yellow,Accessories_Jeans_S,Accessories_Jeans_Nevada,85.68,Alta,Alta probabilidade
+Jeans,Outerwear,White,California,S,Female,Express,PayPal,1,1,Spring,Weekly,6,83.43,65,Outerwear_Jeans_White,Outerwear_Jeans_S,Outerwear_Jeans_California,49.43,Não-Alta,Baixa
+T-shirt,Clothing,Green,Florida,XL,Male,Standard,Debit Card,0,1,Summer,Monthly,5,290.2,31,Clothing_T-shirt_Green,Clothing_T-shirt_XL,Clothing_T-shirt_Florida,88.66,Alta,Alta probabilidade
+T-shirt,Accessories,Blue,Florida,M,Female,Express,PayPal,0,0,Fall,Weekly,9,134.28,20,Accessories_T-shirt_Blue,Accessories_T-shirt_M,Accessories_T-shirt_Florida,54.16,Alta,Moderada
+Dress,Outerwear,Yellow,Texas,L,Female,Standard,Debit Card,1,0,Summer,Monthly,0,121.75,66,Outerwear_Dress_Yellow,Outerwear_Dress_L,Outerwear_Dress_Texas,73.35,Alta,Alta probabilidade
+Dress,Accessories,White,Florida,L,Female,Standard,PayPal,0,0,Spring,Weekly,0,15.65,63,Accessories_Dress_White,Accessories_Dress_L,Accessories_Dress_Florida,48.69,Não-Alta,Baixa
+Jeans,Clothing,Yellow,Texas,L,Female,Express,Debit Card,1,0,Spring,Weekly,7,73.87,67,Clothing_Jeans_Yellow,Clothing_Jeans_L,Clothing_Jeans_Texas,75.06,Alta,Alta probabilidade
+Jacket,Outerwear,Yellow,Nevada,M,Female,Express,Credit Card,1,0,Winter,Monthly,3,161.54,20,Outerwear_Jacket_Yellow,Outerwear_Jacket_M,Outerwear_Jacket_Nevada,61.59,Alta,Moderada
+Jeans,Accessories,Yellow,California,L,Male,Express,PayPal,1,0,Winter,Occasionally,4,67.27,39,Accessories_Jeans_Yellow,Accessories_Jeans_L,Accessories_Jeans_California,52.09,Alta,Moderada
+Jacket,Clothing,Blue,Nevada,L,Female,Standard,Credit Card,0,1,Winter,Weekly,6,493.07,36,Clothing_Jacket_Blue,Clothing_Jacket_L,Clothing_Jacket_Nevada,87.56,Alta,Alta probabilidade
+Jacket,Footwear,Red,New York,XL,Male,Express,Credit Card,1,0,Winter,Monthly,7,161.23,52,Footwear_Jacket_Red,Footwear_Jacket_XL,Footwear_Jacket_New York,68.43,Alta,Moderada
+Dress,Clothing,Yellow,New York,M,Female,Express,PayPal,1,1,Spring,Weekly,9,73.86,29,Clothing_Dress_Yellow,Clothing_Dress_M,Clothing_Dress_New York,74.57,Alta,Alta probabilidade
+Shoes,Footwear,Black,New York,S,Female,Standard,PayPal,0,0,Fall,Weekly,6,107.55,22,Footwear_Shoes_Black,Footwear_Shoes_S,Footwear_Shoes_New York,47.65,Não-Alta,Baixa
+Shoes,Accessories,Green,Nevada,XL,Female,Express,Debit Card,1,0,Fall,Occasionally,1,297.97,27,Accessories_Shoes_Green,Accessories_Shoes_XL,Accessories_Shoes_Nevada,65.62,Alta,Moderada
+T-shirt,Outerwear,Blue,Florida,XL,Male,Standard,Debit Card,0,0,Fall,Weekly,3,41.38,58,Outerwear_T-shirt_Blue,Outerwear_T-shirt_XL,Outerwear_T-shirt_Florida,60.62,Alta,Moderada
+Dress,Outerwear,White,California,S,Female,Express,Credit Card,1,1,Summer,Weekly,9,432.59,50,Outerwear_Dress_White,Outerwear_Dress_S,Outerwear_Dress_California,86.4,Alta,Alta probabilidade
+Jacket,Accessories,Blue,New York,XL,Female,Standard,Debit Card,0,0,Winter,Monthly,0,481.13,30,Accessories_Jacket_Blue,Accessories_Jacket_XL,Accessories_Jacket_New York,91.26,Alta,Alta probabilidade
+Shoes,Outerwear,White,New York,M,Female,Standard,Debit Card,1,0,Winter,Monthly,9,130.91,52,Outerwear_Shoes_White,Outerwear_Shoes_M,Outerwear_Shoes_New York,51.48,Alta,Moderada
+Jacket,Outerwear,Blue,New York,L,Female,Express,PayPal,1,1,Spring,Occasionally,8,230.55,68,Outerwear_Jacket_Blue,Outerwear_Jacket_L,Outerwear_Jacket_New York,74.1,Alta,Alta probabilidade
+Shoes,Footwear,White,California,M,Male,Standard,Debit Card,1,1,Spring,Weekly,2,20.85,49,Footwear_Shoes_White,Footwear_Shoes_M,Footwear_Shoes_California,52.75,Alta,Moderada
+Shoes,Accessories,Yellow,New York,S,Female,Express,Credit Card,1,1,Summer,Weekly,2,323.95,28,Accessories_Shoes_Yellow,Accessories_Shoes_S,Accessories_Shoes_New York,83.24,Alta,Alta probabilidade
+Shoes,Clothing,Red,California,S,Male,Express,Debit Card,1,1,Summer,Weekly,9,212.82,65,Clothing_Shoes_Red,Clothing_Shoes_S,Clothing_Shoes_California,56.94,Alta,Moderada
+Dress,Footwear,White,New York,XL,Female,Standard,Credit Card,0,0,Fall,Occasionally,8,142.33,55,Footwear_Dress_White,Footwear_Dress_XL,Footwear_Dress_New York,71.9,Alta,Alta probabilidade
+Jeans,Accessories,White,Nevada,M,Male,Express,PayPal,0,1,Spring,Weekly,9,111.35,41,Accessories_Jeans_White,Accessories_Jeans_M,Accessories_Jeans_Nevada,48.8,Não-Alta,Baixa
+Jacket,Footwear,Black,Nevada,M,Male,Standard,Credit Card,1,0,Winter,Monthly,2,330.47,52,Footwear_Jacket_Black,Footwear_Jacket_M,Footwear_Jacket_Nevada,81.62,Alta,Alta probabilidade
+Dress,Clothing,White,California,S,Female,Standard,Debit Card,1,0,Fall,Occasionally,7,213.95,36,Clothing_Dress_White,Clothing_Dress_S,Clothing_Dress_California,43.49,Não-Alta,Baixa
+Dress,Clothing,Black,Nevada,M,Female,Standard,PayPal,1,1,Winter,Monthly,1,98.03,23,Clothing_Dress_Black,Clothing_Dress_M,Clothing_Dress_Nevada,75.1,Alta,Alta probabilidade
+Dress,Accessories,Green,California,S,Male,Standard,Debit Card,0,0,Fall,Monthly,2,347.66,57,Accessories_Dress_Green,Accessories_Dress_S,Accessories_Dress_California,78.47,Alta,Alta probabilidade
+Dress,Clothing,Yellow,Nevada,M,Female,Standard,PayPal,0,1,Winter,Occasionally,1,286.89,62,Clothing_Dress_Yellow,Clothing_Dress_M,Clothing_Dress_Nevada,75.68,Alta,Alta probabilidade
+Dress,Footwear,Black,Nevada,M,Female,Standard,PayPal,1,0,Summer,Monthly,0,430.75,61,Footwear_Dress_Black,Footwear_Dress_M,Footwear_Dress_Nevada,82.31,Alta,Alta probabilidade
+T-shirt,Clothing,Red,California,M,Female,Standard,Debit Card,0,1,Fall,Weekly,1,67.56,59,Clothing_T-shirt_Red,Clothing_T-shirt_M,Clothing_T-shirt_California,43.63,Não-Alta,Baixa
+Jacket,Footwear,Yellow,Florida,S,Male,Standard,Debit Card,1,1,Winter,Occasionally,7,394.98,52,Footwear_Jacket_Yellow,Footwear_Jacket_S,Footwear_Jacket_Florida,90.0,Alta,Alta probabilidade
+Dress,Footwear,Black,Nevada,XL,Female,Express,PayPal,1,1,Winter,Monthly,8,340.02,21,Footwear_Dress_Black,Footwear_Dress_XL,Footwear_Dress_Nevada,85.89,Alta,Alta probabilidade
+Jacket,Clothing,Yellow,New York,M,Female,Express,PayPal,1,1,Spring,Weekly,1,66.36,50,Clothing_Jacket_Yellow,Clothing_Jacket_M,Clothing_Jacket_New York,54.66,Alta,Moderada
+T-shirt,Accessories,Yellow,Florida,S,Female,Standard,Debit Card,0,1,Fall,Weekly,6,350.46,30,Accessories_T-shirt_Yellow,Accessories_T-shirt_S,Accessories_T-shirt_Florida,90.52,Alta,Alta probabilidade
+T-shirt,Outerwear,Yellow,California,S,Male,Express,Credit Card,1,1,Winter,Monthly,4,226.36,53,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_S,Outerwear_T-shirt_California,84.32,Alta,Alta probabilidade
+Jacket,Clothing,Green,Florida,M,Female,Express,Debit Card,1,0,Spring,Weekly,2,473.04,60,Clothing_Jacket_Green,Clothing_Jacket_M,Clothing_Jacket_Florida,75.49,Alta,Alta probabilidade
+Shoes,Footwear,Red,Texas,M,Male,Express,PayPal,1,0,Winter,Occasionally,8,79.39,36,Footwear_Shoes_Red,Footwear_Shoes_M,Footwear_Shoes_Texas,13.31,Não-Alta,Baixa
+Jeans,Footwear,Blue,Texas,XL,Female,Express,Debit Card,0,0,Fall,Monthly,5,324.99,60,Footwear_Jeans_Blue,Footwear_Jeans_XL,Footwear_Jeans_Texas,80.84,Alta,Alta probabilidade
+Shoes,Clothing,Blue,Nevada,S,Male,Express,Credit Card,0,1,Summer,Weekly,0,197.17,29,Clothing_Shoes_Blue,Clothing_Shoes_S,Clothing_Shoes_Nevada,59.63,Alta,Moderada
+Shoes,Accessories,Black,Nevada,S,Female,Express,Debit Card,0,0,Fall,Weekly,4,478.84,28,Accessories_Shoes_Black,Accessories_Shoes_S,Accessories_Shoes_Nevada,87.13,Alta,Alta probabilidade
+Shoes,Accessories,Yellow,New York,L,Female,Standard,PayPal,1,1,Fall,Monthly,6,171.69,23,Accessories_Shoes_Yellow,Accessories_Shoes_L,Accessories_Shoes_New York,71.03,Alta,Alta probabilidade
+Dress,Footwear,Black,Florida,S,Male,Express,Debit Card,0,0,Winter,Monthly,3,481.47,29,Footwear_Dress_Black,Footwear_Dress_S,Footwear_Dress_Florida,91.43,Alta,Alta probabilidade
+T-shirt,Footwear,Green,Texas,XL,Male,Express,PayPal,1,0,Winter,Monthly,7,451.73,44,Footwear_T-shirt_Green,Footwear_T-shirt_XL,Footwear_T-shirt_Texas,91.77,Alta,Alta probabilidade
+Shoes,Accessories,Green,Nevada,L,Male,Express,PayPal,0,1,Fall,Monthly,9,142.49,58,Accessories_Shoes_Green,Accessories_Shoes_L,Accessories_Shoes_Nevada,45.08,Não-Alta,Baixa
+T-shirt,Outerwear,White,Florida,L,Female,Express,Debit Card,1,0,Spring,Occasionally,4,403.74,42,Outerwear_T-shirt_White,Outerwear_T-shirt_L,Outerwear_T-shirt_Florida,84.11,Alta,Alta probabilidade
+Jacket,Clothing,Green,Nevada,L,Female,Standard,PayPal,0,0,Spring,Monthly,8,497.85,59,Clothing_Jacket_Green,Clothing_Jacket_L,Clothing_Jacket_Nevada,82.97,Alta,Alta probabilidade
+Jeans,Footwear,White,Nevada,M,Female,Standard,PayPal,1,0,Spring,Occasionally,8,133.8,20,Footwear_Jeans_White,Footwear_Jeans_M,Footwear_Jeans_Nevada,50.53,Alta,Moderada
+Jacket,Footwear,Red,Texas,M,Female,Standard,Credit Card,0,1,Winter,Occasionally,8,224.02,20,Footwear_Jacket_Red,Footwear_Jacket_M,Footwear_Jacket_Texas,81.58,Alta,Alta probabilidade
+Jacket,Accessories,Black,Texas,S,Male,Standard,Credit Card,0,0,Winter,Monthly,0,264.89,37,Accessories_Jacket_Black,Accessories_Jacket_S,Accessories_Jacket_Texas,89.57,Alta,Alta probabilidade
+Dress,Clothing,Red,Nevada,L,Female,Express,Credit Card,0,1,Fall,Occasionally,1,154.52,45,Clothing_Dress_Red,Clothing_Dress_L,Clothing_Dress_Nevada,75.22,Alta,Alta probabilidade
+Jeans,Accessories,Green,California,XL,Female,Standard,Credit Card,1,0,Summer,Monthly,2,17.48,40,Accessories_Jeans_Green,Accessories_Jeans_XL,Accessories_Jeans_California,44.69,Não-Alta,Baixa
+Jacket,Clothing,Red,Nevada,M,Female,Standard,PayPal,0,0,Winter,Monthly,3,117.86,65,Clothing_Jacket_Red,Clothing_Jacket_M,Clothing_Jacket_Nevada,43.88,Não-Alta,Baixa
+Jacket,Clothing,Red,Nevada,XL,Female,Standard,Debit Card,0,0,Fall,Weekly,9,148.15,20,Clothing_Jacket_Red,Clothing_Jacket_XL,Clothing_Jacket_Nevada,63.94,Alta,Moderada
+Jeans,Clothing,Red,New York,XL,Female,Standard,PayPal,0,0,Fall,Monthly,8,227.36,59,Clothing_Jeans_Red,Clothing_Jeans_XL,Clothing_Jeans_New York,74.84,Alta,Alta probabilidade
+Jeans,Footwear,Green,New York,M,Female,Express,PayPal,0,1,Summer,Weekly,9,93.84,41,Footwear_Jeans_Green,Footwear_Jeans_M,Footwear_Jeans_New York,37.9,Não-Alta,Baixa
+Jacket,Outerwear,Yellow,New York,M,Female,Standard,PayPal,1,0,Spring,Occasionally,5,437.89,60,Outerwear_Jacket_Yellow,Outerwear_Jacket_M,Outerwear_Jacket_New York,86.39,Alta,Alta probabilidade
+Jeans,Accessories,Red,California,M,Male,Express,Debit Card,0,1,Fall,Weekly,0,355.41,57,Accessories_Jeans_Red,Accessories_Jeans_M,Accessories_Jeans_California,71.04,Alta,Alta probabilidade
+Jacket,Outerwear,White,California,M,Female,Standard,Credit Card,1,1,Fall,Occasionally,8,51.75,23,Outerwear_Jacket_White,Outerwear_Jacket_M,Outerwear_Jacket_California,47.68,Não-Alta,Baixa
+Jacket,Accessories,Green,Nevada,L,Female,Express,PayPal,1,0,Fall,Monthly,5,328.55,37,Accessories_Jacket_Green,Accessories_Jacket_L,Accessories_Jacket_Nevada,63.78,Alta,Moderada
+Dress,Clothing,Red,New York,L,Female,Express,PayPal,1,0,Spring,Occasionally,3,330.29,28,Clothing_Dress_Red,Clothing_Dress_L,Clothing_Dress_New York,93.27,Alta,Alta probabilidade
+Shoes,Footwear,Yellow,California,L,Female,Standard,Credit Card,1,1,Spring,Occasionally,3,478.55,49,Footwear_Shoes_Yellow,Footwear_Shoes_L,Footwear_Shoes_California,95.69,Alta,Alta probabilidade
+Jacket,Outerwear,Green,Texas,L,Male,Standard,PayPal,0,1,Summer,Monthly,2,11.48,44,Outerwear_Jacket_Green,Outerwear_Jacket_L,Outerwear_Jacket_Texas,79.48,Alta,Alta probabilidade
+T-shirt,Footwear,Blue,Nevada,S,Male,Standard,Debit Card,1,0,Winter,Occasionally,6,131.49,38,Footwear_T-shirt_Blue,Footwear_T-shirt_S,Footwear_T-shirt_Nevada,61.6,Alta,Moderada
+Shoes,Accessories,Yellow,Florida,L,Male,Standard,PayPal,1,0,Spring,Monthly,2,464.62,61,Accessories_Shoes_Yellow,Accessories_Shoes_L,Accessories_Shoes_Florida,89.33,Alta,Alta probabilidade
+Shoes,Footwear,White,Nevada,M,Male,Express,PayPal,1,0,Winter,Weekly,1,466.75,65,Footwear_Shoes_White,Footwear_Shoes_M,Footwear_Shoes_Nevada,88.93,Alta,Alta probabilidade
+Shoes,Footwear,Red,Florida,XL,Male,Express,Credit Card,1,0,Winter,Monthly,9,363.09,67,Footwear_Shoes_Red,Footwear_Shoes_XL,Footwear_Shoes_Florida,80.56,Alta,Alta probabilidade
+Dress,Outerwear,Blue,New York,L,Male,Standard,PayPal,0,0,Spring,Monthly,7,385.22,30,Outerwear_Dress_Blue,Outerwear_Dress_L,Outerwear_Dress_New York,84.31,Alta,Alta probabilidade
+Jacket,Clothing,Blue,Florida,S,Female,Standard,PayPal,0,1,Fall,Occasionally,3,54.83,39,Clothing_Jacket_Blue,Clothing_Jacket_S,Clothing_Jacket_Florida,47.33,Não-Alta,Baixa
+Dress,Footwear,Green,New York,M,Male,Express,Debit Card,1,0,Summer,Weekly,7,261.8,52,Footwear_Dress_Green,Footwear_Dress_M,Footwear_Dress_New York,58.33,Alta,Moderada
+Jacket,Clothing,Blue,Texas,XL,Male,Standard,Credit Card,1,0,Winter,Monthly,0,123.48,64,Clothing_Jacket_Blue,Clothing_Jacket_XL,Clothing_Jacket_Texas,71.76,Alta,Alta probabilidade
+Dress,Accessories,White,Florida,XL,Female,Express,Credit Card,1,1,Fall,Weekly,4,98.8,39,Accessories_Dress_White,Accessories_Dress_XL,Accessories_Dress_Florida,63.04,Alta,Moderada
+Dress,Footwear,White,Nevada,L,Male,Standard,Debit Card,0,0,Spring,Weekly,8,407.05,45,Footwear_Dress_White,Footwear_Dress_L,Footwear_Dress_Nevada,86.65,Alta,Alta probabilidade
+T-shirt,Outerwear,Black,New York,XL,Female,Express,PayPal,0,0,Winter,Occasionally,0,76.17,38,Outerwear_T-shirt_Black,Outerwear_T-shirt_XL,Outerwear_T-shirt_New York,70.02,Alta,Alta probabilidade
+Dress,Accessories,White,Nevada,L,Female,Express,Credit Card,0,1,Winter,Monthly,3,239.64,63,Accessories_Dress_White,Accessories_Dress_L,Accessories_Dress_Nevada,69.31,Alta,Moderada
+Jeans,Accessories,Yellow,California,L,Male,Express,Credit Card,0,0,Winter,Occasionally,5,469.9,35,Accessories_Jeans_Yellow,Accessories_Jeans_L,Accessories_Jeans_California,90.02,Alta,Alta probabilidade
+T-shirt,Outerwear,Blue,New York,M,Female,Express,PayPal,0,1,Fall,Monthly,9,101.06,48,Outerwear_T-shirt_Blue,Outerwear_T-shirt_M,Outerwear_T-shirt_New York,52.07,Alta,Moderada
+Dress,Footwear,White,Florida,M,Male,Express,PayPal,1,0,Fall,Weekly,7,489.22,63,Footwear_Dress_White,Footwear_Dress_M,Footwear_Dress_Florida,82.02,Alta,Alta probabilidade
+Shoes,Footwear,Green,New York,S,Male,Standard,Credit Card,0,0,Fall,Monthly,2,497.2,54,Footwear_Shoes_Green,Footwear_Shoes_S,Footwear_Shoes_New York,84.96,Alta,Alta probabilidade
+Jeans,Accessories,Black,Nevada,M,Female,Express,PayPal,0,0,Winter,Monthly,4,282.25,38,Accessories_Jeans_Black,Accessories_Jeans_M,Accessories_Jeans_Nevada,65.39,Alta,Moderada
+Jeans,Footwear,Blue,Texas,M,Female,Standard,Credit Card,1,1,Winter,Weekly,6,93.37,31,Footwear_Jeans_Blue,Footwear_Jeans_M,Footwear_Jeans_Texas,59.71,Alta,Moderada
+Jeans,Clothing,Black,New York,L,Male,Express,PayPal,0,1,Summer,Weekly,0,164.89,42,Clothing_Jeans_Black,Clothing_Jeans_L,Clothing_Jeans_New York,77.8,Alta,Alta probabilidade
+T-shirt,Outerwear,Blue,Florida,M,Female,Express,PayPal,0,1,Summer,Monthly,6,218.0,44,Outerwear_T-shirt_Blue,Outerwear_T-shirt_M,Outerwear_T-shirt_Florida,64.12,Alta,Moderada
+Dress,Clothing,Green,California,L,Female,Standard,Debit Card,0,1,Fall,Occasionally,7,161.57,57,Clothing_Dress_Green,Clothing_Dress_L,Clothing_Dress_California,61.7,Alta,Moderada
+Dress,Footwear,Black,Texas,L,Male,Standard,PayPal,1,0,Fall,Monthly,7,147.51,40,Footwear_Dress_Black,Footwear_Dress_L,Footwear_Dress_Texas,76.38,Alta,Alta probabilidade
+Shoes,Accessories,Red,California,M,Male,Standard,Debit Card,0,1,Spring,Weekly,8,486.39,48,Accessories_Shoes_Red,Accessories_Shoes_M,Accessories_Shoes_California,88.54,Alta,Alta probabilidade
+Shoes,Outerwear,Yellow,New York,S,Female,Standard,PayPal,1,1,Fall,Occasionally,5,85.15,64,Outerwear_Shoes_Yellow,Outerwear_Shoes_S,Outerwear_Shoes_New York,59.39,Alta,Moderada
+Jeans,Footwear,Yellow,Nevada,S,Male,Express,Credit Card,1,1,Summer,Weekly,5,369.33,46,Footwear_Jeans_Yellow,Footwear_Jeans_S,Footwear_Jeans_Nevada,83.07,Alta,Alta probabilidade
+Shoes,Footwear,Blue,Nevada,XL,Male,Standard,Credit Card,0,0,Summer,Weekly,1,10.2,64,Footwear_Shoes_Blue,Footwear_Shoes_XL,Footwear_Shoes_Nevada,51.5,Alta,Moderada
+T-shirt,Accessories,Red,Florida,XL,Male,Express,PayPal,0,0,Summer,Occasionally,2,302.13,47,Accessories_T-shirt_Red,Accessories_T-shirt_XL,Accessories_T-shirt_Florida,79.46,Alta,Alta probabilidade
+Dress,Accessories,Black,Nevada,M,Male,Standard,PayPal,0,1,Winter,Weekly,3,458.81,68,Accessories_Dress_Black,Accessories_Dress_M,Accessories_Dress_Nevada,87.69,Alta,Alta probabilidade
+Jeans,Clothing,Red,Texas,S,Male,Standard,Credit Card,0,1,Winter,Weekly,3,151.09,43,Clothing_Jeans_Red,Clothing_Jeans_S,Clothing_Jeans_Texas,71.42,Alta,Alta probabilidade
+Shoes,Outerwear,Red,Nevada,L,Male,Express,PayPal,1,0,Fall,Weekly,7,100.91,37,Outerwear_Shoes_Red,Outerwear_Shoes_L,Outerwear_Shoes_Nevada,40.45,Não-Alta,Baixa
+T-shirt,Outerwear,Black,Florida,XL,Male,Express,Debit Card,0,1,Spring,Weekly,0,329.32,55,Outerwear_T-shirt_Black,Outerwear_T-shirt_XL,Outerwear_T-shirt_Florida,90.68,Alta,Alta probabilidade
+T-shirt,Accessories,Green,New York,L,Female,Standard,Debit Card,1,1,Spring,Weekly,9,359.17,36,Accessories_T-shirt_Green,Accessories_T-shirt_L,Accessories_T-shirt_New York,82.72,Alta,Alta probabilidade
+Shoes,Clothing,Red,New York,XL,Male,Express,Debit Card,1,1,Spring,Weekly,3,347.13,44,Clothing_Shoes_Red,Clothing_Shoes_XL,Clothing_Shoes_New York,79.33,Alta,Alta probabilidade
+Dress,Outerwear,Red,Nevada,M,Female,Express,Debit Card,1,1,Winter,Weekly,3,166.47,42,Outerwear_Dress_Red,Outerwear_Dress_M,Outerwear_Dress_Nevada,50.88,Alta,Moderada
+Shoes,Accessories,Green,California,S,Female,Express,Debit Card,1,0,Summer,Weekly,0,133.58,57,Accessories_Shoes_Green,Accessories_Shoes_S,Accessories_Shoes_California,44.72,Não-Alta,Baixa
+Jeans,Footwear,Red,New York,XL,Female,Express,PayPal,1,0,Summer,Weekly,2,478.4,55,Footwear_Jeans_Red,Footwear_Jeans_XL,Footwear_Jeans_New York,82.19,Alta,Alta probabilidade
+Shoes,Outerwear,Red,Nevada,S,Male,Express,PayPal,0,0,Winter,Monthly,4,462.42,69,Outerwear_Shoes_Red,Outerwear_Shoes_S,Outerwear_Shoes_Nevada,79.72,Alta,Alta probabilidade
+T-shirt,Clothing,Red,Florida,L,Male,Express,Debit Card,1,1,Spring,Monthly,5,234.09,40,Clothing_T-shirt_Red,Clothing_T-shirt_L,Clothing_T-shirt_Florida,76.69,Alta,Alta probabilidade
+Shoes,Clothing,Yellow,Nevada,M,Female,Express,PayPal,1,1,Spring,Weekly,8,424.63,46,Clothing_Shoes_Yellow,Clothing_Shoes_M,Clothing_Shoes_Nevada,81.22,Alta,Alta probabilidade
+Dress,Clothing,White,New York,S,Male,Express,PayPal,0,0,Fall,Monthly,8,231.64,32,Clothing_Dress_White,Clothing_Dress_S,Clothing_Dress_New York,57.11,Alta,Moderada
+Jacket,Footwear,Green,Florida,M,Female,Standard,Debit Card,0,0,Fall,Occasionally,8,217.95,20,Footwear_Jacket_Green,Footwear_Jacket_M,Footwear_Jacket_Florida,62.66,Alta,Moderada
+Shoes,Outerwear,Red,Nevada,S,Male,Express,PayPal,1,0,Spring,Monthly,0,86.81,27,Outerwear_Shoes_Red,Outerwear_Shoes_S,Outerwear_Shoes_Nevada,46.94,Não-Alta,Baixa
+Dress,Outerwear,Yellow,Texas,L,Male,Standard,PayPal,1,1,Winter,Weekly,8,218.94,32,Outerwear_Dress_Yellow,Outerwear_Dress_L,Outerwear_Dress_Texas,85.94,Alta,Alta probabilidade
+Dress,Footwear,Green,Florida,L,Female,Express,PayPal,0,0,Spring,Weekly,7,273.33,33,Footwear_Dress_Green,Footwear_Dress_L,Footwear_Dress_Florida,68.81,Alta,Moderada
+T-shirt,Outerwear,Blue,Texas,M,Female,Express,Debit Card,1,1,Fall,Monthly,1,21.03,34,Outerwear_T-shirt_Blue,Outerwear_T-shirt_M,Outerwear_T-shirt_Texas,53.7,Alta,Moderada
+Dress,Footwear,Blue,California,L,Female,Express,PayPal,0,1,Spring,Weekly,0,227.62,36,Footwear_Dress_Blue,Footwear_Dress_L,Footwear_Dress_California,72.52,Alta,Alta probabilidade
+Dress,Footwear,Red,Florida,XL,Male,Express,Credit Card,0,0,Winter,Occasionally,0,392.86,28,Footwear_Dress_Red,Footwear_Dress_XL,Footwear_Dress_Florida,87.25,Alta,Alta probabilidade
+Dress,Footwear,Yellow,Texas,S,Female,Standard,Credit Card,1,0,Summer,Occasionally,5,343.22,65,Footwear_Dress_Yellow,Footwear_Dress_S,Footwear_Dress_Texas,89.99,Alta,Alta probabilidade
+Dress,Clothing,Yellow,New York,L,Male,Standard,Debit Card,0,1,Winter,Weekly,8,321.23,22,Clothing_Dress_Yellow,Clothing_Dress_L,Clothing_Dress_New York,93.98,Alta,Alta probabilidade
+Jeans,Outerwear,Green,New York,XL,Male,Express,Credit Card,1,0,Winter,Occasionally,6,455.68,22,Outerwear_Jeans_Green,Outerwear_Jeans_XL,Outerwear_Jeans_New York,83.6,Alta,Alta probabilidade
+Jeans,Footwear,Green,California,M,Male,Standard,Debit Card,1,0,Fall,Occasionally,4,18.84,31,Footwear_Jeans_Green,Footwear_Jeans_M,Footwear_Jeans_California,33.66,Não-Alta,Baixa
+T-shirt,Outerwear,Yellow,Florida,XL,Female,Express,Credit Card,1,1,Winter,Monthly,1,282.95,67,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_XL,Outerwear_T-shirt_Florida,87.29,Alta,Alta probabilidade
+Shoes,Clothing,Green,Florida,M,Female,Express,Credit Card,0,1,Winter,Occasionally,0,395.8,43,Clothing_Shoes_Green,Clothing_Shoes_M,Clothing_Shoes_Florida,70.89,Alta,Alta probabilidade
+Dress,Footwear,Yellow,Florida,M,Female,Standard,Credit Card,1,1,Fall,Monthly,1,275.25,25,Footwear_Dress_Yellow,Footwear_Dress_M,Footwear_Dress_Florida,82.39,Alta,Alta probabilidade
+Shoes,Accessories,White,California,S,Male,Standard,Debit Card,0,1,Fall,Weekly,0,168.71,22,Accessories_Shoes_White,Accessories_Shoes_S,Accessories_Shoes_California,72.45,Alta,Alta probabilidade
+Shoes,Clothing,Yellow,Florida,S,Male,Express,Debit Card,1,1,Summer,Monthly,2,76.76,24,Clothing_Shoes_Yellow,Clothing_Shoes_S,Clothing_Shoes_Florida,57.0,Alta,Moderada
+T-shirt,Accessories,Blue,New York,XL,Female,Express,PayPal,1,0,Spring,Weekly,5,444.91,33,Accessories_T-shirt_Blue,Accessories_T-shirt_XL,Accessories_T-shirt_New York,88.83,Alta,Alta probabilidade
+Dress,Outerwear,Green,Texas,S,Male,Standard,Debit Card,0,1,Winter,Weekly,7,240.67,31,Outerwear_Dress_Green,Outerwear_Dress_S,Outerwear_Dress_Texas,81.65,Alta,Alta probabilidade
+Dress,Outerwear,Yellow,New York,S,Male,Express,Credit Card,1,1,Fall,Weekly,2,440.28,54,Outerwear_Dress_Yellow,Outerwear_Dress_S,Outerwear_Dress_New York,90.34,Alta,Alta probabilidade
+Jacket,Clothing,Yellow,New York,S,Female,Standard,Credit Card,1,1,Summer,Weekly,9,297.07,58,Clothing_Jacket_Yellow,Clothing_Jacket_S,Clothing_Jacket_New York,82.6,Alta,Alta probabilidade
+Shoes,Outerwear,Green,Texas,XL,Female,Express,Debit Card,0,0,Spring,Weekly,8,340.35,21,Outerwear_Shoes_Green,Outerwear_Shoes_XL,Outerwear_Shoes_Texas,86.4,Alta,Alta probabilidade
+Shoes,Accessories,White,New York,L,Female,Express,Debit Card,0,1,Fall,Monthly,9,404.09,53,Accessories_Shoes_White,Accessories_Shoes_L,Accessories_Shoes_New York,80.26,Alta,Alta probabilidade
+Jeans,Footwear,White,California,S,Male,Standard,Debit Card,0,1,Spring,Weekly,4,332.99,65,Footwear_Jeans_White,Footwear_Jeans_S,Footwear_Jeans_California,83.36,Alta,Alta probabilidade
+Jacket,Footwear,Green,Texas,S,Male,Standard,PayPal,1,1,Spring,Occasionally,6,205.05,34,Footwear_Jacket_Green,Footwear_Jacket_S,Footwear_Jacket_Texas,78.76,Alta,Alta probabilidade
+Jeans,Footwear,Black,New York,XL,Male,Standard,Credit Card,0,0,Winter,Occasionally,7,261.68,64,Footwear_Jeans_Black,Footwear_Jeans_XL,Footwear_Jeans_New York,82.06,Alta,Alta probabilidade
+Jeans,Clothing,Green,Nevada,L,Male,Express,PayPal,0,1,Winter,Weekly,2,403.49,53,Clothing_Jeans_Green,Clothing_Jeans_L,Clothing_Jeans_Nevada,79.37,Alta,Alta probabilidade
+Jeans,Outerwear,Green,New York,S,Male,Express,PayPal,1,1,Fall,Occasionally,1,193.09,23,Outerwear_Jeans_Green,Outerwear_Jeans_S,Outerwear_Jeans_New York,52.21,Alta,Moderada
+T-shirt,Accessories,White,California,M,Female,Express,Credit Card,0,1,Spring,Monthly,1,200.18,33,Accessories_T-shirt_White,Accessories_T-shirt_M,Accessories_T-shirt_California,77.31,Alta,Alta probabilidade
+T-shirt,Outerwear,White,Florida,XL,Male,Express,Credit Card,1,0,Fall,Monthly,4,56.89,46,Outerwear_T-shirt_White,Outerwear_T-shirt_XL,Outerwear_T-shirt_Florida,62.74,Alta,Moderada
+Jeans,Outerwear,Green,New York,S,Male,Standard,Debit Card,1,0,Fall,Weekly,0,458.15,53,Outerwear_Jeans_Green,Outerwear_Jeans_S,Outerwear_Jeans_New York,78.47,Alta,Alta probabilidade
+Jacket,Outerwear,Green,Florida,S,Male,Express,Debit Card,0,0,Spring,Weekly,1,54.61,55,Outerwear_Jacket_Green,Outerwear_Jacket_S,Outerwear_Jacket_Florida,78.86,Alta,Alta probabilidade
+Shoes,Footwear,Green,Nevada,M,Female,Express,PayPal,1,0,Fall,Weekly,8,327.62,54,Footwear_Shoes_Green,Footwear_Shoes_M,Footwear_Shoes_Nevada,67.71,Alta,Moderada
+Jacket,Accessories,White,New York,M,Female,Express,Debit Card,0,1,Spring,Occasionally,6,212.47,65,Accessories_Jacket_White,Accessories_Jacket_M,Accessories_Jacket_New York,66.48,Alta,Moderada
+Dress,Accessories,Green,Texas,XL,Female,Standard,Debit Card,0,1,Spring,Occasionally,5,208.75,65,Accessories_Dress_Green,Accessories_Dress_XL,Accessories_Dress_Texas,80.95,Alta,Alta probabilidade
+T-shirt,Outerwear,Green,Florida,XL,Male,Express,Credit Card,0,0,Spring,Monthly,8,342.98,27,Outerwear_T-shirt_Green,Outerwear_T-shirt_XL,Outerwear_T-shirt_Florida,86.98,Alta,Alta probabilidade
+Shoes,Footwear,Red,Nevada,M,Female,Express,Credit Card,0,0,Spring,Occasionally,6,42.88,58,Footwear_Shoes_Red,Footwear_Shoes_M,Footwear_Shoes_Nevada,34.26,Não-Alta,Baixa
+Shoes,Footwear,Black,Texas,XL,Female,Standard,Debit Card,1,1,Summer,Monthly,4,300.92,53,Footwear_Shoes_Black,Footwear_Shoes_XL,Footwear_Shoes_Texas,70.88,Alta,Alta probabilidade
+Dress,Accessories,Blue,Texas,M,Female,Express,Credit Card,1,1,Spring,Occasionally,8,388.3,46,Accessories_Dress_Blue,Accessories_Dress_M,Accessories_Dress_Texas,84.76,Alta,Alta probabilidade
+Dress,Footwear,Black,Texas,S,Male,Express,Debit Card,0,0,Winter,Monthly,5,415.82,31,Footwear_Dress_Black,Footwear_Dress_S,Footwear_Dress_Texas,92.79,Alta,Alta probabilidade
+Jeans,Footwear,Red,Texas,M,Female,Standard,Credit Card,0,0,Winter,Weekly,5,93.56,21,Footwear_Jeans_Red,Footwear_Jeans_M,Footwear_Jeans_Texas,62.13,Alta,Moderada
+T-shirt,Footwear,Blue,New York,M,Male,Express,Credit Card,1,0,Winter,Occasionally,3,449.74,61,Footwear_T-shirt_Blue,Footwear_T-shirt_M,Footwear_T-shirt_New York,83.35,Alta,Alta probabilidade
+T-shirt,Clothing,Green,New York,L,Male,Express,Credit Card,0,0,Spring,Monthly,0,331.51,59,Clothing_T-shirt_Green,Clothing_T-shirt_L,Clothing_T-shirt_New York,85.0,Alta,Alta probabilidade
+Jacket,Outerwear,Red,New York,M,Female,Express,Credit Card,1,1,Winter,Occasionally,4,442.11,53,Outerwear_Jacket_Red,Outerwear_Jacket_M,Outerwear_Jacket_New York,80.12,Alta,Alta probabilidade
+Jeans,Accessories,Green,Nevada,M,Male,Standard,Debit Card,0,0,Summer,Weekly,8,247.79,67,Accessories_Jeans_Green,Accessories_Jeans_M,Accessories_Jeans_Nevada,51.3,Alta,Moderada
+Jeans,Accessories,White,Nevada,L,Female,Express,PayPal,1,0,Fall,Monthly,7,275.6,62,Accessories_Jeans_White,Accessories_Jeans_L,Accessories_Jeans_Nevada,54.69,Alta,Moderada
+Jeans,Clothing,Yellow,Nevada,XL,Male,Express,Credit Card,1,1,Spring,Occasionally,7,460.33,30,Clothing_Jeans_Yellow,Clothing_Jeans_XL,Clothing_Jeans_Nevada,89.28,Alta,Alta probabilidade
+Jeans,Outerwear,Red,California,L,Female,Standard,Debit Card,1,1,Winter,Occasionally,4,450.96,63,Outerwear_Jeans_Red,Outerwear_Jeans_L,Outerwear_Jeans_California,80.82,Alta,Alta probabilidade
+T-shirt,Accessories,White,Nevada,S,Female,Standard,Debit Card,0,1,Summer,Weekly,8,229.6,35,Accessories_T-shirt_White,Accessories_T-shirt_S,Accessories_T-shirt_Nevada,77.18,Alta,Alta probabilidade
+T-shirt,Footwear,Red,New York,L,Female,Express,Credit Card,0,1,Fall,Weekly,2,144.46,50,Footwear_T-shirt_Red,Footwear_T-shirt_L,Footwear_T-shirt_New York,66.04,Alta,Moderada
+Jeans,Accessories,Red,New York,S,Male,Express,PayPal,0,1,Summer,Monthly,2,202.65,38,Accessories_Jeans_Red,Accessories_Jeans_S,Accessories_Jeans_New York,59.47,Alta,Moderada
+Jacket,Footwear,White,California,XL,Female,Express,Credit Card,0,0,Winter,Occasionally,0,200.0,33,Footwear_Jacket_White,Footwear_Jacket_XL,Footwear_Jacket_California,79.09,Alta,Alta probabilidade
+Shoes,Clothing,Blue,California,L,Male,Express,Debit Card,0,0,Summer,Occasionally,8,150.56,32,Clothing_Shoes_Blue,Clothing_Shoes_L,Clothing_Shoes_California,50.53,Alta,Moderada
+Shoes,Footwear,Black,Nevada,L,Female,Standard,PayPal,1,0,Fall,Weekly,5,141.6,22,Footwear_Shoes_Black,Footwear_Shoes_L,Footwear_Shoes_Nevada,66.77,Alta,Moderada
+Jacket,Accessories,Green,Florida,XL,Male,Express,Debit Card,1,1,Winter,Weekly,1,431.92,23,Accessories_Jacket_Green,Accessories_Jacket_XL,Accessories_Jacket_Florida,86.47,Alta,Alta probabilidade
+Jeans,Accessories,Red,California,S,Male,Standard,Credit Card,1,0,Fall,Monthly,7,44.23,55,Accessories_Jeans_Red,Accessories_Jeans_S,Accessories_Jeans_California,44.52,Não-Alta,Baixa
+T-shirt,Accessories,Green,Texas,L,Female,Standard,PayPal,1,1,Summer,Occasionally,8,342.03,20,Accessories_T-shirt_Green,Accessories_T-shirt_L,Accessories_T-shirt_Texas,84.9,Alta,Alta probabilidade
+Shoes,Clothing,Yellow,New York,S,Female,Express,Debit Card,1,0,Spring,Occasionally,8,94.68,65,Clothing_Shoes_Yellow,Clothing_Shoes_S,Clothing_Shoes_New York,53.59,Alta,Moderada
+Dress,Clothing,White,Texas,L,Female,Express,Debit Card,1,0,Spring,Monthly,1,178.81,29,Clothing_Dress_White,Clothing_Dress_L,Clothing_Dress_Texas,53.21,Alta,Moderada
+Dress,Outerwear,Green,New York,M,Female,Standard,Debit Card,1,1,Spring,Monthly,1,40.16,53,Outerwear_Dress_Green,Outerwear_Dress_M,Outerwear_Dress_New York,43.4,Não-Alta,Baixa
+Jacket,Accessories,White,New York,L,Female,Standard,Credit Card,0,1,Spring,Weekly,6,142.29,50,Accessories_Jacket_White,Accessories_Jacket_L,Accessories_Jacket_New York,72.06,Alta,Alta probabilidade
+Jeans,Footwear,Green,California,XL,Male,Express,PayPal,1,0,Fall,Weekly,3,386.53,53,Footwear_Jeans_Green,Footwear_Jeans_XL,Footwear_Jeans_California,76.15,Alta,Alta probabilidade
+Shoes,Clothing,Black,California,XL,Female,Standard,Credit Card,0,0,Spring,Monthly,0,443.66,50,Clothing_Shoes_Black,Clothing_Shoes_XL,Clothing_Shoes_California,92.47,Alta,Alta probabilidade
+Jeans,Accessories,Black,Texas,S,Female,Express,Credit Card,1,0,Fall,Monthly,7,118.55,48,Accessories_Jeans_Black,Accessories_Jeans_S,Accessories_Jeans_Texas,64.96,Alta,Moderada
+Shoes,Accessories,Black,New York,L,Male,Express,Credit Card,1,0,Winter,Occasionally,1,237.14,38,Accessories_Shoes_Black,Accessories_Shoes_L,Accessories_Shoes_New York,71.24,Alta,Alta probabilidade
+Jacket,Clothing,Black,Texas,S,Female,Standard,PayPal,0,0,Spring,Monthly,2,240.46,44,Clothing_Jacket_Black,Clothing_Jacket_S,Clothing_Jacket_Texas,84.94,Alta,Alta probabilidade
+Jacket,Outerwear,Black,Florida,S,Female,Standard,Credit Card,1,1,Fall,Monthly,4,438.05,44,Outerwear_Jacket_Black,Outerwear_Jacket_S,Outerwear_Jacket_Florida,97.0,Alta,Alta probabilidade
+Dress,Clothing,Black,Texas,M,Male,Express,Credit Card,0,1,Spring,Occasionally,2,383.77,25,Clothing_Dress_Black,Clothing_Dress_M,Clothing_Dress_Texas,94.22,Alta,Alta probabilidade
+Jeans,Clothing,White,Nevada,M,Female,Standard,Credit Card,1,1,Spring,Monthly,6,261.41,54,Clothing_Jeans_White,Clothing_Jeans_M,Clothing_Jeans_Nevada,46.45,Não-Alta,Baixa
+Dress,Footwear,Red,Texas,XL,Female,Express,Credit Card,0,1,Spring,Weekly,6,338.67,49,Footwear_Dress_Red,Footwear_Dress_XL,Footwear_Dress_Texas,90.83,Alta,Alta probabilidade
+Jeans,Footwear,Green,Nevada,S,Female,Express,Debit Card,1,0,Fall,Weekly,1,425.2,43,Footwear_Jeans_Green,Footwear_Jeans_S,Footwear_Jeans_Nevada,69.86,Alta,Moderada
+Dress,Outerwear,Black,Nevada,XL,Male,Express,Credit Card,0,0,Summer,Occasionally,6,14.67,19,Outerwear_Dress_Black,Outerwear_Dress_XL,Outerwear_Dress_Nevada,61.54,Alta,Moderada
+T-shirt,Accessories,White,Nevada,L,Female,Standard,Debit Card,0,1,Spring,Monthly,5,207.42,29,Accessories_T-shirt_White,Accessories_T-shirt_L,Accessories_T-shirt_Nevada,77.91,Alta,Alta probabilidade
+T-shirt,Clothing,White,Florida,S,Male,Express,Credit Card,1,0,Spring,Weekly,9,454.55,39,Clothing_T-shirt_White,Clothing_T-shirt_S,Clothing_T-shirt_Florida,93.5,Alta,Alta probabilidade
+T-shirt,Outerwear,White,Texas,S,Female,Express,PayPal,1,1,Winter,Weekly,8,372.75,34,Outerwear_T-shirt_White,Outerwear_T-shirt_S,Outerwear_T-shirt_Texas,89.44,Alta,Alta probabilidade
+T-shirt,Footwear,Red,Texas,L,Male,Express,Debit Card,0,0,Summer,Weekly,8,275.99,24,Footwear_T-shirt_Red,Footwear_T-shirt_L,Footwear_T-shirt_Texas,83.83,Alta,Alta probabilidade
+Shoes,Clothing,Green,Florida,L,Female,Express,Debit Card,1,0,Fall,Weekly,1,269.53,60,Clothing_Shoes_Green,Clothing_Shoes_L,Clothing_Shoes_Florida,49.72,Não-Alta,Baixa
+T-shirt,Accessories,Red,New York,XL,Male,Express,Debit Card,0,0,Winter,Monthly,6,180.41,21,Accessories_T-shirt_Red,Accessories_T-shirt_XL,Accessories_T-shirt_New York,75.63,Alta,Alta probabilidade
+Jacket,Footwear,Blue,California,XL,Male,Express,Debit Card,1,1,Spring,Monthly,4,265.06,54,Footwear_Jacket_Blue,Footwear_Jacket_XL,Footwear_Jacket_California,80.78,Alta,Alta probabilidade
+Jacket,Footwear,White,Texas,L,Male,Express,PayPal,0,1,Winter,Monthly,5,331.14,55,Footwear_Jacket_White,Footwear_Jacket_L,Footwear_Jacket_Texas,86.82,Alta,Alta probabilidade
+Shoes,Footwear,Blue,California,XL,Male,Express,Credit Card,1,1,Winter,Monthly,0,215.0,49,Footwear_Shoes_Blue,Footwear_Shoes_XL,Footwear_Shoes_California,57.99,Alta,Moderada
+T-shirt,Outerwear,Yellow,Florida,L,Male,Express,Debit Card,0,1,Spring,Weekly,6,359.94,28,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_L,Outerwear_T-shirt_Florida,91.07,Alta,Alta probabilidade
+T-shirt,Accessories,Black,New York,S,Male,Express,PayPal,1,0,Summer,Occasionally,5,432.0,18,Accessories_T-shirt_Black,Accessories_T-shirt_S,Accessories_T-shirt_New York,88.86,Alta,Alta probabilidade
+T-shirt,Clothing,Black,New York,S,Female,Express,Debit Card,0,0,Summer,Occasionally,3,85.8,42,Clothing_T-shirt_Black,Clothing_T-shirt_S,Clothing_T-shirt_New York,66.27,Alta,Moderada
+Dress,Outerwear,Red,New York,M,Female,Standard,Credit Card,0,0,Winter,Weekly,0,231.26,59,Outerwear_Dress_Red,Outerwear_Dress_M,Outerwear_Dress_New York,67.19,Alta,Moderada
+Jeans,Outerwear,Green,Florida,S,Male,Express,Debit Card,1,0,Spring,Weekly,8,209.93,69,Outerwear_Jeans_Green,Outerwear_Jeans_S,Outerwear_Jeans_Florida,51.51,Alta,Moderada
+Dress,Outerwear,Blue,Nevada,L,Male,Express,PayPal,1,1,Fall,Occasionally,3,346.86,41,Outerwear_Dress_Blue,Outerwear_Dress_L,Outerwear_Dress_Nevada,70.51,Alta,Alta probabilidade
+Jeans,Footwear,Green,Nevada,XL,Male,Express,Credit Card,0,0,Winter,Occasionally,1,132.44,60,Footwear_Jeans_Green,Footwear_Jeans_XL,Footwear_Jeans_Nevada,52.41,Alta,Moderada
+T-shirt,Accessories,Red,California,M,Male,Standard,PayPal,0,0,Fall,Weekly,7,323.72,34,Accessories_T-shirt_Red,Accessories_T-shirt_M,Accessories_T-shirt_California,80.05,Alta,Alta probabilidade
+T-shirt,Outerwear,Black,Nevada,XL,Female,Express,Credit Card,0,0,Winter,Weekly,1,439.97,25,Outerwear_T-shirt_Black,Outerwear_T-shirt_XL,Outerwear_T-shirt_Nevada,93.09,Alta,Alta probabilidade
+Dress,Clothing,Green,Nevada,L,Male,Standard,Credit Card,0,1,Winter,Monthly,4,214.88,62,Clothing_Dress_Green,Clothing_Dress_L,Clothing_Dress_Nevada,62.39,Alta,Moderada
+Dress,Accessories,Green,New York,S,Female,Express,Credit Card,1,1,Spring,Monthly,5,456.4,44,Accessories_Dress_Green,Accessories_Dress_S,Accessories_Dress_New York,85.07,Alta,Alta probabilidade
+Jeans,Clothing,Black,New York,M,Female,Express,Debit Card,0,1,Spring,Occasionally,7,496.65,69,Clothing_Jeans_Black,Clothing_Jeans_M,Clothing_Jeans_New York,78.8,Alta,Alta probabilidade
+Jacket,Accessories,Blue,California,L,Male,Standard,PayPal,0,0,Fall,Weekly,0,61.99,35,Accessories_Jacket_Blue,Accessories_Jacket_L,Accessories_Jacket_California,54.31,Alta,Moderada
+Jeans,Clothing,Black,Texas,M,Male,Express,PayPal,0,1,Fall,Occasionally,0,124.2,44,Clothing_Jeans_Black,Clothing_Jeans_M,Clothing_Jeans_Texas,63.96,Alta,Moderada
+Dress,Footwear,Green,California,M,Female,Standard,PayPal,1,0,Summer,Monthly,3,475.69,39,Footwear_Dress_Green,Footwear_Dress_M,Footwear_Dress_California,82.08,Alta,Alta probabilidade
+Dress,Outerwear,Blue,California,S,Female,Standard,Credit Card,0,0,Spring,Monthly,4,479.58,33,Outerwear_Dress_Blue,Outerwear_Dress_S,Outerwear_Dress_California,91.35,Alta,Alta probabilidade
+Shoes,Clothing,Blue,Florida,L,Male,Express,Debit Card,1,0,Winter,Occasionally,8,57.88,19,Clothing_Shoes_Blue,Clothing_Shoes_L,Clothing_Shoes_Florida,36.38,Não-Alta,Baixa
+Dress,Accessories,Black,Florida,XL,Male,Express,Credit Card,1,1,Winter,Monthly,6,17.35,22,Accessories_Dress_Black,Accessories_Dress_XL,Accessories_Dress_Florida,65.13,Alta,Moderada
+Shoes,Outerwear,Green,California,M,Male,Express,PayPal,1,1,Summer,Weekly,6,88.94,35,Outerwear_Shoes_Green,Outerwear_Shoes_M,Outerwear_Shoes_California,41.06,Não-Alta,Baixa
+Jacket,Outerwear,Red,California,M,Female,Express,Debit Card,1,0,Spring,Occasionally,7,498.05,20,Outerwear_Jacket_Red,Outerwear_Jacket_M,Outerwear_Jacket_California,79.85,Alta,Alta probabilidade
+Jeans,Accessories,Green,California,XL,Female,Standard,Debit Card,1,0,Winter,Weekly,4,98.2,44,Accessories_Jeans_Green,Accessories_Jeans_XL,Accessories_Jeans_California,51.79,Alta,Moderada
+Jeans,Clothing,White,Nevada,L,Male,Standard,Debit Card,1,1,Summer,Weekly,4,256.25,34,Clothing_Jeans_White,Clothing_Jeans_L,Clothing_Jeans_Nevada,74.84,Alta,Alta probabilidade
+Shoes,Footwear,Yellow,Florida,M,Female,Express,PayPal,1,1,Summer,Monthly,0,425.72,33,Footwear_Shoes_Yellow,Footwear_Shoes_M,Footwear_Shoes_Florida,91.75,Alta,Alta probabilidade
+Jeans,Footwear,Red,California,M,Female,Standard,Debit Card,0,1,Winter,Weekly,8,20.0,23,Footwear_Jeans_Red,Footwear_Jeans_M,Footwear_Jeans_California,45.44,Não-Alta,Baixa
+Dress,Clothing,Blue,New York,M,Male,Standard,Debit Card,0,0,Winter,Occasionally,5,306.2,68,Clothing_Dress_Blue,Clothing_Dress_M,Clothing_Dress_New York,83.31,Alta,Alta probabilidade
+T-shirt,Outerwear,Red,New York,L,Male,Express,Credit Card,1,0,Fall,Weekly,8,145.74,24,Outerwear_T-shirt_Red,Outerwear_T-shirt_L,Outerwear_T-shirt_New York,62.97,Alta,Moderada
+Shoes,Outerwear,Blue,Nevada,L,Female,Standard,Credit Card,0,0,Spring,Weekly,2,432.54,67,Outerwear_Shoes_Blue,Outerwear_Shoes_L,Outerwear_Shoes_Nevada,82.39,Alta,Alta probabilidade
+Jeans,Outerwear,Blue,Nevada,XL,Female,Standard,Debit Card,0,1,Fall,Weekly,4,148.9,31,Outerwear_Jeans_Blue,Outerwear_Jeans_XL,Outerwear_Jeans_Nevada,61.69,Alta,Moderada
+Shoes,Outerwear,Red,Texas,L,Male,Express,Debit Card,1,1,Summer,Weekly,1,346.51,55,Outerwear_Shoes_Red,Outerwear_Shoes_L,Outerwear_Shoes_Texas,79.92,Alta,Alta probabilidade
+Shoes,Clothing,Blue,Texas,L,Male,Standard,Credit Card,0,1,Winter,Weekly,9,340.37,57,Clothing_Shoes_Blue,Clothing_Shoes_L,Clothing_Shoes_Texas,83.81,Alta,Alta probabilidade
+T-shirt,Outerwear,Blue,Texas,S,Male,Express,Credit Card,1,0,Fall,Monthly,4,118.53,32,Outerwear_T-shirt_Blue,Outerwear_T-shirt_S,Outerwear_T-shirt_Texas,70.68,Alta,Alta probabilidade
+Dress,Accessories,White,Nevada,XL,Male,Standard,Credit Card,0,0,Summer,Occasionally,7,27.05,64,Accessories_Dress_White,Accessories_Dress_XL,Accessories_Dress_Nevada,56.28,Alta,Moderada
+Shoes,Outerwear,Green,Nevada,M,Male,Express,PayPal,1,1,Spring,Monthly,1,210.53,64,Outerwear_Shoes_Green,Outerwear_Shoes_M,Outerwear_Shoes_Nevada,50.16,Alta,Moderada
+Jeans,Footwear,Green,Nevada,L,Female,Standard,PayPal,1,0,Winter,Occasionally,7,151.7,65,Footwear_Jeans_Green,Footwear_Jeans_L,Footwear_Jeans_Nevada,40.1,Não-Alta,Baixa
+Jacket,Outerwear,Yellow,New York,M,Female,Standard,Credit Card,0,1,Fall,Occasionally,3,406.4,50,Outerwear_Jacket_Yellow,Outerwear_Jacket_M,Outerwear_Jacket_New York,88.14,Alta,Alta probabilidade
+Shoes,Clothing,Yellow,Nevada,M,Female,Express,Debit Card,0,0,Spring,Occasionally,9,402.18,60,Clothing_Shoes_Yellow,Clothing_Shoes_M,Clothing_Shoes_Nevada,78.93,Alta,Alta probabilidade
+Shoes,Footwear,White,New York,S,Female,Express,Credit Card,1,1,Fall,Occasionally,9,233.94,44,Footwear_Shoes_White,Footwear_Shoes_S,Footwear_Shoes_New York,70.7,Alta,Alta probabilidade
+T-shirt,Clothing,Yellow,Texas,L,Male,Express,PayPal,1,0,Summer,Occasionally,0,307.19,46,Clothing_T-shirt_Yellow,Clothing_T-shirt_L,Clothing_T-shirt_Texas,90.81,Alta,Alta probabilidade
+Dress,Clothing,Red,Texas,XL,Male,Express,Debit Card,1,0,Spring,Weekly,4,306.09,54,Clothing_Dress_Red,Clothing_Dress_XL,Clothing_Dress_Texas,88.22,Alta,Alta probabilidade
+Jacket,Footwear,Black,Texas,L,Male,Standard,PayPal,0,1,Fall,Monthly,0,415.31,22,Footwear_Jacket_Black,Footwear_Jacket_L,Footwear_Jacket_Texas,94.17,Alta,Alta probabilidade
+Jeans,Clothing,Black,California,M,Female,Standard,Debit Card,0,1,Spring,Monthly,6,218.25,46,Clothing_Jeans_Black,Clothing_Jeans_M,Clothing_Jeans_California,72.85,Alta,Alta probabilidade
+Jacket,Clothing,Black,California,XL,Female,Standard,PayPal,0,1,Summer,Weekly,7,144.97,49,Clothing_Jacket_Black,Clothing_Jacket_XL,Clothing_Jacket_California,75.76,Alta,Alta probabilidade
+Jeans,Outerwear,White,Florida,L,Female,Express,Debit Card,0,1,Spring,Occasionally,2,139.87,23,Outerwear_Jeans_White,Outerwear_Jeans_L,Outerwear_Jeans_Florida,58.63,Alta,Moderada
+Dress,Accessories,White,Florida,M,Male,Standard,Debit Card,1,1,Fall,Monthly,2,272.73,19,Accessories_Dress_White,Accessories_Dress_M,Accessories_Dress_Florida,74.2,Alta,Alta probabilidade
+Jeans,Clothing,Blue,Florida,M,Female,Standard,Debit Card,1,0,Summer,Weekly,6,230.08,23,Clothing_Jeans_Blue,Clothing_Jeans_M,Clothing_Jeans_Florida,12.04,Não-Alta,Baixa
+T-shirt,Clothing,Black,California,S,Male,Express,Debit Card,1,1,Winter,Weekly,3,225.66,63,Clothing_T-shirt_Black,Clothing_T-shirt_S,Clothing_T-shirt_California,75.22,Alta,Alta probabilidade
+T-shirt,Clothing,Red,California,S,Male,Express,PayPal,1,1,Fall,Monthly,2,54.66,60,Clothing_T-shirt_Red,Clothing_T-shirt_S,Clothing_T-shirt_California,49.82,Não-Alta,Baixa
+T-shirt,Outerwear,Yellow,Florida,S,Male,Standard,PayPal,0,1,Fall,Monthly,7,362.12,21,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_S,Outerwear_T-shirt_Florida,91.71,Alta,Alta probabilidade
+T-shirt,Accessories,Red,Florida,M,Male,Express,Debit Card,1,0,Summer,Occasionally,2,114.73,46,Accessories_T-shirt_Red,Accessories_T-shirt_M,Accessories_T-shirt_Florida,48.06,Não-Alta,Baixa
+Jacket,Footwear,Yellow,Nevada,L,Male,Standard,Debit Card,1,1,Summer,Occasionally,6,106.51,42,Footwear_Jacket_Yellow,Footwear_Jacket_L,Footwear_Jacket_Nevada,67.43,Alta,Moderada
+Dress,Outerwear,Black,Florida,S,Male,Standard,PayPal,0,1,Winter,Monthly,1,212.25,26,Outerwear_Dress_Black,Outerwear_Dress_S,Outerwear_Dress_Florida,80.33,Alta,Alta probabilidade
+Jeans,Outerwear,Black,Nevada,L,Female,Express,Debit Card,0,1,Fall,Occasionally,0,121.61,20,Outerwear_Jeans_Black,Outerwear_Jeans_L,Outerwear_Jeans_Nevada,55.92,Alta,Moderada
+Jeans,Accessories,Black,New York,S,Male,Standard,Debit Card,1,0,Summer,Weekly,5,296.09,43,Accessories_Jeans_Black,Accessories_Jeans_S,Accessories_Jeans_New York,75.73,Alta,Alta probabilidade
+T-shirt,Accessories,White,California,XL,Male,Express,Debit Card,0,0,Winter,Occasionally,7,192.02,65,Accessories_T-shirt_White,Accessories_T-shirt_XL,Accessories_T-shirt_California,76.77,Alta,Alta probabilidade
+T-shirt,Outerwear,Yellow,Florida,XL,Female,Express,Credit Card,1,1,Winter,Occasionally,0,229.97,60,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_XL,Outerwear_T-shirt_Florida,84.22,Alta,Alta probabilidade
+Shoes,Footwear,White,California,S,Male,Standard,Debit Card,0,0,Summer,Weekly,9,273.21,44,Footwear_Shoes_White,Footwear_Shoes_S,Footwear_Shoes_California,78.2,Alta,Alta probabilidade
+Dress,Outerwear,White,California,M,Female,Standard,Credit Card,0,1,Fall,Occasionally,8,109.73,53,Outerwear_Dress_White,Outerwear_Dress_M,Outerwear_Dress_California,61.63,Alta,Moderada
+Jacket,Accessories,Green,California,S,Female,Standard,Debit Card,1,0,Spring,Weekly,2,86.32,49,Accessories_Jacket_Green,Accessories_Jacket_S,Accessories_Jacket_California,54.65,Alta,Moderada
+Jeans,Footwear,Red,New York,S,Female,Express,PayPal,0,1,Spring,Occasionally,2,441.41,18,Footwear_Jeans_Red,Footwear_Jeans_S,Footwear_Jeans_New York,84.24,Alta,Alta probabilidade
+Shoes,Accessories,Red,Texas,M,Male,Standard,Credit Card,1,0,Winter,Monthly,3,222.52,33,Accessories_Shoes_Red,Accessories_Shoes_M,Accessories_Shoes_Texas,73.36,Alta,Alta probabilidade
+Shoes,Footwear,Blue,Florida,XL,Male,Express,Credit Card,0,1,Spring,Occasionally,0,211.93,68,Footwear_Shoes_Blue,Footwear_Shoes_XL,Footwear_Shoes_Florida,69.92,Alta,Moderada
+Jeans,Clothing,White,Texas,L,Female,Express,Debit Card,0,1,Spring,Monthly,8,27.45,65,Clothing_Jeans_White,Clothing_Jeans_L,Clothing_Jeans_Texas,72.91,Alta,Alta probabilidade
+Jacket,Accessories,Yellow,Texas,S,Male,Standard,Debit Card,0,0,Summer,Monthly,2,254.01,28,Accessories_Jacket_Yellow,Accessories_Jacket_S,Accessories_Jacket_Texas,89.2,Alta,Alta probabilidade
+Shoes,Accessories,Green,Texas,M,Male,Express,Credit Card,0,1,Winter,Monthly,9,281.54,43,Accessories_Shoes_Green,Accessories_Shoes_M,Accessories_Shoes_Texas,76.02,Alta,Alta probabilidade
+Shoes,Outerwear,Green,California,S,Female,Standard,PayPal,0,1,Fall,Monthly,3,283.83,57,Outerwear_Shoes_Green,Outerwear_Shoes_S,Outerwear_Shoes_California,71.07,Alta,Alta probabilidade
+Dress,Accessories,Red,Nevada,M,Female,Standard,PayPal,1,1,Winter,Monthly,0,356.45,18,Accessories_Dress_Red,Accessories_Dress_M,Accessories_Dress_Nevada,75.34,Alta,Alta probabilidade
+Jacket,Accessories,White,California,L,Male,Standard,Debit Card,0,1,Summer,Weekly,3,96.97,43,Accessories_Jacket_White,Accessories_Jacket_L,Accessories_Jacket_California,65.8,Alta,Moderada
+Shoes,Clothing,Blue,California,L,Female,Standard,PayPal,1,0,Spring,Weekly,0,133.59,45,Clothing_Shoes_Blue,Clothing_Shoes_L,Clothing_Shoes_California,51.39,Alta,Moderada
+Jacket,Accessories,White,Texas,XL,Female,Standard,PayPal,0,1,Fall,Weekly,4,407.26,26,Accessories_Jacket_White,Accessories_Jacket_XL,Accessories_Jacket_Texas,93.64,Alta,Alta probabilidade
+Jeans,Clothing,Black,California,M,Female,Standard,Debit Card,1,0,Winter,Monthly,4,474.11,61,Clothing_Jeans_Black,Clothing_Jeans_M,Clothing_Jeans_California,83.95,Alta,Alta probabilidade
+T-shirt,Clothing,White,Texas,M,Male,Standard,PayPal,0,0,Spring,Occasionally,6,76.61,39,Clothing_T-shirt_White,Clothing_T-shirt_M,Clothing_T-shirt_Texas,75.41,Alta,Alta probabilidade
+Shoes,Clothing,Black,Nevada,XL,Male,Express,Debit Card,1,0,Winter,Weekly,7,253.85,25,Clothing_Shoes_Black,Clothing_Shoes_XL,Clothing_Shoes_Nevada,73.68,Alta,Alta probabilidade
+Dress,Clothing,Black,Florida,XL,Male,Standard,Credit Card,1,0,Fall,Occasionally,3,114.95,66,Clothing_Dress_Black,Clothing_Dress_XL,Clothing_Dress_Florida,83.7,Alta,Alta probabilidade
+Jeans,Footwear,Blue,Texas,M,Female,Express,Debit Card,0,1,Winter,Occasionally,6,39.44,59,Footwear_Jeans_Blue,Footwear_Jeans_M,Footwear_Jeans_Texas,45.35,Não-Alta,Baixa
+Jacket,Outerwear,Yellow,Nevada,XL,Male,Express,Credit Card,0,1,Winter,Monthly,3,169.5,44,Outerwear_Jacket_Yellow,Outerwear_Jacket_XL,Outerwear_Jacket_Nevada,77.13,Alta,Alta probabilidade
+Jeans,Footwear,Red,Florida,L,Female,Express,Credit Card,0,0,Winter,Monthly,2,80.41,56,Footwear_Jeans_Red,Footwear_Jeans_L,Footwear_Jeans_Florida,43.46,Não-Alta,Baixa
+Shoes,Accessories,White,New York,S,Male,Standard,PayPal,1,1,Spring,Monthly,5,357.87,36,Accessories_Shoes_White,Accessories_Shoes_S,Accessories_Shoes_New York,83.59,Alta,Alta probabilidade
+Jacket,Footwear,Black,Texas,L,Male,Express,PayPal,1,0,Fall,Weekly,3,271.53,42,Footwear_Jacket_Black,Footwear_Jacket_L,Footwear_Jacket_Texas,82.89,Alta,Alta probabilidade
+T-shirt,Footwear,White,Texas,XL,Female,Express,PayPal,0,1,Fall,Monthly,2,80.48,55,Footwear_T-shirt_White,Footwear_T-shirt_XL,Footwear_T-shirt_Texas,76.26,Alta,Alta probabilidade
+Jeans,Accessories,Yellow,New York,M,Male,Standard,Debit Card,0,1,Spring,Weekly,8,14.53,38,Accessories_Jeans_Yellow,Accessories_Jeans_M,Accessories_Jeans_New York,57.4,Alta,Moderada
+Shoes,Accessories,Red,New York,M,Female,Standard,PayPal,1,1,Spring,Weekly,4,406.0,41,Accessories_Shoes_Red,Accessories_Shoes_M,Accessories_Shoes_New York,79.41,Alta,Alta probabilidade
+Dress,Accessories,Yellow,Texas,L,Male,Express,Credit Card,1,0,Spring,Weekly,6,96.34,41,Accessories_Dress_Yellow,Accessories_Dress_L,Accessories_Dress_Texas,76.34,Alta,Alta probabilidade
+Jacket,Footwear,Red,New York,M,Male,Standard,PayPal,0,0,Summer,Weekly,5,307.05,36,Footwear_Jacket_Red,Footwear_Jacket_M,Footwear_Jacket_New York,75.26,Alta,Alta probabilidade
+Jeans,Footwear,Green,California,XL,Female,Standard,PayPal,1,1,Winter,Monthly,9,175.09,67,Footwear_Jeans_Green,Footwear_Jeans_XL,Footwear_Jeans_California,61.26,Alta,Moderada
+Jeans,Accessories,Red,Florida,L,Female,Standard,Debit Card,0,0,Winter,Weekly,4,296.89,64,Accessories_Jeans_Red,Accessories_Jeans_L,Accessories_Jeans_Florida,65.86,Alta,Moderada
+T-shirt,Outerwear,Blue,Florida,M,Female,Standard,Debit Card,0,0,Fall,Monthly,6,164.67,19,Outerwear_T-shirt_Blue,Outerwear_T-shirt_M,Outerwear_T-shirt_Florida,64.03,Alta,Moderada
+T-shirt,Outerwear,Yellow,Florida,S,Male,Express,Credit Card,0,1,Winter,Monthly,5,52.6,31,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_S,Outerwear_T-shirt_Florida,73.46,Alta,Alta probabilidade
+Dress,Clothing,Black,California,S,Male,Standard,Debit Card,1,0,Summer,Weekly,9,119.25,49,Clothing_Dress_Black,Clothing_Dress_S,Clothing_Dress_California,71.05,Alta,Alta probabilidade
+Dress,Accessories,Green,New York,XL,Male,Standard,PayPal,1,1,Spring,Monthly,1,102.15,59,Accessories_Dress_Green,Accessories_Dress_XL,Accessories_Dress_New York,61.99,Alta,Moderada
+Shoes,Clothing,Blue,Nevada,M,Female,Standard,Debit Card,1,1,Fall,Occasionally,2,219.73,49,Clothing_Shoes_Blue,Clothing_Shoes_M,Clothing_Shoes_Nevada,49.3,Não-Alta,Baixa
+Shoes,Outerwear,White,New York,XL,Female,Express,Credit Card,1,1,Fall,Monthly,1,332.56,45,Outerwear_Shoes_White,Outerwear_Shoes_XL,Outerwear_Shoes_New York,81.45,Alta,Alta probabilidade
+Dress,Clothing,Yellow,Texas,L,Female,Express,PayPal,0,0,Winter,Monthly,2,139.26,65,Clothing_Dress_Yellow,Clothing_Dress_L,Clothing_Dress_Texas,63.46,Alta,Moderada
+Dress,Accessories,Black,Florida,S,Male,Standard,Credit Card,1,1,Fall,Weekly,0,15.91,56,Accessories_Dress_Black,Accessories_Dress_S,Accessories_Dress_Florida,58.02,Alta,Moderada
+Jacket,Accessories,Red,New York,L,Male,Standard,Debit Card,0,1,Spring,Weekly,7,264.28,57,Accessories_Jacket_Red,Accessories_Jacket_L,Accessories_Jacket_New York,77.74,Alta,Alta probabilidade
+T-shirt,Accessories,Black,Nevada,M,Female,Express,Debit Card,0,0,Fall,Monthly,5,306.82,59,Accessories_T-shirt_Black,Accessories_T-shirt_M,Accessories_T-shirt_Nevada,75.82,Alta,Alta probabilidade
+Shoes,Footwear,White,Texas,XL,Male,Standard,Credit Card,0,0,Spring,Weekly,1,481.81,64,Footwear_Shoes_White,Footwear_Shoes_XL,Footwear_Shoes_Texas,93.57,Alta,Alta probabilidade
+T-shirt,Clothing,Green,California,XL,Female,Standard,PayPal,1,0,Summer,Occasionally,7,298.84,57,Clothing_T-shirt_Green,Clothing_T-shirt_XL,Clothing_T-shirt_California,79.97,Alta,Alta probabilidade
+T-shirt,Outerwear,Green,California,XL,Male,Express,Debit Card,0,0,Summer,Occasionally,5,240.87,30,Outerwear_T-shirt_Green,Outerwear_T-shirt_XL,Outerwear_T-shirt_California,77.26,Alta,Alta probabilidade
+Dress,Outerwear,Yellow,Nevada,L,Male,Standard,Debit Card,0,1,Spring,Weekly,6,290.97,29,Outerwear_Dress_Yellow,Outerwear_Dress_L,Outerwear_Dress_Nevada,86.84,Alta,Alta probabilidade
+Jacket,Outerwear,Green,Texas,S,Female,Standard,PayPal,1,0,Winter,Monthly,0,464.67,25,Outerwear_Jacket_Green,Outerwear_Jacket_S,Outerwear_Jacket_Texas,96.08,Alta,Alta probabilidade
+Jeans,Footwear,Yellow,Florida,L,Male,Express,Debit Card,0,0,Fall,Occasionally,6,415.91,32,Footwear_Jeans_Yellow,Footwear_Jeans_L,Footwear_Jeans_Florida,84.93,Alta,Alta probabilidade
+Jacket,Footwear,Yellow,New York,L,Male,Express,Credit Card,1,0,Winter,Occasionally,2,168.26,43,Footwear_Jacket_Yellow,Footwear_Jacket_L,Footwear_Jacket_New York,73.01,Alta,Alta probabilidade
+Jacket,Accessories,Yellow,Texas,M,Female,Standard,Debit Card,1,0,Fall,Monthly,7,126.25,29,Accessories_Jacket_Yellow,Accessories_Jacket_M,Accessories_Jacket_Texas,74.67,Alta,Alta probabilidade
+T-shirt,Outerwear,Red,California,M,Female,Express,Debit Card,1,1,Summer,Weekly,5,138.69,60,Outerwear_T-shirt_Red,Outerwear_T-shirt_M,Outerwear_T-shirt_California,55.6,Alta,Moderada
+Jacket,Footwear,Blue,Nevada,M,Male,Standard,PayPal,0,0,Summer,Occasionally,3,257.17,68,Footwear_Jacket_Blue,Footwear_Jacket_M,Footwear_Jacket_Nevada,63.03,Alta,Moderada
+Shoes,Accessories,Yellow,Nevada,S,Female,Standard,Credit Card,1,1,Summer,Monthly,7,374.58,63,Accessories_Shoes_Yellow,Accessories_Shoes_S,Accessories_Shoes_Nevada,84.83,Alta,Alta probabilidade
+T-shirt,Outerwear,Yellow,New York,S,Male,Standard,PayPal,1,0,Fall,Monthly,8,256.58,44,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_S,Outerwear_T-shirt_New York,83.13,Alta,Alta probabilidade
+Shoes,Clothing,Blue,Nevada,M,Female,Express,Debit Card,1,1,Summer,Occasionally,9,43.22,35,Clothing_Shoes_Blue,Clothing_Shoes_M,Clothing_Shoes_Nevada,27.88,Não-Alta,Baixa
+Jeans,Accessories,Black,Nevada,M,Male,Express,Debit Card,1,1,Summer,Weekly,1,364.55,62,Accessories_Jeans_Black,Accessories_Jeans_M,Accessories_Jeans_Nevada,71.7,Alta,Alta probabilidade
+T-shirt,Footwear,Yellow,Texas,S,Male,Standard,PayPal,0,0,Summer,Occasionally,5,404.93,53,Footwear_T-shirt_Yellow,Footwear_T-shirt_S,Footwear_T-shirt_Texas,94.36,Alta,Alta probabilidade
+Jeans,Footwear,Red,Florida,XL,Female,Standard,PayPal,1,1,Summer,Monthly,4,151.85,66,Footwear_Jeans_Red,Footwear_Jeans_XL,Footwear_Jeans_Florida,57.59,Alta,Moderada
+T-shirt,Accessories,Green,New York,S,Male,Express,PayPal,0,0,Winter,Occasionally,4,335.42,68,Accessories_T-shirt_Green,Accessories_T-shirt_S,Accessories_T-shirt_New York,74.74,Alta,Alta probabilidade
+Dress,Accessories,Green,Texas,S,Male,Express,Credit Card,1,1,Summer,Weekly,9,219.03,44,Accessories_Dress_Green,Accessories_Dress_S,Accessories_Dress_Texas,73.45,Alta,Alta probabilidade
+Jacket,Footwear,White,Florida,S,Female,Express,Debit Card,0,1,Summer,Monthly,2,445.67,26,Footwear_Jacket_White,Footwear_Jacket_S,Footwear_Jacket_Florida,88.36,Alta,Alta probabilidade
+Dress,Clothing,White,Texas,M,Female,Standard,PayPal,1,1,Winter,Weekly,7,424.16,56,Clothing_Dress_White,Clothing_Dress_M,Clothing_Dress_Texas,73.78,Alta,Alta probabilidade
+Jeans,Outerwear,Green,Texas,XL,Male,Express,Debit Card,0,0,Winter,Occasionally,7,267.46,18,Outerwear_Jeans_Green,Outerwear_Jeans_XL,Outerwear_Jeans_Texas,78.47,Alta,Alta probabilidade
+Jacket,Clothing,Green,Nevada,S,Female,Express,Credit Card,1,1,Fall,Occasionally,4,348.84,24,Clothing_Jacket_Green,Clothing_Jacket_S,Clothing_Jacket_Nevada,70.57,Alta,Alta probabilidade
+T-shirt,Accessories,Red,Florida,M,Female,Standard,Credit Card,0,0,Spring,Weekly,7,442.84,43,Accessories_T-shirt_Red,Accessories_T-shirt_M,Accessories_T-shirt_Florida,88.17,Alta,Alta probabilidade
+Jacket,Clothing,Blue,New York,L,Male,Standard,Credit Card,0,1,Summer,Occasionally,9,252.9,24,Clothing_Jacket_Blue,Clothing_Jacket_L,Clothing_Jacket_New York,73.79,Alta,Alta probabilidade
+Shoes,Footwear,White,New York,L,Male,Standard,Credit Card,0,1,Summer,Weekly,7,163.49,69,Footwear_Shoes_White,Footwear_Shoes_L,Footwear_Shoes_New York,76.19,Alta,Alta probabilidade
+Jacket,Accessories,Blue,Florida,S,Female,Express,Debit Card,1,1,Summer,Occasionally,2,379.3,24,Accessories_Jacket_Blue,Accessories_Jacket_S,Accessories_Jacket_Florida,78.03,Alta,Alta probabilidade
+Shoes,Outerwear,Red,Nevada,L,Female,Standard,Credit Card,0,1,Fall,Weekly,1,117.83,25,Outerwear_Shoes_Red,Outerwear_Shoes_L,Outerwear_Shoes_Nevada,57.61,Alta,Moderada
+Jacket,Footwear,Green,California,XL,Female,Standard,Credit Card,0,1,Summer,Weekly,8,200.38,33,Footwear_Jacket_Green,Footwear_Jacket_XL,Footwear_Jacket_California,78.83,Alta,Alta probabilidade
+Shoes,Footwear,Yellow,Texas,L,Male,Standard,PayPal,0,1,Spring,Monthly,1,434.21,20,Footwear_Shoes_Yellow,Footwear_Shoes_L,Footwear_Shoes_Texas,93.06,Alta,Alta probabilidade
+Jeans,Outerwear,Blue,Nevada,L,Male,Standard,Credit Card,0,0,Winter,Monthly,8,364.97,62,Outerwear_Jeans_Blue,Outerwear_Jeans_L,Outerwear_Jeans_Nevada,74.31,Alta,Alta probabilidade
+Dress,Outerwear,Green,Florida,XL,Male,Express,PayPal,1,0,Fall,Weekly,3,207.87,27,Outerwear_Dress_Green,Outerwear_Dress_XL,Outerwear_Dress_Florida,63.97,Alta,Moderada
+T-shirt,Clothing,Green,Texas,S,Male,Standard,Credit Card,0,0,Winter,Occasionally,1,115.22,67,Clothing_T-shirt_Green,Clothing_T-shirt_S,Clothing_T-shirt_Texas,78.92,Alta,Alta probabilidade
+Jacket,Accessories,Black,New York,S,Male,Express,Credit Card,0,1,Summer,Occasionally,9,184.42,24,Accessories_Jacket_Black,Accessories_Jacket_S,Accessories_Jacket_New York,77.02,Alta,Alta probabilidade
+Dress,Outerwear,Blue,California,XL,Male,Express,PayPal,0,0,Summer,Occasionally,0,149.21,38,Outerwear_Dress_Blue,Outerwear_Dress_XL,Outerwear_Dress_California,65.21,Alta,Moderada
+T-shirt,Outerwear,Yellow,New York,XL,Male,Express,Credit Card,1,1,Summer,Weekly,3,96.28,54,Outerwear_T-shirt_Yellow,Outerwear_T-shirt_XL,Outerwear_T-shirt_New York,77.07,Alta,Alta probabilidade
+T-shirt,Accessories,Blue,Florida,XL,Female,Standard,Debit Card,0,0,Spring,Weekly,8,374.23,48,Accessories_T-shirt_Blue,Accessories_T-shirt_XL,Accessories_T-shirt_Florida,88.45,Alta,Alta probabilidade
+Shoes,Outerwear,Green,Texas,L,Female,Express,Debit Card,0,0,Spring,Weekly,8,133.51,40,Outerwear_Shoes_Green,Outerwear_Shoes_L,Outerwear_Shoes_Texas,61.92,Alta,Moderada
+Jeans,Outerwear,Yellow,Florida,XL,Male,Standard,Credit Card,0,1,Fall,Weekly,3,232.54,44,Outerwear_Jeans_Yellow,Outerwear_Jeans_XL,Outerwear_Jeans_Florida,83.92,Alta,Alta probabilidade
+Jeans,Clothing,Red,Texas,M,Male,Standard,Debit Card,0,1,Winter,Monthly,8,199.07,39,Clothing_Jeans_Red,Clothing_Jeans_M,Clothing_Jeans_Texas,74.47,Alta,Alta probabilidade
+Dress,Footwear,Black,Nevada,L,Male,Standard,PayPal,1,0,Summer,Weekly,5,491.22,56,Footwear_Dress_Black,Footwear_Dress_L,Footwear_Dress_Nevada,88.53,Alta,Alta probabilidade
+Jeans,Footwear,Green,California,S,Female,Express,Credit Card,0,0,Summer,Occasionally,0,201.64,44,Footwear_Jeans_Green,Footwear_Jeans_S,Footwear_Jeans_California,57.34,Alta,Moderada
+Jacket,Footwear,White,Nevada,S,Male,Standard,Credit Card,0,0,Summer,Monthly,9,49.19,66,Footwear_Jacket_White,Footwear_Jacket_S,Footwear_Jacket_Nevada,56.14,Alta,Moderada
+Jeans,Footwear,White,Nevada,S,Female,Standard,PayPal,1,0,Summer,Occasionally,5,54.01,21,Footwear_Jeans_White,Footwear_Jeans_S,Footwear_Jeans_Nevada,42.61,Não-Alta,Baixa
+Dress,Outerwear,Black,Florida,L,Female,Standard,PayPal,1,1,Spring,Weekly,8,299.47,41,Outerwear_Dress_Black,Outerwear_Dress_L,Outerwear_Dress_Florida,82.23,Alta,Alta probabilidade
+Jeans,Accessories,Red,California,M,Female,Express,PayPal,1,0,Winter,Monthly,1,303.69,40,Accessories_Jeans_Red,Accessories_Jeans_M,Accessories_Jeans_California,60.1,Alta,Moderada
+Jacket,Accessories,Green,Texas,XL,Female,Express,Credit Card,0,1,Winter,Weekly,5,215.19,65,Accessories_Jacket_Green,Accessories_Jacket_XL,Accessories_Jacket_Texas,79.81,Alta,Alta probabilidade
+Shoes,Clothing,Blue,Texas,XL,Female,Express,PayPal,1,1,Fall,Monthly,1,221.6,36,Clothing_Shoes_Blue,Clothing_Shoes_XL,Clothing_Shoes_Texas,71.77,Alta,Alta probabilidade
+Dress,Clothing,Black,New York,S,Male,Standard,PayPal,0,0,Spring,Occasionally,3,36.43,59,Clothing_Dress_Black,Clothing_Dress_S,Clothing_Dress_New York,75.97,Alta,Alta probabilidade
+Shoes,Outerwear,Red,Texas,S,Male,Express,Debit Card,1,1,Summer,Weekly,7,263.11,20,Outerwear_Shoes_Red,Outerwear_Shoes_S,Outerwear_Shoes_Texas,77.68,Alta,Alta probabilidade
+Shoes,Accessories,Blue,Florida,L,Female,Standard,Debit Card,0,0,Winter,Weekly,6,257.32,44,Accessories_Shoes_Blue,Accessories_Shoes_L,Accessories_Shoes_Florida,66.64,Alta,Moderada
+Shoes,Accessories,White,Nevada,M,Male,Standard,Credit Card,1,1,Winter,Monthly,8,83.28,20,Accessories_Shoes_White,Accessories_Shoes_M,Accessories_Shoes_Nevada,53.95,Alta,Moderada
+T-shirt,Footwear,White,Nevada,XL,Female,Express,Debit Card,0,1,Spring,Monthly,6,60.88,45,Footwear_T-shirt_White,Footwear_T-shirt_XL,Footwear_T-shirt_Nevada,68.49,Alta,Moderada
+T-shirt,Outerwear,Blue,Nevada,L,Female,Standard,Debit Card,1,0,Fall,Weekly,0,70.55,34,Outerwear_T-shirt_Blue,Outerwear_T-shirt_L,Outerwear_T-shirt_Nevada,50.0,Não-Alta,Moderada
+Shoes,Outerwear,Black,California,XL,Male,Express,PayPal,0,1,Fall,Monthly,1,59.5,48,Outerwear_Shoes_Black,Outerwear_Shoes_XL,Outerwear_Shoes_California,65.78,Alta,Moderada
+Dress,Footwear,White,Texas,S,Male,Standard,PayPal,0,1,Summer,Weekly,5,308.76,27,Footwear_Dress_White,Footwear_Dress_S,Footwear_Dress_Texas,88.82,Alta,Alta probabilidade
+Jacket,Outerwear,Green,Florida,XL,Male,Express,Debit Card,0,0,Fall,Monthly,6,106.28,66,Outerwear_Jacket_Green,Outerwear_Jacket_XL,Outerwear_Jacket_Florida,81.3,Alta,Alta probabilidade
+Jacket,Outerwear,Yellow,California,M,Male,Standard,Debit Card,0,1,Winter,Occasionally,2,133.2,39,Outerwear_Jacket_Yellow,Outerwear_Jacket_M,Outerwear_Jacket_California,63.95,Alta,Moderada
+Jeans,Clothing,Blue,New York,M,Male,Standard,Debit Card,0,1,Fall,Monthly,8,95.05,47,Clothing_Jeans_Blue,Clothing_Jeans_M,Clothing_Jeans_New York,16.79,Não-Alta,Baixa
+Dress,Accessories,Blue,Florida,S,Female,Standard,Credit Card,0,0,Summer,Occasionally,6,479.34,66,Accessories_Dress_Blue,Accessories_Dress_S,Accessories_Dress_Florida,85.74,Alta,Alta probabilidade
+T-shirt,Outerwear,White,Florida,M,Male,Standard,Credit Card,0,0,Winter,Monthly,5,428.76,38,Outerwear_T-shirt_White,Outerwear_T-shirt_M,Outerwear_T-shirt_Florida,89.22,Alta,Alta probabilidade
+Shoes,Clothing,Black,Florida,M,Male,Standard,Credit Card,0,1,Fall,Monthly,5,122.94,53,Clothing_Shoes_Black,Clothing_Shoes_M,Clothing_Shoes_Florida,60.69,Alta,Moderada
+Jeans,Accessories,Green,Nevada,L,Male,Express,Debit Card,1,1,Fall,Weekly,0,170.51,40,Accessories_Jeans_Green,Accessories_Jeans_L,Accessories_Jeans_Nevada,44.23,Não-Alta,Baixa
+Jacket,Footwear,Black,Florida,XL,Female,Standard,Debit Card,0,1,Spring,Monthly,4,112.85,55,Footwear_Jacket_Black,Footwear_Jacket_XL,Footwear_Jacket_Florida,78.73,Alta,Alta probabilidade
+T-shirt,Clothing,Red,Texas,S,Male,Express,Credit Card,0,0,Summer,Monthly,9,251.02,29,Clothing_T-shirt_Red,Clothing_T-shirt_S,Clothing_T-shirt_Texas,87.48,Alta,Alta probabilidade
+T-shirt,Clothing,Red,Florida,S,Female,Express,Credit Card,1,1,Fall,Occasionally,2,19.61,42,Clothing_T-shirt_Red,Clothing_T-shirt_S,Clothing_T-shirt_Florida,52.34,Alta,Moderada
+Shoes,Accessories,Yellow,Nevada,S,Male,Express,Debit Card,0,1,Spring,Monthly,6,338.97,37,Accessories_Shoes_Yellow,Accessories_Shoes_S,Accessories_Shoes_Nevada,85.71,Alta,Alta probabilidade
+Jacket,Footwear,White,Florida,S,Male,Standard,PayPal,1,1,Winter,Weekly,9,266.35,66,Footwear_Jacket_White,Footwear_Jacket_S,Footwear_Jacket_Florida,76.44,Alta,Alta probabilidade
+Dress,Clothing,White,New York,S,Female,Standard,Credit Card,0,1,Spring,Occasionally,2,450.33,66,Clothing_Dress_White,Clothing_Dress_S,Clothing_Dress_New York,83.91,Alta,Alta probabilidade
+T-shirt,Outerwear,White,New York,M,Male,Standard,Debit Card,1,1,Spring,Weekly,4,90.55,59,Outerwear_T-shirt_White,Outerwear_T-shirt_M,Outerwear_T-shirt_New York,63.3,Alta,Moderada
+Shoes,Outerwear,Yellow,Nevada,L,Male,Express,Debit Card,1,1,Fall,Weekly,6,404.01,24,Outerwear_Shoes_Yellow,Outerwear_Shoes_L,Outerwear_Shoes_Nevada,85.1,Alta,Alta probabilidade
+Dress,Outerwear,Red,Texas,S,Female,Standard,PayPal,0,0,Fall,Weekly,2,398.06,46,Outerwear_Dress_Red,Outerwear_Dress_S,Outerwear_Dress_Texas,87.67,Alta,Alta probabilidade
+Jacket,Footwear,Black,Texas,L,Male,Standard,Debit Card,1,0,Fall,Weekly,9,72.32,65,Footwear_Jacket_Black,Footwear_Jacket_L,Footwear_Jacket_Texas,69.48,Alta,Moderada
+T-shirt,Clothing,Yellow,California,L,Female,Express,Debit Card,0,1,Spring,Occasionally,1,205.29,46,Clothing_T-shirt_Yellow,Clothing_T-shirt_L,Clothing_T-shirt_California,81.96,Alta,Alta probabilidade
+Dress,Outerwear,Yellow,Nevada,M,Female,Express,Credit Card,0,1,Winter,Monthly,5,93.37,30,Outerwear_Dress_Yellow,Outerwear_Dress_M,Outerwear_Dress_Nevada,64.13,Alta,Moderada
+Dress,Footwear,Black,Florida,S,Female,Express,Credit Card,0,0,Summer,Weekly,7,134.81,20,Footwear_Dress_Black,Footwear_Dress_S,Footwear_Dress_Florida,69.84,Alta,Moderada
+Dress,Outerwear,White,Nevada,M,Female,Express,PayPal,0,0,Spring,Occasionally,3,138.99,19,Outerwear_Dress_White,Outerwear_Dress_M,Outerwear_Dress_Nevada,55.94,Alta,Moderada
+T-shirt,Accessories,Green,California,S,Female,Express,PayPal,1,0,Fall,Weekly,8,282.56,33,Accessories_T-shirt_Green,Accessories_T-shirt_S,Accessories_T-shirt_California,70.4,Alta,Alta probabilidade
+T-shirt,Clothing,Black,Nevada,M,Male,Express,Debit Card,0,1,Summer,Monthly,7,211.59,47,Clothing_T-shirt_Black,Clothing_T-shirt_M,Clothing_T-shirt_Nevada,64.0,Alta,Moderada
+Jeans,Clothing,Red,Nevada,L,Male,Standard,Credit Card,1,1,Winter,Occasionally,6,474.39,55,Clothing_Jeans_Red,Clothing_Jeans_L,Clothing_Jeans_Nevada,92.62,Alta,Alta probabilidade
+Jacket,Footwear,Blue,California,S,Male,Express,PayPal,1,1,Summer,Occasionally,6,71.92,23,Footwear_Jacket_Blue,Footwear_Jacket_S,Footwear_Jacket_California,53.9,Alta,Moderada
+Shoes,Footwear,Blue,Texas,XL,Female,Standard,PayPal,0,1,Fall,Monthly,2,487.11,62,Footwear_Shoes_Blue,Footwear_Shoes_XL,Footwear_Shoes_Texas,72.06,Alta,Alta probabilidade
+Dress,Clothing,Yellow,Florida,L,Female,Standard,PayPal,0,0,Spring,Occasionally,5,123.01,24,Clothing_Dress_Yellow,Clothing_Dress_L,Clothing_Dress_Florida,73.99,Alta,Alta probabilidade
+Jeans,Outerwear,Blue,California,XL,Female,Standard,Debit Card,0,0,Spring,Monthly,4,388.71,22,Outerwear_Jeans_Blue,Outerwear_Jeans_XL,Outerwear_Jeans_California,86.77,Alta,Alta probabilidade
+Shoes,Outerwear,Green,New York,L,Female,Express,Credit Card,0,0,Fall,Occasionally,0,176.1,24,Outerwear_Shoes_Green,Outerwear_Shoes_L,Outerwear_Shoes_New York,54.67,Alta,Moderada
+Jeans,Accessories,White,Texas,M,Male,Standard,PayPal,1,0,Spring,Occasionally,2,80.11,51,Accessories_Jeans_White,Accessories_Jeans_M,Accessories_Jeans_Texas,55.67,Alta,Moderada
+T-shirt,Outerwear,Red,New York,S,Male,Express,Credit Card,0,1,Fall,Monthly,0,430.37,49,Outerwear_T-shirt_Red,Outerwear_T-shirt_S,Outerwear_T-shirt_New York,88.55,Alta,Alta probabilidade
+Dress,Footwear,Green,Texas,L,Female,Express,PayPal,1,1,Spring,Monthly,3,161.34,66,Footwear_Dress_Green,Footwear_Dress_L,Footwear_Dress_Texas,64.89,Alta,Moderada
+Shoes,Footwear,Red,Florida,M,Female,Standard,PayPal,0,0,Spring,Occasionally,9,332.84,30,Footwear_Shoes_Red,Footwear_Shoes_M,Footwear_Shoes_Florida,65.19,Alta,Moderada
+Shoes,Outerwear,Red,Florida,S,Male,Express,Credit Card,0,0,Spring,Occasionally,2,287.56,47,Outerwear_Shoes_Red,Outerwear_Shoes_S,Outerwear_Shoes_Florida,73.62,Alta,Alta probabilidade
+Shoes,Footwear,White,Nevada,S,Female,Standard,Credit Card,0,0,Winter,Monthly,3,241.16,42,Footwear_Shoes_White,Footwear_Shoes_S,Footwear_Shoes_Nevada,86.02,Alta,Alta probabilidade
+Shoes,Clothing,Yellow,New York,L,Female,Standard,Credit Card,0,0,Winter,Monthly,8,252.95,38,Clothing_Shoes_Yellow,Clothing_Shoes_L,Clothing_Shoes_New York,78.15,Alta,Alta probabilidade
+Shoes,Clothing,Blue,Texas,S,Female,Express,Debit Card,1,0,Fall,Occasionally,2,368.8,38,Clothing_Shoes_Blue,Clothing_Shoes_S,Clothing_Shoes_Texas,76.34,Alta,Alta probabilidade
+Jeans,Outerwear,White,Florida,L,Male,Standard,PayPal,1,1,Winter,Occasionally,5,53.01,45,Outerwear_Jeans_White,Outerwear_Jeans_L,Outerwear_Jeans_Florida,45.21,Não-Alta,Baixa
+Dress,Clothing,Green,California,S,Male,Standard,Debit Card,0,1,Fall,Occasionally,5,337.41,65,Clothing_Dress_Green,Clothing_Dress_S,Clothing_Dress_California,62.31,Alta,Moderada
+T-shirt,Clothing,Yellow,Florida,XL,Female,Standard,Credit Card,1,0,Summer,Monthly,6,448.95,37,Clothing_T-shirt_Yellow,Clothing_T-shirt_XL,Clothing_T-shirt_Florida,95.89,Alta,Alta probabilidade
+T-shirt,Accessories,Green,California,M,Male,Express,PayPal,1,0,Summer,Occasionally,8,38.32,51,Accessories_T-shirt_Green,Accessories_T-shirt_M,Accessories_T-shirt_California,37.79,Não-Alta,Baixa
+T-shirt,Accessories,Yellow,Texas,XL,Female,Standard,Debit Card,0,0,Winter,Weekly,6,78.92,22,Accessories_T-shirt_Yellow,Accessories_T-shirt_XL,Accessories_T-shirt_Texas,85.74,Alta,Alta probabilidade
+T-shirt,Clothing,Green,Florida,L,Female,Express,PayPal,0,1,Summer,Monthly,0,361.15,35,Clothing_T-shirt_Green,Clothing_T-shirt_L,Clothing_T-shirt_Florida,82.55,Alta,Alta probabilidade
+Jeans,Outerwear,White,Florida,XL,Male,Express,Debit Card,1,1,Summer,Occasionally,7,224.27,56,Outerwear_Jeans_White,Outerwear_Jeans_XL,Outerwear_Jeans_Florida,65.92,Alta,Moderada
+Jacket,Accessories,Yellow,Texas,L,Female,Standard,Credit Card,1,1,Spring,Monthly,4,207.74,60,Accessories_Jacket_Yellow,Accessories_Jacket_L,Accessories_Jacket_Texas,86.74,Alta,Alta probabilidade
+Dress,Footwear,Yellow,Florida,S,Female,Standard,Debit Card,1,0,Spring,Weekly,8,77.11,28,Footwear_Dress_Yellow,Footwear_Dress_S,Footwear_Dress_Florida,69.32,Alta,Moderada
+Shoes,Footwear,Red,California,S,Male,Express,PayPal,1,1,Fall,Monthly,9,258.32,34,Footwear_Shoes_Red,Footwear_Shoes_S,Footwear_Shoes_California,44.98,Não-Alta,Baixa
+Jacket,Footwear,Red,Florida,L,Female,Express,PayPal,0,0,Summer,Occasionally,4,72.01,65,Footwear_Jacket_Red,Footwear_Jacket_L,Footwear_Jacket_Florida,42.95,Não-Alta,Baixa
+T-shirt,Outerwear,Black,New York,XL,Female,Standard,PayPal,0,1,Fall,Weekly,4,243.54,62,Outerwear_T-shirt_Black,Outerwear_T-shirt_XL,Outerwear_T-shirt_New York,85.58,Alta,Alta probabilidade
+Jacket,Clothing,Green,Nevada,S,Female,Standard,PayPal,1,1,Fall,Weekly,1,384.17,39,Clothing_Jacket_Green,Clothing_Jacket_S,Clothing_Jacket_Nevada,74.02,Alta,Alta probabilidade
+Dress,Footwear,Red,California,M,Male,Express,Credit Card,0,1,Summer,Occasionally,2,136.55,54,Footwear_Dress_Red,Footwear_Dress_M,Footwear_Dress_California,59.07,Alta,Moderada
+Shoes,Outerwear,Black,New York,S,Female,Express,Debit Card,1,0,Winter,Occasionally,9,245.59,37,Outerwear_Shoes_Black,Outerwear_Shoes_S,Outerwear_Shoes_New York,70.09,Alta,Alta probabilidade
+Shoes,Accessories,Red,Texas,M,Male,Express,Credit Card,1,0,Summer,Occasionally,8,496.09,65,Accessories_Shoes_Red,Accessories_Shoes_M,Accessories_Shoes_Texas,85.36,Alta,Alta probabilidade
+Dress,Clothing,Green,California,XL,Female,Express,Credit Card,0,1,Spring,Monthly,6,346.46,65,Clothing_Dress_Green,Clothing_Dress_XL,Clothing_Dress_California,83.38,Alta,Alta probabilidade
+Dress,Accessories,Yellow,Nevada,M,Female,Express,Credit Card,1,0,Summer,Monthly,0,422.26,65,Accessories_Dress_Yellow,Accessories_Dress_M,Accessories_Dress_Nevada,82.07,Alta,Alta probabilidade
+T-shirt,Outerwear,Blue,Nevada,M,Female,Standard,PayPal,1,0,Winter,Monthly,2,213.28,63,Outerwear_T-shirt_Blue,Outerwear_T-shirt_M,Outerwear_T-shirt_Nevada,59.14,Alta,Moderada
+Shoes,Footwear,Green,Texas,M,Female,Express,PayPal,0,0,Fall,Occasionally,1,386.25,23,Footwear_Shoes_Green,Footwear_Shoes_M,Footwear_Shoes_Texas,53.26,Alta,Moderada
+Jacket,Footwear,White,Texas,M,Male,Express,PayPal,0,0,Fall,Occasionally,0,29.85,51,Footwear_Jacket_White,Footwear_Jacket_M,Footwear_Jacket_Texas,54.72,Alta,Moderada
+Jeans,Outerwear,Red,California,S,Male,Standard,Debit Card,1,0,Spring,Monthly,8,70.23,31,Outerwear_Jeans_Red,Outerwear_Jeans_S,Outerwear_Jeans_California,52.56,Alta,Moderada
+Jeans,Footwear,Red,Florida,M,Female,Standard,PayPal,1,0,Spring,Weekly,7,109.5,65,Footwear_Jeans_Red,Footwear_Jeans_M,Footwear_Jeans_Florida,42.11,Não-Alta,Baixa
+Dress,Clothing,Yellow,Texas,S,Female,Express,Debit Card,0,0,Spring,Monthly,4,206.96,40,Clothing_Dress_Yellow,Clothing_Dress_S,Clothing_Dress_Texas,58.45,Alta,Moderada
+T-shirt,Outerwear,White,Florida,M,Female,Express,PayPal,1,1,Fall,Weekly,1,424.41,37,Outerwear_T-shirt_White,Outerwear_T-shirt_M,Outerwear_T-shirt_Florida,82.91,Alta,Alta probabilidade
+Jeans,Accessories,Yellow,New York,L,Female,Standard,PayPal,1,0,Spring,Occasionally,0,179.67,30,Accessories_Jeans_Yellow,Accessories_Jeans_L,Accessories_Jeans_New York,68.39,Alta,Moderada
+Shoes,Outerwear,White,Nevada,XL,Female,Express,Credit Card,0,0,Summer,Occasionally,6,330.76,64,Outerwear_Shoes_White,Outerwear_Shoes_XL,Outerwear_Shoes_Nevada,77.17,Alta,Alta probabilidade
+Dress,Clothing,Blue,Florida,M,Female,Express,Credit Card,0,1,Fall,Monthly,1,357.56,61,Clothing_Dress_Blue,Clothing_Dress_M,Clothing_Dress_Florida,76.59,Alta,Alta probabilidade
+Jacket,Clothing,Red,Nevada,L,Female,Standard,Credit Card,0,1,Winter,Monthly,0,297.23,58,Clothing_Jacket_Red,Clothing_Jacket_L,Clothing_Jacket_Nevada,73.46,Alta,Alta probabilidade
+Dress,Outerwear,Red,Florida,M,Female,Express,Debit Card,0,1,Fall,Occasionally,1,185.05,49,Outerwear_Dress_Red,Outerwear_Dress_M,Outerwear_Dress_Florida,55.35,Alta,Moderada
+Jacket,Outerwear,Blue,New York,M,Male,Standard,Debit Card,0,1,Summer,Monthly,6,292.76,43,Outerwear_Jacket_Blue,Outerwear_Jacket_M,Outerwear_Jacket_New York,81.91,Alta,Alta probabilidade
+Dress,Footwear,Black,Texas,M,Male,Standard,PayPal,0,0,Summer,Occasionally,6,177.71,67,Footwear_Dress_Black,Footwear_Dress_M,Footwear_Dress_Texas,75.75,Alta,Alta probabilidade
+Dress,Clothing,Yellow,New York,L,Male,Standard,Debit Card,1,1,Spring,Occasionally,9,51.1,31,Clothing_Dress_Yellow,Clothing_Dress_L,Clothing_Dress_New York,80.73,Alta,Alta probabilidade
+Dress,Outerwear,Blue,Texas,XL,Female,Standard,PayPal,1,1,Fall,Weekly,5,496.47,69,Outerwear_Dress_Blue,Outerwear_Dress_XL,Outerwear_Dress_Texas,92.49,Alta,Alta probabilidade
+Jacket,Outerwear,Yellow,Texas,L,Female,Express,Debit Card,0,0,Fall,Monthly,4,72.32,53,Outerwear_Jacket_Yellow,Outerwear_Jacket_L,Outerwear_Jacket_Texas,70.18,Alta,Alta probabilidade
+Jacket,Clothing,Green,Nevada,XL,Female,Standard,Debit Card,0,0,Fall,Occasionally,2,45.45,25,Clothing_Jacket_Green,Clothing_Jacket_XL,Clothing_Jacket_Nevada,47.64,Não-Alta,Baixa
+Dress,Outerwear,Red,New York,M,Male,Express,Debit Card,1,0,Winter,Monthly,2,440.48,57,Outerwear_Dress_Red,Outerwear_Dress_M,Outerwear_Dress_New York,78.06,Alta,Alta probabilidade
+Jeans,Footwear,Yellow,Florida,S,Female,Express,Credit Card,1,1,Spring,Weekly,8,157.9,39,Footwear_Jeans_Yellow,Footwear_Jeans_S,Footwear_Jeans_Florida,70.78,Alta,Alta probabilidade
+T-shirt,Clothing,White,New York,M,Male,Express,Debit Card,1,0,Summer,Weekly,3,328.65,39,Clothing_T-shirt_White,Clothing_T-shirt_M,Clothing_T-shirt_New York,78.61,Alta,Alta probabilidade
+T-shirt,Footwear,Yellow,Nevada,XL,Female,Express,Credit Card,0,1,Summer,Monthly,8,171.21,33,Footwear_T-shirt_Yellow,Footwear_T-shirt_XL,Footwear_T-shirt_Nevada,83.61,Alta,Alta probabilidade
+T-shirt,Footwear,Green,Texas,L,Male,Express,Credit Card,0,0,Spring,Monthly,3,201.81,44,Footwear_T-shirt_Green,Footwear_T-shirt_L,Footwear_T-shirt_Texas,80.05,Alta,Alta probabilidade
+Jacket,Footwear,Red,Nevada,M,Male,Standard,Debit Card,1,0,Summer,Occasionally,1,138.44,27,Footwear_Jacket_Red,Footwear_Jacket_M,Footwear_Jacket_Nevada,53.12,Alta,Moderada
+Jacket,Footwear,Blue,California,L,Male,Standard,PayPal,0,1,Summer,Weekly,3,178.09,42,Footwear_Jacket_Blue,Footwear_Jacket_L,Footwear_Jacket_California,70.18,Alta,Alta probabilidade
+Jeans,Clothing,Green,California,L,Female,Standard,PayPal,0,0,Spring,Weekly,5,211.24,48,Clothing_Jeans_Green,Clothing_Jeans_L,Clothing_Jeans_California,77.48,Alta,Alta probabilidade
+T-shirt,Footwear,Red,Florida,L,Male,Standard,PayPal,0,0,Summer,Weekly,5,363.0,38,Footwear_T-shirt_Red,Footwear_T-shirt_L,Footwear_T-shirt_Florida,83.58,Alta,Alta probabilidade
+T-shirt,Footwear,Yellow,Nevada,M,Female,Express,Debit Card,1,0,Fall,Monthly,4,260.65,44,Footwear_T-shirt_Yellow,Footwear_T-shirt_M,Footwear_T-shirt_Nevada,74.81,Alta,Alta probabilidade
+Dress,Outerwear,Black,Florida,L,Female,Standard,PayPal,1,0,Winter,Occasionally,0,472.35,34,Outerwear_Dress_Black,Outerwear_Dress_L,Outerwear_Dress_Florida,88.5,Alta,Alta probabilidade
+Jacket,Clothing,Black,Florida,L,Female,Express,Credit Card,0,0,Spring,Monthly,2,30.52,50,Clothing_Jacket_Black,Clothing_Jacket_L,Clothing_Jacket_Florida,54.14,Alta,Moderada
+T-shirt,Clothing,White,California,M,Female,Express,PayPal,0,1,Winter,Monthly,4,256.5,48,Clothing_T-shirt_White,Clothing_T-shirt_M,Clothing_T-shirt_California,71.06,Alta,Alta probabilidade
+Jeans,Accessories,Red,Florida,L,Female,Standard,Debit Card,0,1,Summer,Monthly,5,296.27,67,Accessories_Jeans_Red,Accessories_Jeans_L,Accessories_Jeans_Florida,66.85,Alta,Moderada
+Jeans,Clothing,Black,California,M,Male,Standard,PayPal,0,0,Summer,Occasionally,0,460.9,59,Clothing_Jeans_Black,Clothing_Jeans_M,Clothing_Jeans_California,84.23,Alta,Alta probabilidade
+T-shirt,Clothing,Blue,Texas,XL,Female,Standard,Credit Card,0,1,Fall,Monthly,8,34.09,43,Clothing_T-shirt_Blue,Clothing_T-shirt_XL,Clothing_T-shirt_Texas,82.93,Alta,Alta probabilidade
+Jacket,Accessories,Red,Nevada,XL,Female,Standard,Debit Card,1,1,Spring,Weekly,2,291.01,38,Accessories_Jacket_Red,Accessories_Jacket_XL,Accessories_Jacket_Nevada,81.15,Alta,Alta probabilidade
+Jeans,Clothing,Blue,Florida,XL,Female,Express,PayPal,0,1,Summer,Weekly,9,428.28,53,Clothing_Jeans_Blue,Clothing_Jeans_XL,Clothing_Jeans_Florida,50.74,Alta,Moderada
+Dress,Clothing,Blue,California,L,Female,Express,Debit Card,0,0,Spring,Weekly,2,128.54,18,Clothing_Dress_Blue,Clothing_Dress_L,Clothing_Dress_California,67.64,Alta,Moderada
+Jeans,Clothing,Black,New York,S,Female,Standard,Debit Card,0,0,Spring,Occasionally,1,439.38,21,Clothing_Jeans_Black,Clothing_Jeans_S,Clothing_Jeans_New York,78.79,Alta,Alta probabilidade
+Shoes,Clothing,Red,Florida,S,Male,Express,Debit Card,1,0,Spring,Monthly,7,19.33,21,Clothing_Shoes_Red,Clothing_Shoes_S,Clothing_Shoes_Florida,38.91,Não-Alta,Baixa
+Shoes,Accessories,Yellow,Texas,L,Male,Express,PayPal,1,1,Spring,Occasionally,2,368.9,43,Accessories_Shoes_Yellow,Accessories_Shoes_L,Accessories_Shoes_Texas,89.61,Alta,Alta probabilidade
+Jacket,Clothing,Green,Texas,S,Female,Express,Debit Card,0,1,Spring,Monthly,5,467.23,21,Clothing_Jacket_Green,Clothing_Jacket_S,Clothing_Jacket_Texas,90.62,Alta,Alta probabilidade
+T-shirt,Clothing,Black,New York,M,Male,Standard,PayPal,1,0,Winter,Weekly,1,332.03,66,Clothing_T-shirt_Black,Clothing_T-shirt_M,Clothing_T-shirt_New York,77.25,Alta,Alta probabilidade

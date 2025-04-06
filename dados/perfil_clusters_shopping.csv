@@ -1,0 +1,5 @@
+Cluster,Tamanho do Cluster,Age,Purchase Amount (USD),Previous Purchases,Gender,Item Purchased,Category,Location,Color,Shipping Type,Payment Method,Discount Applied,Subscription Status,Size,Season,Frequency of Purchases
+0,933,50.41,80.13,36.73,Male,Dress,Clothing,Arizona,Gray,Standard,Credit Card,0,0,M,Fall,Quarterly
+1,1025,35.86,79.59,17.55,Male,Shirt,Clothing,West Virginia,Green,Free Shipping,PayPal,0,0,M,Fall,Annually
+2,1022,52.75,39.82,32.64,Male,Jewelry,Clothing,Maryland,Silver,Next Day Air,PayPal,1,0,M,Spring,Annually
+3,920,37.14,39.19,14.41,Male,Jacket,Clothing,Nebraska,Blue,Standard,Bank Transfer,0,0,M,Summer,Every 3 Months

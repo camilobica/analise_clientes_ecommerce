@@ -1,0 +1,1001 @@
+Item Purchased,Category,Color,Location,Size,Gender,Shipping Type,Payment Method,Discount Applied,Subscription Status,Season,Frequency of Purchases,Previous Purchases,Purchase Amount (USD),Age
+Jacket,Outerwear,Red,Texas,M,Male,Standard,Credit Card,0,1,Summer,Occasionally,0,68.05,49
+Dress,Outerwear,Black,Florida,XL,Male,Express,PayPal,0,1,Winter,Weekly,0,16.68,38
+T-shirt,Outerwear,Blue,Florida,L,Male,Standard,Debit Card,0,1,Winter,Monthly,8,158.58,27
+Dress,Outerwear,Green,New York,M,Female,Express,Debit Card,0,1,Summer,Occasionally,7,352.02,54
+Dress,Outerwear,Blue,Florida,S,Female,Standard,PayPal,1,1,Winter,Monthly,4,397.23,66
+Jeans,Footwear,Blue,New York,M,Male,Standard,Debit Card,1,0,Winter,Occasionally,4,154.92,39
+T-shirt,Outerwear,Yellow,Texas,S,Female,Standard,Credit Card,1,1,Winter,Weekly,8,252.87,30
+T-shirt,Footwear,Black,California,M,Male,Express,PayPal,0,1,Winter,Weekly,2,216.35,34
+T-shirt,Outerwear,Yellow,Nevada,L,Male,Standard,Credit Card,1,0,Winter,Weekly,2,211.16,26
+Dress,Accessories,Black,Texas,S,Female,Standard,PayPal,0,0,Fall,Monthly,6,123.36,41
+Jacket,Clothing,Black,Florida,L,Female,Express,Debit Card,0,0,Winter,Occasionally,8,76.82,61
+T-shirt,Footwear,White,Nevada,L,Male,Express,PayPal,1,0,Spring,Monthly,5,106.38,31
+Dress,Outerwear,Red,California,S,Male,Standard,PayPal,0,1,Summer,Weekly,1,37.11,63
+Jeans,Accessories,White,California,S,Female,Express,Credit Card,0,1,Fall,Monthly,0,107.08,25
+Jacket,Clothing,Red,New York,XL,Male,Standard,Debit Card,1,1,Fall,Weekly,1,14.51,54
+Jeans,Footwear,Yellow,Nevada,XL,Female,Standard,Credit Card,0,1,Winter,Weekly,0,317.36,36
+Jacket,Clothing,Red,New York,XL,Male,Express,Debit Card,0,0,Summer,Weekly,9,165.02,45
+Dress,Accessories,Yellow,Texas,L,Female,Express,Credit Card,1,1,Spring,Occasionally,9,486.84,63
+Shoes,Footwear,Blue,Nevada,L,Male,Express,PayPal,0,1,Winter,Occasionally,8,104.92,58
+Jacket,Clothing,Blue,Texas,XL,Male,Standard,Credit Card,0,0,Summer,Weekly,9,179.46,47
+Jeans,Outerwear,Red,New York,L,Female,Express,Debit Card,1,1,Winter,Monthly,7,185.34,24
+Dress,Footwear,Red,Nevada,L,Male,Standard,Debit Card,1,1,Winter,Monthly,6,14.14,43
+Jacket,Clothing,Yellow,New York,S,Male,Express,PayPal,1,1,Winter,Occasionally,2,421.21,57
+Shoes,Accessories,White,Nevada,S,Female,Standard,Debit Card,1,1,Winter,Weekly,7,25.68,63
+Shoes,Accessories,Yellow,New York,L,Male,Express,Credit Card,0,0,Winter,Monthly,1,470.69,63
+T-shirt,Footwear,White,California,XL,Male,Standard,PayPal,0,0,Winter,Weekly,1,447.12,28
+T-shirt,Clothing,Blue,New York,M,Male,Express,Debit Card,1,0,Winter,Monthly,9,272.41,31
+Jeans,Footwear,Black,California,XL,Female,Standard,Debit Card,0,0,Spring,Occasionally,2,276.36,38
+Jacket,Footwear,Red,New York,M,Female,Express,Credit Card,0,0,Fall,Weekly,6,330.35,25
+Jacket,Clothing,White,Nevada,XL,Female,Express,Credit Card,1,1,Spring,Weekly,0,199.65,20
+T-shirt,Clothing,Yellow,Nevada,S,Male,Standard,PayPal,1,1,Winter,Monthly,7,327.14,45
+Jacket,Outerwear,Blue,Nevada,L,Male,Express,Debit Card,0,0,Winter,Monthly,6,31.94,46
+Jacket,Clothing,White,Florida,L,Male,Standard,Credit Card,1,0,Spring,Monthly,3,36.48,40
+Shoes,Accessories,Yellow,Texas,S,Male,Standard,PayPal,1,0,Spring,Weekly,4,234.04,35
+T-shirt,Footwear,Red,Nevada,M,Female,Express,Debit Card,1,1,Fall,Occasionally,9,279.31,52
+Dress,Footwear,Red,California,M,Male,Standard,Debit Card,0,0,Spring,Occasionally,0,445.03,30
+T-shirt,Accessories,Green,Nevada,M,Male,Express,PayPal,1,1,Fall,Monthly,3,61.28,29
+Dress,Clothing,Black,Florida,S,Male,Express,PayPal,0,1,Winter,Occasionally,0,413.1,64
+Shoes,Accessories,Green,California,M,Female,Standard,Credit Card,0,1,Summer,Monthly,0,112.92,67
+Jeans,Accessories,Blue,Florida,S,Male,Express,Debit Card,0,1,Summer,Occasionally,9,203.1,22
+Jacket,Outerwear,White,California,XL,Male,Standard,Debit Card,1,0,Summer,Weekly,0,165.14,56
+Shoes,Accessories,Blue,New York,XL,Male,Standard,Debit Card,1,1,Summer,Monthly,6,206.08,28
+Jacket,Footwear,Yellow,Texas,S,Male,Express,PayPal,1,1,Winter,Occasionally,6,83.74,28
+Jeans,Accessories,Red,Texas,L,Male,Express,Credit Card,1,0,Summer,Weekly,3,256.75,64
+Jeans,Footwear,Green,Florida,XL,Female,Standard,Debit Card,1,1,Spring,Occasionally,1,402.8,59
+Shoes,Footwear,Green,Texas,M,Male,Standard,PayPal,0,1,Spring,Weekly,2,226.35,64
+Jeans,Footwear,Green,Florida,S,Male,Express,Debit Card,0,1,Summer,Weekly,7,250.4,48
+Dress,Clothing,Blue,Florida,M,Male,Express,Credit Card,0,0,Spring,Occasionally,7,425.9,48
+Jeans,Outerwear,Red,Florida,M,Male,Express,Debit Card,1,1,Fall,Occasionally,5,355.97,30
+Jacket,Footwear,White,Texas,L,Male,Express,Credit Card,0,1,Winter,Weekly,9,250.32,31
+Jacket,Footwear,Yellow,Florida,M,Male,Standard,Credit Card,0,0,Summer,Weekly,8,136.27,66
+Jacket,Clothing,White,Texas,L,Male,Express,Debit Card,1,0,Summer,Weekly,8,443.61,62
+Jacket,Footwear,Blue,Florida,XL,Male,Standard,Debit Card,1,1,Winter,Monthly,3,292.74,59
+Dress,Accessories,Yellow,Nevada,S,Male,Standard,Credit Card,0,1,Spring,Weekly,0,118.36,42
+T-shirt,Accessories,Green,Florida,M,Male,Express,PayPal,0,0,Winter,Monthly,0,141.87,50
+Shoes,Outerwear,Black,California,S,Female,Standard,Credit Card,1,1,Winter,Weekly,9,403.54,50
+Jacket,Footwear,Blue,Florida,M,Female,Express,Debit Card,1,0,Spring,Monthly,4,31.63,32
+Jeans,Clothing,Blue,New York,S,Female,Standard,Debit Card,1,1,Winter,Weekly,1,496.13,33
+Jacket,Accessories,Red,Florida,M,Female,Express,PayPal,1,0,Spring,Weekly,5,73.87,61
+Jeans,Clothing,White,California,M,Male,Standard,Credit Card,0,1,Spring,Weekly,6,400.07,55
+Jeans,Clothing,Blue,California,M,Female,Standard,Credit Card,0,0,Winter,Occasionally,0,203.44,23
+Jacket,Accessories,Blue,Texas,M,Female,Express,Credit Card,1,0,Fall,Occasionally,5,251.19,61
+Dress,Clothing,Green,Nevada,M,Male,Express,Debit Card,0,0,Spring,Weekly,7,441.52,42
+Jeans,Accessories,Green,Florida,M,Female,Standard,Credit Card,0,0,Winter,Monthly,4,212.33,32
+Jeans,Clothing,Yellow,Texas,M,Female,Standard,PayPal,1,0,Spring,Monthly,6,273.37,21
+Jacket,Accessories,Black,Nevada,M,Male,Express,Debit Card,0,1,Fall,Weekly,9,34.16,21
+Jeans,Footwear,Red,Florida,M,Male,Standard,Debit Card,0,1,Fall,Occasionally,5,11.15,47
+Jeans,Outerwear,Black,New York,S,Male,Express,Credit Card,0,0,Summer,Monthly,3,129.95,51
+Jacket,Accessories,Yellow,Florida,L,Female,Standard,PayPal,1,1,Spring,Occasionally,6,343.49,44
+Jacket,Accessories,Green,California,M,Female,Express,Debit Card,1,1,Spring,Monthly,9,69.42,48
+Shoes,Outerwear,White,California,L,Male,Standard,Debit Card,0,1,Winter,Weekly,8,65.74,49
+Dress,Accessories,Green,New York,M,Male,Express,Credit Card,1,1,Spring,Occasionally,9,211.37,61
+Dress,Accessories,Red,Texas,M,Female,Express,Credit Card,1,1,Summer,Monthly,9,327.44,56
+Jeans,Clothing,Green,Nevada,S,Male,Standard,PayPal,1,1,Fall,Weekly,6,358.92,69
+Dress,Outerwear,Red,Florida,XL,Female,Express,Credit Card,0,0,Fall,Weekly,4,97.44,26
+Jeans,Footwear,Red,California,XL,Male,Standard,PayPal,0,1,Summer,Weekly,6,49.0,58
+Shoes,Accessories,Red,Texas,S,Male,Express,Debit Card,1,1,Spring,Occasionally,2,470.79,25
+Jacket,Outerwear,Yellow,New York,L,Female,Express,PayPal,0,1,Spring,Occasionally,1,137.73,31
+Jacket,Clothing,Red,California,XL,Male,Express,PayPal,0,0,Summer,Weekly,4,428.14,50
+Jacket,Footwear,Red,New York,S,Male,Standard,PayPal,0,1,Winter,Occasionally,3,433.11,40
+Dress,Outerwear,White,Florida,S,Male,Express,Debit Card,0,1,Fall,Monthly,4,388.54,38
+Shoes,Footwear,Black,Nevada,XL,Female,Standard,Credit Card,0,1,Summer,Weekly,7,92.73,29
+Dress,Footwear,Blue,California,L,Male,Express,Debit Card,1,0,Summer,Weekly,3,412.68,19
+Dress,Footwear,Black,California,S,Male,Standard,Credit Card,0,1,Spring,Occasionally,8,386.93,30
+Shoes,Accessories,Red,Florida,M,Male,Standard,PayPal,0,0,Fall,Weekly,6,302.39,21
+Shoes,Accessories,White,Texas,L,Male,Standard,PayPal,0,1,Spring,Monthly,9,175.23,37
+Shoes,Clothing,Green,Nevada,L,Male,Express,PayPal,1,0,Summer,Occasionally,6,138.63,67
+Shoes,Clothing,White,California,XL,Male,Standard,PayPal,1,0,Winter,Occasionally,7,69.73,68
+Jacket,Outerwear,Red,Nevada,XL,Female,Express,PayPal,1,0,Fall,Weekly,5,259.78,65
+T-shirt,Clothing,White,California,M,Female,Standard,Credit Card,0,1,Summer,Weekly,7,296.78,31
+T-shirt,Footwear,White,Nevada,S,Male,Standard,Credit Card,1,0,Summer,Weekly,2,186.08,47
+Shoes,Footwear,Red,New York,XL,Female,Standard,PayPal,1,0,Winter,Occasionally,9,242.93,46
+T-shirt,Accessories,Yellow,California,XL,Female,Standard,Debit Card,1,0,Summer,Weekly,9,188.12,25
+T-shirt,Footwear,White,Nevada,L,Male,Express,Debit Card,1,0,Summer,Monthly,0,324.09,29
+Shoes,Outerwear,Blue,Texas,XL,Female,Standard,PayPal,0,1,Fall,Weekly,5,451.62,58
+T-shirt,Footwear,Blue,New York,XL,Female,Standard,Credit Card,1,1,Fall,Weekly,0,90.32,55
+Dress,Footwear,White,New York,XL,Female,Express,Debit Card,1,1,Fall,Occasionally,8,196.89,43
+Jeans,Outerwear,Yellow,Texas,XL,Female,Standard,Debit Card,0,1,Spring,Weekly,1,79.03,67
+Jeans,Clothing,Green,Nevada,L,Female,Standard,Debit Card,0,0,Winter,Occasionally,1,316.22,19
+Shoes,Clothing,Red,Florida,M,Female,Standard,PayPal,1,1,Fall,Weekly,6,367.15,57
+Jacket,Outerwear,Blue,Texas,M,Female,Standard,Debit Card,0,0,Spring,Monthly,1,466.64,31
+Shoes,Accessories,Green,Nevada,S,Female,Express,Debit Card,1,1,Spring,Monthly,9,146.65,23
+Jacket,Footwear,White,Texas,XL,Male,Express,Debit Card,0,1,Winter,Occasionally,7,475.6,59
+Jeans,Outerwear,Green,Texas,L,Male,Standard,Debit Card,0,1,Winter,Occasionally,5,41.0,57
+Shoes,Footwear,Black,California,S,Female,Express,Credit Card,1,0,Summer,Weekly,6,305.48,48
+Dress,Accessories,Blue,Nevada,S,Female,Express,PayPal,0,1,Spring,Weekly,6,38.0,34
+T-shirt,Footwear,White,Florida,M,Male,Standard,PayPal,1,1,Fall,Monthly,5,447.95,42
+Jacket,Outerwear,Red,California,L,Female,Express,Credit Card,0,1,Winter,Weekly,9,269.61,49
+T-shirt,Footwear,Yellow,Texas,L,Female,Standard,Credit Card,1,0,Spring,Monthly,8,337.98,29
+T-shirt,Clothing,White,Texas,L,Male,Express,PayPal,0,1,Fall,Occasionally,8,417.47,66
+Shoes,Accessories,Red,Texas,M,Male,Express,Debit Card,0,1,Spring,Weekly,6,83.65,30
+T-shirt,Accessories,Yellow,Nevada,M,Male,Express,Debit Card,0,0,Winter,Occasionally,8,28.91,36
+Dress,Accessories,Yellow,Nevada,M,Female,Standard,PayPal,0,0,Summer,Weekly,9,440.65,61
+T-shirt,Outerwear,White,California,M,Female,Express,Debit Card,0,1,Spring,Monthly,2,164.32,65
+Shoes,Accessories,Green,Florida,M,Male,Standard,Credit Card,1,1,Fall,Occasionally,2,73.2,42
+Dress,Clothing,Green,California,XL,Male,Standard,Debit Card,0,1,Winter,Occasionally,0,239.55,48
+Jeans,Outerwear,Yellow,New York,XL,Female,Express,Debit Card,1,0,Summer,Weekly,4,303.17,54
+T-shirt,Clothing,Green,Texas,L,Male,Standard,Debit Card,1,0,Fall,Occasionally,3,25.18,42
+Shoes,Footwear,Black,Texas,S,Female,Express,PayPal,1,0,Fall,Monthly,1,144.7,33
+Jeans,Footwear,Yellow,Texas,L,Female,Standard,Credit Card,0,1,Fall,Occasionally,8,26.07,55
+Jeans,Footwear,Yellow,California,S,Male,Standard,Debit Card,1,0,Spring,Occasionally,2,215.96,60
+Jacket,Footwear,Red,California,M,Male,Express,PayPal,0,1,Winter,Weekly,7,448.6,66
+Dress,Clothing,Green,Texas,S,Female,Express,Debit Card,1,0,Fall,Occasionally,5,491.5,40
+T-shirt,Outerwear,Yellow,California,L,Male,Express,Credit Card,1,0,Spring,Weekly,4,322.15,31
+Shoes,Outerwear,Black,Nevada,L,Male,Express,Debit Card,1,0,Winter,Weekly,0,89.2,23
+Jacket,Accessories,Red,Nevada,S,Male,Standard,Credit Card,1,1,Winter,Occasionally,3,453.87,42
+Dress,Clothing,White,California,XL,Male,Standard,Debit Card,1,1,Spring,Monthly,2,262.96,40
+Jacket,Footwear,Yellow,Texas,M,Female,Standard,Credit Card,0,1,Spring,Weekly,0,85.34,60
+Dress,Clothing,Black,California,M,Female,Express,Debit Card,1,1,Fall,Occasionally,4,461.65,29
+Dress,Accessories,Blue,California,L,Female,Standard,Credit Card,1,0,Winter,Weekly,5,381.16,30
+T-shirt,Accessories,Black,California,XL,Female,Express,Debit Card,0,1,Summer,Monthly,1,368.54,53
+Dress,Clothing,Black,New York,S,Male,Standard,Debit Card,0,0,Spring,Monthly,2,357.5,56
+Jacket,Clothing,Red,Nevada,M,Male,Express,PayPal,0,1,Winter,Weekly,5,108.17,51
+Dress,Clothing,White,Florida,XL,Female,Standard,PayPal,1,1,Winter,Monthly,3,113.39,23
+T-shirt,Outerwear,Blue,Florida,M,Female,Standard,Credit Card,1,0,Fall,Occasionally,8,347.26,55
+T-shirt,Footwear,Green,New York,XL,Male,Express,Debit Card,1,0,Summer,Occasionally,4,117.66,67
+Jacket,Clothing,Green,California,XL,Female,Standard,Credit Card,1,1,Fall,Weekly,3,224.95,69
+Jeans,Clothing,Black,New York,L,Female,Express,PayPal,1,1,Summer,Monthly,1,393.18,57
+Jeans,Clothing,Red,New York,M,Male,Standard,Credit Card,1,0,Summer,Occasionally,5,394.14,25
+Dress,Accessories,Red,Texas,S,Female,Standard,Credit Card,0,0,Spring,Occasionally,9,232.1,25
+Shoes,Accessories,Green,Nevada,L,Male,Express,PayPal,0,0,Winter,Occasionally,1,398.17,57
+Dress,Outerwear,Blue,Florida,L,Male,Express,Debit Card,1,0,Winter,Weekly,6,420.92,50
+Jacket,Footwear,White,California,S,Female,Standard,Credit Card,1,0,Winter,Weekly,2,330.84,51
+Jacket,Outerwear,Blue,Florida,L,Male,Standard,PayPal,1,1,Summer,Occasionally,8,121.93,61
+Jacket,Footwear,Yellow,Florida,XL,Female,Standard,Debit Card,1,1,Winter,Occasionally,4,144.27,32
+Jacket,Accessories,Yellow,Nevada,XL,Male,Standard,PayPal,1,1,Spring,Monthly,7,164.27,53
+Jacket,Accessories,White,Florida,M,Female,Standard,Credit Card,0,1,Summer,Monthly,5,67.23,52
+T-shirt,Accessories,Green,Florida,M,Female,Standard,Debit Card,0,0,Summer,Monthly,9,143.85,63
+Jeans,Outerwear,White,New York,S,Female,Express,Debit Card,1,0,Summer,Weekly,7,112.66,39
+Jacket,Clothing,Red,Nevada,M,Male,Express,PayPal,0,0,Summer,Occasionally,2,233.11,40
+Shoes,Clothing,Yellow,Texas,XL,Male,Express,PayPal,1,1,Spring,Weekly,2,455.13,57
+Shoes,Accessories,Black,California,S,Female,Standard,PayPal,1,0,Winter,Occasionally,4,61.2,62
+Shoes,Clothing,Black,Florida,S,Male,Standard,Debit Card,1,0,Spring,Monthly,9,362.93,68
+Shoes,Clothing,Green,California,M,Female,Standard,Debit Card,0,1,Winter,Monthly,2,346.77,39
+T-shirt,Outerwear,Red,Texas,XL,Female,Express,Credit Card,0,1,Spring,Monthly,7,56.92,22
+Shoes,Footwear,Blue,California,S,Male,Express,Debit Card,1,1,Fall,Monthly,9,462.06,48
+Jacket,Accessories,Red,Texas,XL,Female,Standard,Credit Card,0,0,Fall,Occasionally,7,288.55,30
+Dress,Accessories,Black,New York,XL,Male,Standard,PayPal,0,0,Fall,Monthly,1,188.23,45
+Shoes,Outerwear,Black,Florida,XL,Female,Express,PayPal,1,1,Fall,Occasionally,3,380.7,37
+T-shirt,Outerwear,Yellow,Texas,M,Male,Express,Debit Card,0,1,Summer,Occasionally,9,136.11,50
+T-shirt,Clothing,Red,California,L,Female,Express,PayPal,0,0,Summer,Weekly,0,349.82,33
+Shoes,Accessories,Red,Florida,L,Female,Standard,PayPal,1,1,Spring,Monthly,3,29.46,46
+Dress,Footwear,Black,New York,S,Male,Standard,Debit Card,1,0,Spring,Monthly,3,421.31,40
+Shoes,Outerwear,Blue,Florida,XL,Female,Standard,Credit Card,0,1,Fall,Weekly,9,229.6,41
+T-shirt,Footwear,Green,Texas,M,Female,Express,Debit Card,1,1,Winter,Occasionally,8,321.98,51
+Jeans,Footwear,Green,New York,XL,Male,Express,Credit Card,0,1,Fall,Monthly,2,118.41,24
+Jacket,Accessories,Red,California,XL,Female,Standard,Debit Card,1,0,Spring,Occasionally,1,341.77,55
+T-shirt,Accessories,Green,New York,M,Male,Standard,Debit Card,1,0,Fall,Weekly,8,388.4,54
+Shoes,Outerwear,Black,New York,L,Female,Express,PayPal,1,1,Spring,Occasionally,8,241.87,21
+Jacket,Accessories,Black,Nevada,XL,Male,Standard,Debit Card,1,0,Fall,Monthly,0,312.69,51
+Shoes,Accessories,Red,New York,XL,Female,Express,Debit Card,0,1,Winter,Occasionally,5,233.6,59
+Shoes,Accessories,Red,New York,L,Female,Express,Credit Card,1,1,Fall,Occasionally,9,448.1,39
+Jeans,Footwear,Yellow,Florida,M,Female,Standard,PayPal,1,0,Winter,Monthly,7,253.96,22
+Jacket,Outerwear,Red,California,S,Male,Express,Credit Card,1,0,Winter,Monthly,2,422.49,67
+Jacket,Clothing,Blue,Florida,L,Male,Standard,Credit Card,0,0,Spring,Occasionally,8,402.66,59
+Jeans,Footwear,Green,Florida,S,Male,Express,PayPal,0,0,Winter,Occasionally,1,211.15,40
+T-shirt,Accessories,Red,Texas,S,Male,Express,PayPal,1,1,Summer,Weekly,5,122.74,32
+Shoes,Footwear,White,Florida,L,Female,Standard,PayPal,1,0,Summer,Monthly,0,208.98,48
+Dress,Accessories,Yellow,Nevada,XL,Female,Express,Debit Card,1,0,Summer,Occasionally,6,414.85,26
+Shoes,Accessories,White,Nevada,S,Male,Standard,PayPal,1,1,Spring,Monthly,2,121.54,60
+Shoes,Footwear,Black,Texas,S,Male,Standard,PayPal,1,1,Summer,Weekly,6,266.97,42
+T-shirt,Outerwear,Green,California,M,Male,Express,PayPal,1,1,Spring,Occasionally,3,404.99,42
+Shoes,Accessories,Red,California,XL,Female,Standard,Credit Card,0,1,Spring,Occasionally,8,183.2,66
+Jeans,Outerwear,White,Florida,S,Male,Standard,Credit Card,1,0,Summer,Occasionally,4,324.68,38
+Jeans,Clothing,Green,Florida,M,Male,Standard,Debit Card,1,0,Winter,Monthly,2,130.36,26
+Jacket,Accessories,Black,Florida,XL,Female,Standard,Credit Card,1,1,Fall,Weekly,7,63.55,65
+Dress,Outerwear,Blue,California,L,Female,Standard,Debit Card,1,1,Spring,Monthly,5,399.25,55
+Shoes,Outerwear,Yellow,New York,L,Male,Standard,Credit Card,1,0,Summer,Occasionally,1,58.49,39
+Shoes,Clothing,Green,Nevada,M,Female,Express,PayPal,1,0,Spring,Weekly,2,142.98,60
+T-shirt,Outerwear,Green,New York,L,Male,Standard,Credit Card,0,0,Winter,Occasionally,7,429.0,40
+Jeans,Outerwear,Blue,New York,S,Female,Express,Debit Card,0,0,Winter,Occasionally,9,179.77,66
+Dress,Clothing,Green,California,XL,Male,Express,Credit Card,0,0,Summer,Monthly,6,486.79,21
+Jacket,Accessories,Black,New York,S,Male,Standard,PayPal,0,1,Spring,Occasionally,9,490.07,46
+Jeans,Outerwear,Black,Texas,S,Male,Express,Debit Card,0,1,Fall,Weekly,5,141.46,32
+Jacket,Outerwear,Blue,Florida,L,Male,Express,PayPal,0,1,Fall,Occasionally,0,30.08,18
+T-shirt,Outerwear,Yellow,Texas,S,Female,Standard,PayPal,1,1,Spring,Occasionally,8,355.48,47
+T-shirt,Footwear,Red,Nevada,L,Female,Standard,Debit Card,1,0,Spring,Monthly,2,230.98,46
+Shoes,Clothing,White,Florida,XL,Female,Standard,PayPal,1,1,Spring,Weekly,4,59.37,37
+Dress,Footwear,Red,New York,XL,Female,Express,PayPal,1,0,Summer,Monthly,6,356.69,50
+Jacket,Clothing,Green,Nevada,S,Male,Express,Credit Card,1,0,Winter,Occasionally,6,25.28,58
+Jeans,Accessories,White,Florida,M,Male,Standard,PayPal,1,0,Fall,Monthly,2,436.4,61
+T-shirt,Accessories,Blue,New York,L,Female,Standard,PayPal,0,0,Summer,Monthly,3,77.94,53
+Shoes,Outerwear,Blue,Texas,L,Female,Express,PayPal,1,0,Spring,Monthly,9,72.38,39
+Shoes,Clothing,Yellow,Florida,S,Female,Express,PayPal,0,0,Spring,Monthly,6,96.08,30
+Jacket,Accessories,White,New York,L,Female,Express,Debit Card,0,0,Winter,Occasionally,7,480.53,24
+T-shirt,Clothing,Black,Texas,L,Female,Express,Credit Card,1,1,Spring,Occasionally,1,349.65,25
+Dress,Accessories,White,Nevada,M,Male,Standard,PayPal,1,0,Summer,Weekly,8,402.67,45
+T-shirt,Footwear,Green,Nevada,M,Male,Express,PayPal,1,1,Summer,Monthly,6,204.84,62
+Jacket,Accessories,Black,Nevada,S,Male,Express,Debit Card,1,1,Winter,Monthly,7,174.79,60
+Jacket,Footwear,Blue,Nevada,M,Female,Express,PayPal,1,0,Summer,Weekly,5,124.9,26
+T-shirt,Accessories,White,California,S,Female,Express,Debit Card,1,0,Fall,Monthly,5,245.52,42
+Jacket,Outerwear,Red,Florida,XL,Female,Standard,Credit Card,1,1,Summer,Weekly,8,280.4,33
+T-shirt,Footwear,Yellow,Florida,S,Female,Standard,Credit Card,0,1,Summer,Occasionally,3,319.57,27
+Jeans,Accessories,Red,California,XL,Male,Express,PayPal,1,1,Summer,Weekly,4,135.99,28
+T-shirt,Outerwear,Yellow,New York,S,Male,Express,PayPal,1,1,Fall,Monthly,8,474.84,48
+T-shirt,Footwear,Green,New York,L,Female,Standard,PayPal,0,0,Spring,Weekly,0,93.18,29
+Jacket,Outerwear,Red,Nevada,M,Male,Standard,Debit Card,1,0,Summer,Occasionally,3,483.17,48
+Jacket,Clothing,White,Texas,XL,Male,Express,PayPal,1,0,Winter,Monthly,6,17.28,31
+Shoes,Clothing,White,New York,S,Female,Express,PayPal,0,1,Fall,Occasionally,8,245.75,68
+Shoes,Footwear,Red,Texas,M,Female,Standard,Credit Card,1,0,Winter,Occasionally,9,173.35,61
+Jeans,Accessories,White,Florida,S,Female,Standard,PayPal,1,1,Summer,Weekly,5,230.07,49
+Shoes,Footwear,Green,Texas,M,Female,Standard,Credit Card,1,0,Winter,Occasionally,7,289.63,67
+T-shirt,Outerwear,Black,Florida,M,Female,Standard,PayPal,1,1,Summer,Monthly,8,223.44,34
+Jacket,Accessories,Green,California,S,Female,Standard,Credit Card,1,0,Fall,Occasionally,9,213.27,52
+Shoes,Clothing,Yellow,California,XL,Male,Standard,PayPal,1,0,Winter,Occasionally,3,369.03,18
+Shoes,Accessories,Green,Nevada,XL,Male,Express,Credit Card,0,1,Winter,Weekly,0,346.08,46
+Jeans,Clothing,Yellow,New York,L,Female,Standard,Debit Card,1,1,Summer,Occasionally,7,418.3,68
+Jeans,Accessories,White,Nevada,M,Male,Standard,Credit Card,1,1,Summer,Weekly,1,132.48,21
+T-shirt,Accessories,Black,Florida,L,Female,Standard,Credit Card,0,1,Spring,Weekly,0,308.67,40
+Jacket,Accessories,White,Nevada,L,Female,Standard,Credit Card,0,1,Summer,Monthly,6,296.75,45
+Jeans,Outerwear,Blue,Texas,S,Female,Express,PayPal,1,0,Summer,Monthly,9,191.17,33
+Shoes,Outerwear,White,Florida,S,Female,Express,PayPal,0,1,Spring,Monthly,8,248.17,29
+Jacket,Footwear,Yellow,California,S,Male,Standard,PayPal,1,0,Summer,Monthly,8,163.75,38
+Jacket,Footwear,White,New York,M,Female,Express,Debit Card,1,0,Summer,Weekly,2,79.5,62
+Shoes,Clothing,White,Florida,S,Male,Express,Debit Card,0,0,Spring,Occasionally,5,114.76,34
+Jeans,Outerwear,Black,Florida,S,Female,Express,Credit Card,1,0,Fall,Monthly,6,61.7,57
+Shoes,Clothing,White,Texas,M,Female,Express,Debit Card,1,0,Fall,Monthly,9,344.7,30
+Jacket,Footwear,Black,New York,M,Female,Express,Credit Card,0,1,Summer,Monthly,8,333.76,69
+Dress,Clothing,Red,California,XL,Male,Express,Credit Card,0,1,Summer,Occasionally,1,475.8,49
+Dress,Footwear,Blue,Florida,S,Female,Standard,Credit Card,0,0,Spring,Monthly,7,367.54,54
+T-shirt,Outerwear,Black,Florida,S,Female,Standard,Debit Card,0,0,Spring,Occasionally,6,35.5,67
+Shoes,Accessories,Yellow,Texas,S,Female,Standard,PayPal,1,1,Fall,Weekly,3,443.28,32
+Shoes,Outerwear,Red,Nevada,XL,Male,Standard,Debit Card,0,1,Winter,Weekly,1,432.71,29
+T-shirt,Clothing,Black,California,S,Male,Standard,Credit Card,0,0,Summer,Weekly,7,227.23,66
+T-shirt,Clothing,Black,New York,XL,Male,Express,Credit Card,0,1,Winter,Occasionally,4,297.07,32
+T-shirt,Outerwear,Blue,Florida,L,Female,Standard,Debit Card,0,1,Winter,Monthly,5,488.28,51
+Jacket,Outerwear,Yellow,Florida,XL,Male,Standard,Credit Card,0,1,Spring,Monthly,6,270.83,23
+Shoes,Footwear,Green,California,L,Female,Express,Credit Card,1,0,Summer,Monthly,9,453.61,34
+Jacket,Clothing,Green,Nevada,S,Male,Express,Debit Card,0,1,Summer,Monthly,0,50.69,65
+T-shirt,Clothing,Black,Florida,L,Male,Standard,Debit Card,1,0,Spring,Monthly,7,103.62,66
+Shoes,Outerwear,White,California,XL,Female,Express,Debit Card,0,0,Winter,Occasionally,3,225.97,37
+Jacket,Accessories,Yellow,Texas,M,Male,Express,Credit Card,0,0,Spring,Weekly,8,296.53,26
+Jacket,Clothing,Red,Nevada,L,Female,Express,Credit Card,0,0,Fall,Monthly,0,409.95,22
+T-shirt,Accessories,White,New York,L,Female,Express,PayPal,0,0,Summer,Weekly,1,494.25,40
+Shoes,Outerwear,White,Florida,S,Male,Standard,PayPal,0,1,Fall,Occasionally,5,200.54,50
+T-shirt,Outerwear,Yellow,California,XL,Female,Express,Debit Card,0,0,Spring,Occasionally,9,33.23,55
+Shoes,Footwear,Black,Texas,L,Female,Standard,PayPal,0,0,Summer,Monthly,0,402.57,31
+Dress,Clothing,Black,New York,L,Male,Standard,Credit Card,0,0,Fall,Occasionally,3,306.15,34
+Jeans,Accessories,Black,California,L,Male,Express,PayPal,1,1,Fall,Weekly,7,107.29,36
+Jeans,Footwear,Black,California,L,Female,Express,Credit Card,0,1,Winter,Monthly,9,252.47,50
+Jeans,Clothing,Green,New York,M,Male,Express,Debit Card,1,1,Summer,Monthly,4,373.73,18
+T-shirt,Footwear,Black,Texas,XL,Female,Standard,Debit Card,0,1,Fall,Weekly,8,387.5,30
+Dress,Outerwear,Green,Texas,S,Female,Express,Credit Card,1,1,Fall,Monthly,5,254.81,63
+Shoes,Clothing,Green,Nevada,S,Male,Express,PayPal,0,1,Winter,Monthly,0,159.56,44
+Jacket,Footwear,Black,Florida,M,Male,Express,Debit Card,0,1,Fall,Weekly,5,487.13,23
+Shoes,Footwear,Blue,New York,XL,Male,Express,Debit Card,0,0,Fall,Monthly,5,335.05,23
+Jacket,Accessories,Red,New York,L,Male,Express,PayPal,1,0,Fall,Monthly,5,210.04,50
+Shoes,Footwear,White,New York,M,Female,Standard,PayPal,1,1,Winter,Weekly,7,147.43,47
+Dress,Clothing,Green,Texas,XL,Female,Express,Credit Card,1,0,Fall,Occasionally,5,368.24,63
+Jacket,Clothing,Yellow,Florida,L,Male,Express,PayPal,1,0,Fall,Weekly,4,128.67,52
+T-shirt,Accessories,Yellow,Nevada,M,Male,Express,PayPal,0,1,Summer,Monthly,1,94.14,40
+Shoes,Clothing,Red,California,XL,Female,Standard,PayPal,0,0,Summer,Weekly,3,269.62,27
+Shoes,Outerwear,Yellow,California,S,Female,Express,Credit Card,0,0,Winter,Monthly,9,152.09,68
+Jacket,Clothing,Blue,New York,S,Female,Standard,Credit Card,1,1,Spring,Monthly,4,318.16,36
+T-shirt,Clothing,Yellow,Florida,XL,Female,Standard,Debit Card,0,0,Summer,Weekly,9,67.79,68
+T-shirt,Footwear,White,Texas,S,Male,Express,Credit Card,1,1,Winter,Monthly,3,330.92,45
+Dress,Footwear,White,Florida,XL,Female,Express,Debit Card,1,1,Fall,Occasionally,1,148.82,40
+T-shirt,Clothing,Green,Florida,L,Female,Express,PayPal,1,0,Fall,Monthly,6,10.12,21
+T-shirt,Accessories,Black,Texas,XL,Male,Standard,Debit Card,1,0,Winter,Weekly,9,72.2,37
+T-shirt,Footwear,Blue,New York,L,Female,Standard,Debit Card,1,0,Fall,Occasionally,9,467.47,36
+Jeans,Accessories,Green,Florida,M,Female,Standard,PayPal,0,1,Fall,Occasionally,1,435.0,59
+Dress,Clothing,Blue,California,XL,Male,Standard,Debit Card,1,1,Spring,Monthly,0,124.47,44
+Shoes,Clothing,Black,Texas,M,Male,Standard,Credit Card,1,1,Fall,Weekly,4,391.4,51
+Jacket,Outerwear,Yellow,Nevada,S,Male,Standard,Credit Card,0,0,Summer,Monthly,0,308.2,21
+Shoes,Footwear,Yellow,New York,L,Female,Express,Credit Card,1,0,Fall,Monthly,0,485.74,55
+Dress,Clothing,Black,Texas,XL,Female,Express,Credit Card,1,1,Winter,Weekly,0,193.07,24
+Jacket,Outerwear,Green,Nevada,M,Male,Standard,Debit Card,0,0,Spring,Weekly,5,343.92,65
+Dress,Footwear,Black,Nevada,L,Male,Express,Debit Card,0,0,Fall,Monthly,8,41.13,24
+T-shirt,Clothing,Red,Florida,L,Female,Express,PayPal,0,1,Winter,Occasionally,9,204.16,67
+Jacket,Clothing,White,Florida,S,Male,Standard,Debit Card,1,1,Summer,Monthly,0,482.27,69
+T-shirt,Footwear,Green,Florida,S,Male,Standard,Debit Card,0,0,Fall,Occasionally,4,274.1,43
+Shoes,Footwear,Blue,Texas,L,Male,Express,Debit Card,0,1,Spring,Monthly,8,151.06,43
+Shoes,Footwear,Red,Texas,L,Female,Standard,PayPal,0,0,Fall,Weekly,8,68.93,36
+Jacket,Clothing,Green,New York,XL,Female,Standard,Credit Card,1,1,Winter,Occasionally,0,354.73,26
+Jacket,Clothing,Black,Florida,L,Female,Express,Debit Card,0,1,Spring,Weekly,7,325.98,37
+Dress,Outerwear,Black,Nevada,XL,Female,Standard,PayPal,1,1,Fall,Weekly,0,193.23,59
+Dress,Accessories,Black,California,L,Female,Express,PayPal,1,0,Summer,Weekly,7,475.96,62
+T-shirt,Footwear,Black,New York,S,Female,Express,PayPal,0,0,Spring,Weekly,0,20.88,67
+Jacket,Clothing,Blue,Texas,XL,Male,Express,Credit Card,1,1,Summer,Weekly,4,158.82,33
+Shoes,Clothing,Red,New York,M,Female,Express,Debit Card,1,1,Winter,Monthly,7,461.32,34
+Dress,Footwear,Yellow,New York,S,Female,Express,PayPal,0,1,Fall,Occasionally,5,167.26,39
+Dress,Accessories,White,New York,XL,Male,Standard,Credit Card,1,0,Summer,Monthly,8,133.6,30
+Shoes,Footwear,Blue,New York,XL,Female,Standard,PayPal,0,1,Winter,Monthly,0,271.77,29
+Dress,Accessories,Blue,California,M,Female,Standard,PayPal,1,1,Fall,Monthly,8,413.66,27
+T-shirt,Clothing,Yellow,Florida,XL,Male,Standard,PayPal,1,1,Winter,Weekly,0,60.54,18
+Jacket,Accessories,Yellow,Nevada,L,Male,Express,PayPal,0,1,Summer,Monthly,9,472.08,49
+Shoes,Outerwear,White,New York,M,Male,Express,PayPal,0,0,Winter,Occasionally,9,399.59,47
+Jacket,Clothing,White,New York,S,Female,Standard,Credit Card,1,0,Spring,Monthly,2,98.81,25
+Dress,Outerwear,Yellow,New York,S,Male,Express,Debit Card,1,1,Fall,Weekly,0,358.88,38
+Dress,Footwear,Black,Florida,L,Female,Standard,Debit Card,0,0,Winter,Occasionally,2,198.63,39
+Shoes,Footwear,Blue,Texas,S,Female,Standard,Debit Card,1,0,Summer,Occasionally,1,207.12,35
+T-shirt,Footwear,Green,Texas,XL,Female,Standard,Debit Card,1,0,Fall,Occasionally,1,393.81,19
+Jeans,Accessories,White,California,XL,Female,Express,Credit Card,1,1,Spring,Occasionally,8,481.76,65
+Shoes,Clothing,White,Texas,L,Male,Express,Credit Card,1,0,Fall,Monthly,7,72.06,61
+Jeans,Footwear,Yellow,New York,S,Male,Express,Credit Card,0,0,Spring,Weekly,0,216.11,26
+Jeans,Footwear,Red,New York,S,Female,Express,PayPal,0,0,Fall,Occasionally,3,245.66,20
+T-shirt,Clothing,Green,New York,L,Male,Standard,PayPal,0,1,Winter,Occasionally,0,194.39,43
+Jeans,Footwear,Green,California,M,Female,Express,PayPal,0,1,Winter,Weekly,0,187.96,38
+Jeans,Outerwear,White,New York,S,Female,Express,Debit Card,0,0,Summer,Monthly,3,35.61,47
+T-shirt,Clothing,Black,Texas,M,Female,Express,PayPal,0,0,Spring,Occasionally,1,345.91,45
+Jeans,Clothing,Red,Florida,S,Male,Standard,Debit Card,1,1,Summer,Monthly,2,223.75,53
+Jeans,Clothing,Green,Florida,S,Female,Standard,PayPal,0,1,Winter,Monthly,8,105.45,43
+Jeans,Outerwear,White,Nevada,S,Female,Express,Debit Card,1,0,Spring,Monthly,1,409.86,51
+Shoes,Clothing,Green,Texas,S,Male,Express,PayPal,1,0,Summer,Monthly,3,403.25,25
+Shoes,Outerwear,Red,New York,XL,Male,Express,PayPal,1,1,Summer,Occasionally,0,248.33,27
+Shoes,Clothing,Red,Florida,M,Male,Express,Credit Card,0,1,Summer,Occasionally,1,156.24,65
+T-shirt,Accessories,Blue,Texas,M,Male,Standard,PayPal,1,0,Summer,Monthly,4,322.67,60
+Dress,Footwear,Yellow,Florida,S,Female,Express,PayPal,0,1,Summer,Monthly,9,151.19,67
+Jeans,Accessories,Yellow,New York,S,Male,Express,Credit Card,1,0,Spring,Weekly,0,125.64,31
+Jeans,Footwear,White,Florida,M,Female,Express,Debit Card,1,0,Summer,Weekly,6,367.95,57
+T-shirt,Outerwear,Red,Nevada,XL,Male,Standard,Credit Card,0,0,Spring,Weekly,3,29.76,32
+Jeans,Accessories,Blue,Nevada,L,Male,Standard,Credit Card,1,1,Summer,Occasionally,5,56.44,34
+Shoes,Clothing,Blue,Florida,L,Male,Express,Debit Card,1,0,Winter,Weekly,7,13.33,35
+Dress,Footwear,Green,Texas,M,Male,Express,PayPal,1,0,Winter,Occasionally,5,84.94,49
+Jacket,Footwear,Green,Texas,S,Male,Express,Debit Card,1,1,Summer,Occasionally,1,43.81,55
+Jeans,Accessories,Blue,Texas,S,Male,Express,PayPal,0,1,Fall,Occasionally,0,497.94,40
+Shoes,Outerwear,Green,Florida,XL,Female,Express,PayPal,1,0,Winter,Occasionally,7,151.52,63
+Jacket,Accessories,Red,Texas,L,Male,Standard,Debit Card,1,0,Spring,Weekly,7,83.14,40
+Dress,Outerwear,Black,New York,XL,Male,Standard,Credit Card,0,1,Summer,Monthly,8,128.09,52
+Jacket,Outerwear,Red,Nevada,L,Male,Standard,Debit Card,1,1,Spring,Monthly,5,468.7,56
+Shoes,Footwear,Blue,New York,M,Male,Express,PayPal,1,1,Fall,Monthly,0,264.88,32
+Jacket,Accessories,Blue,Texas,L,Female,Standard,Debit Card,1,0,Summer,Weekly,8,188.76,41
+T-shirt,Accessories,Red,New York,XL,Male,Standard,Debit Card,1,0,Winter,Monthly,2,437.96,45
+Jacket,Outerwear,Green,Texas,XL,Male,Standard,PayPal,0,0,Spring,Weekly,5,203.55,33
+Jeans,Accessories,Green,Florida,XL,Male,Express,Credit Card,1,1,Winter,Weekly,9,174.15,33
+Jeans,Clothing,Yellow,New York,M,Male,Express,Debit Card,0,0,Winter,Weekly,9,111.57,57
+T-shirt,Clothing,Blue,Florida,L,Female,Standard,PayPal,1,1,Summer,Monthly,8,195.12,56
+Shoes,Accessories,White,Florida,L,Male,Express,PayPal,1,0,Spring,Monthly,2,165.18,23
+Jeans,Accessories,Yellow,California,XL,Female,Standard,Debit Card,1,1,Fall,Monthly,4,341.88,19
+Dress,Outerwear,Green,Texas,L,Male,Standard,Credit Card,0,0,Winter,Occasionally,4,151.9,30
+Jeans,Clothing,Red,Nevada,S,Female,Standard,Debit Card,1,0,Summer,Weekly,9,292.83,61
+Jeans,Clothing,Green,Texas,S,Female,Standard,Credit Card,1,1,Summer,Occasionally,6,42.29,64
+Shoes,Footwear,Red,Nevada,S,Male,Express,Credit Card,0,1,Fall,Weekly,3,103.73,26
+Jacket,Outerwear,Yellow,Texas,L,Male,Express,Credit Card,0,0,Summer,Monthly,3,209.63,51
+Jeans,Footwear,Blue,Florida,M,Female,Express,Credit Card,0,1,Winter,Weekly,6,469.11,34
+T-shirt,Clothing,Green,New York,M,Female,Express,Debit Card,0,1,Summer,Weekly,8,194.85,44
+Jacket,Outerwear,Red,New York,M,Male,Standard,PayPal,1,0,Spring,Occasionally,3,335.4,46
+Dress,Accessories,Blue,California,M,Female,Express,PayPal,1,1,Spring,Weekly,3,134.99,54
+Shoes,Outerwear,White,Nevada,S,Female,Standard,PayPal,1,0,Winter,Monthly,5,72.25,60
+Dress,Accessories,Red,Nevada,S,Female,Express,PayPal,1,0,Spring,Weekly,5,38.68,39
+Jacket,Accessories,Yellow,Nevada,XL,Male,Express,PayPal,0,1,Fall,Weekly,6,159.65,68
+Jacket,Outerwear,White,Florida,L,Female,Express,PayPal,1,1,Summer,Weekly,0,87.25,41
+Jacket,Accessories,White,Nevada,L,Female,Standard,Debit Card,1,0,Winter,Occasionally,2,95.27,24
+Dress,Footwear,Black,New York,M,Female,Standard,Credit Card,1,0,Fall,Weekly,8,382.77,51
+Jacket,Clothing,Green,Florida,S,Male,Standard,PayPal,1,0,Summer,Weekly,5,17.76,65
+Dress,Accessories,Red,Texas,M,Male,Standard,Debit Card,0,0,Fall,Occasionally,5,283.33,29
+Jacket,Footwear,White,Nevada,XL,Female,Express,PayPal,1,0,Winter,Occasionally,4,195.94,40
+T-shirt,Accessories,Black,Nevada,L,Male,Standard,PayPal,1,0,Winter,Occasionally,2,258.21,32
+Jacket,Clothing,Yellow,Texas,L,Female,Standard,Credit Card,1,1,Fall,Occasionally,4,285.79,50
+Dress,Footwear,Blue,Nevada,M,Male,Express,Credit Card,0,1,Summer,Monthly,0,163.55,30
+Jeans,Clothing,Red,Texas,XL,Male,Express,Credit Card,0,1,Spring,Monthly,2,154.6,40
+Jacket,Clothing,White,Florida,L,Female,Standard,PayPal,1,0,Spring,Weekly,3,369.37,55
+Jeans,Footwear,Green,New York,XL,Male,Express,PayPal,1,1,Fall,Monthly,4,436.93,49
+T-shirt,Footwear,Black,Texas,XL,Male,Standard,PayPal,1,0,Winter,Weekly,9,104.36,62
+Shoes,Footwear,White,California,M,Male,Express,Credit Card,0,0,Summer,Monthly,8,57.83,67
+T-shirt,Outerwear,Green,Texas,S,Female,Standard,Debit Card,1,1,Summer,Occasionally,3,449.92,52
+Jacket,Footwear,White,Nevada,M,Male,Standard,PayPal,1,0,Winter,Occasionally,2,181.45,18
+Jeans,Footwear,Red,Florida,S,Male,Standard,PayPal,1,0,Spring,Monthly,9,280.15,64
+Jeans,Footwear,Red,Florida,XL,Female,Standard,PayPal,0,0,Summer,Monthly,0,186.18,62
+Dress,Footwear,Red,Texas,S,Male,Standard,Debit Card,1,0,Fall,Weekly,9,71.64,22
+Jeans,Accessories,Yellow,New York,XL,Male,Express,PayPal,1,0,Spring,Weekly,5,298.77,30
+Dress,Outerwear,Yellow,California,L,Male,Standard,Debit Card,0,0,Fall,Weekly,6,267.32,22
+Shoes,Clothing,Black,Florida,L,Male,Standard,PayPal,0,1,Spring,Occasionally,9,109.47,49
+Jacket,Footwear,Red,Nevada,L,Male,Standard,Debit Card,1,0,Winter,Occasionally,7,231.42,68
+Dress,Accessories,Green,Nevada,M,Female,Standard,PayPal,0,0,Fall,Occasionally,0,400.5,38
+Shoes,Accessories,White,New York,M,Female,Standard,Credit Card,1,0,Fall,Occasionally,3,299.31,41
+Jeans,Accessories,Blue,Florida,XL,Male,Express,Credit Card,0,0,Winter,Weekly,4,57.49,35
+Jeans,Clothing,Green,Texas,L,Male,Express,Credit Card,0,1,Fall,Occasionally,1,278.53,38
+Shoes,Footwear,Yellow,Nevada,M,Male,Standard,Credit Card,1,1,Spring,Occasionally,0,354.34,27
+Jeans,Outerwear,Yellow,New York,L,Female,Express,PayPal,1,0,Summer,Occasionally,7,398.42,41
+Shoes,Outerwear,Green,Florida,M,Female,Standard,Credit Card,1,0,Summer,Occasionally,5,318.27,57
+Dress,Accessories,Yellow,Florida,S,Male,Express,Debit Card,0,0,Winter,Monthly,4,84.8,64
+Dress,Clothing,Red,Florida,S,Male,Express,Credit Card,1,1,Spring,Weekly,8,357.98,38
+Shoes,Clothing,Black,Florida,L,Female,Standard,Credit Card,1,1,Fall,Weekly,1,341.9,42
+Dress,Clothing,White,Florida,XL,Male,Express,Credit Card,1,1,Fall,Occasionally,9,21.97,69
+Dress,Outerwear,Black,Nevada,M,Female,Express,PayPal,1,1,Summer,Monthly,7,211.76,40
+Dress,Accessories,White,New York,M,Female,Standard,Credit Card,1,0,Fall,Weekly,9,173.15,39
+T-shirt,Footwear,White,Florida,S,Male,Standard,Debit Card,0,1,Summer,Weekly,8,338.01,21
+Jacket,Outerwear,Black,California,S,Female,Express,Credit Card,1,1,Winter,Occasionally,0,115.91,51
+Jeans,Accessories,Green,California,XL,Male,Express,Credit Card,1,0,Fall,Occasionally,6,299.53,23
+T-shirt,Accessories,White,New York,XL,Male,Express,Credit Card,0,0,Spring,Weekly,7,457.47,45
+Dress,Footwear,Black,Texas,XL,Male,Standard,Debit Card,1,1,Fall,Weekly,2,400.92,48
+Shoes,Footwear,White,Texas,L,Male,Express,Credit Card,1,1,Summer,Monthly,3,461.51,52
+Dress,Footwear,Blue,Texas,S,Male,Express,Debit Card,1,1,Winter,Weekly,2,489.47,56
+Jacket,Clothing,Green,California,L,Male,Express,Debit Card,1,1,Summer,Weekly,6,15.23,59
+Dress,Footwear,Red,Texas,S,Female,Standard,Credit Card,1,0,Fall,Occasionally,8,315.14,40
+Shoes,Accessories,White,Nevada,S,Female,Standard,Debit Card,0,0,Summer,Weekly,2,212.29,23
+Jacket,Footwear,Blue,Florida,M,Female,Standard,PayPal,0,1,Summer,Occasionally,5,431.33,33
+Dress,Accessories,Red,California,S,Female,Standard,Credit Card,0,1,Winter,Weekly,7,133.39,19
+Jacket,Outerwear,Red,New York,S,Male,Express,Credit Card,1,1,Spring,Weekly,5,490.7,41
+Jeans,Clothing,White,New York,L,Female,Standard,Debit Card,0,1,Fall,Weekly,1,310.72,34
+Jeans,Outerwear,Black,Florida,S,Female,Express,Debit Card,1,1,Winter,Monthly,6,398.83,62
+Dress,Outerwear,White,California,L,Female,Express,Credit Card,1,0,Spring,Occasionally,1,51.94,18
+Jacket,Accessories,Blue,Texas,XL,Male,Express,PayPal,1,0,Summer,Monthly,1,99.89,23
+Shoes,Outerwear,Red,Texas,S,Female,Express,Debit Card,0,0,Spring,Weekly,1,381.62,22
+Dress,Accessories,White,Nevada,S,Male,Standard,Debit Card,0,1,Summer,Monthly,0,20.77,62
+Jeans,Footwear,Black,Nevada,L,Female,Standard,PayPal,0,1,Summer,Occasionally,0,410.27,67
+Jeans,Footwear,White,Texas,XL,Male,Standard,PayPal,1,0,Winter,Weekly,6,16.84,46
+Dress,Accessories,Green,New York,M,Male,Standard,Credit Card,0,0,Summer,Monthly,4,331.99,29
+Jacket,Footwear,Black,New York,XL,Female,Standard,PayPal,1,1,Winter,Monthly,2,188.9,56
+Jeans,Clothing,Blue,Nevada,L,Male,Express,Credit Card,0,0,Spring,Occasionally,0,309.63,64
+Jacket,Outerwear,Red,Florida,XL,Male,Standard,PayPal,0,1,Spring,Monthly,9,351.06,20
+Jeans,Clothing,White,Texas,L,Female,Standard,Debit Card,1,1,Summer,Occasionally,5,177.81,65
+Jeans,Outerwear,Black,Nevada,L,Female,Standard,Credit Card,1,0,Winter,Weekly,0,62.9,18
+T-shirt,Footwear,Green,Nevada,M,Female,Standard,Credit Card,0,0,Summer,Weekly,8,44.13,44
+Jeans,Clothing,Black,Texas,S,Male,Express,Credit Card,0,0,Winter,Monthly,1,298.58,65
+Shoes,Footwear,Yellow,Texas,L,Male,Express,PayPal,0,1,Winter,Weekly,0,265.12,41
+Dress,Outerwear,Green,New York,L,Male,Express,Debit Card,1,1,Winter,Weekly,6,373.68,61
+Dress,Accessories,Blue,Florida,M,Female,Express,Credit Card,1,0,Spring,Monthly,5,259.77,36
+Jacket,Accessories,Red,Florida,L,Male,Express,Credit Card,0,1,Winter,Weekly,5,217.0,25
+Jeans,Clothing,Blue,Texas,S,Male,Standard,Credit Card,0,1,Spring,Monthly,4,205.06,61
+Shoes,Footwear,White,California,M,Male,Express,Credit Card,1,1,Winter,Occasionally,3,22.96,64
+Jacket,Footwear,Black,Nevada,S,Male,Express,Debit Card,0,0,Spring,Occasionally,3,174.42,19
+T-shirt,Clothing,Yellow,Nevada,S,Male,Express,PayPal,1,1,Fall,Occasionally,2,488.25,47
+Jacket,Accessories,Green,Texas,M,Male,Standard,Debit Card,1,0,Spring,Monthly,9,438.04,47
+Jacket,Outerwear,Green,California,L,Male,Standard,Credit Card,1,0,Spring,Monthly,7,171.4,66
+Jeans,Clothing,Black,New York,S,Female,Express,Debit Card,1,1,Summer,Weekly,6,298.02,56
+T-shirt,Outerwear,Yellow,Texas,S,Female,Standard,Credit Card,1,0,Winter,Weekly,8,425.18,62
+Jacket,Accessories,Black,Texas,S,Female,Standard,PayPal,1,1,Fall,Weekly,0,226.22,49
+Shoes,Footwear,White,Nevada,S,Male,Express,PayPal,0,0,Summer,Weekly,6,18.8,18
+Shoes,Accessories,Blue,Texas,M,Male,Standard,PayPal,1,0,Winter,Weekly,9,46.51,55
+Dress,Clothing,Green,Texas,M,Female,Standard,Credit Card,1,1,Fall,Monthly,3,260.09,30
+T-shirt,Footwear,White,Texas,XL,Male,Standard,Debit Card,0,0,Fall,Monthly,6,485.03,28
+T-shirt,Clothing,Blue,Nevada,XL,Female,Express,PayPal,1,0,Fall,Occasionally,0,349.67,27
+Dress,Clothing,White,New York,S,Male,Express,Credit Card,0,0,Winter,Occasionally,4,44.75,65
+Jacket,Accessories,Yellow,New York,L,Male,Express,Credit Card,1,1,Fall,Occasionally,2,102.79,43
+T-shirt,Clothing,Green,Texas,S,Female,Standard,Debit Card,0,1,Fall,Occasionally,4,387.95,37
+Shoes,Accessories,Black,Nevada,L,Female,Express,PayPal,0,0,Summer,Monthly,3,422.31,34
+Shoes,Footwear,Black,New York,S,Female,Standard,Credit Card,1,0,Spring,Monthly,1,312.67,34
+Jeans,Accessories,Blue,New York,XL,Female,Standard,Debit Card,1,0,Winter,Monthly,3,325.77,21
+T-shirt,Footwear,Red,New York,XL,Female,Standard,PayPal,1,1,Spring,Weekly,2,23.89,22
+Jacket,Accessories,Yellow,Nevada,L,Male,Express,Debit Card,1,1,Summer,Weekly,0,415.98,40
+Dress,Outerwear,Blue,Nevada,S,Male,Express,Debit Card,0,0,Spring,Occasionally,9,396.25,63
+Dress,Outerwear,Red,Texas,L,Male,Express,Credit Card,0,1,Fall,Weekly,7,136.93,69
+Jacket,Clothing,White,Florida,XL,Female,Express,Credit Card,0,1,Fall,Monthly,4,357.25,27
+Jeans,Accessories,Yellow,New York,S,Female,Standard,Credit Card,1,1,Winter,Occasionally,3,115.28,63
+Dress,Accessories,White,Florida,S,Female,Express,Debit Card,0,1,Winter,Occasionally,9,29.76,45
+T-shirt,Footwear,Green,Nevada,L,Female,Standard,Credit Card,1,0,Winter,Weekly,4,108.56,50
+Jeans,Clothing,Yellow,Nevada,M,Female,Express,Debit Card,1,1,Summer,Occasionally,3,97.53,60
+T-shirt,Accessories,Red,Nevada,L,Female,Express,Debit Card,0,1,Winter,Weekly,2,175.5,43
+Shoes,Clothing,Green,Florida,XL,Male,Express,Credit Card,1,0,Summer,Weekly,4,215.04,67
+Jeans,Outerwear,Black,Nevada,XL,Male,Standard,PayPal,0,0,Fall,Occasionally,3,259.18,65
+Dress,Accessories,Red,Texas,XL,Male,Standard,PayPal,1,1,Spring,Weekly,0,243.61,46
+Jeans,Accessories,Blue,Nevada,XL,Male,Standard,PayPal,0,1,Fall,Weekly,2,142.63,44
+Jeans,Clothing,Black,California,XL,Male,Standard,Debit Card,1,0,Fall,Weekly,9,24.29,35
+Jeans,Accessories,Black,Florida,M,Female,Standard,Debit Card,0,0,Fall,Weekly,9,306.5,57
+Jeans,Clothing,Blue,California,S,Female,Express,Debit Card,0,0,Winter,Occasionally,7,203.91,27
+T-shirt,Accessories,Yellow,Nevada,L,Female,Standard,Credit Card,1,1,Winter,Monthly,6,156.35,59
+Shoes,Footwear,Black,Texas,L,Female,Standard,Debit Card,1,1,Winter,Monthly,1,434.8,22
+Jacket,Clothing,Red,New York,XL,Female,Standard,Credit Card,0,0,Spring,Weekly,0,375.9,27
+Jeans,Accessories,Green,Nevada,L,Female,Standard,Credit Card,1,1,Winter,Weekly,2,430.31,67
+Dress,Outerwear,Black,Texas,XL,Male,Express,PayPal,1,0,Summer,Weekly,4,252.54,38
+Jeans,Accessories,Red,Florida,M,Female,Standard,PayPal,1,1,Fall,Monthly,9,74.16,41
+Dress,Outerwear,White,California,M,Female,Express,PayPal,0,0,Spring,Weekly,0,351.15,55
+T-shirt,Outerwear,Red,California,S,Female,Express,Credit Card,0,0,Spring,Occasionally,2,110.98,20
+Dress,Footwear,Green,California,M,Female,Express,Credit Card,1,1,Spring,Occasionally,2,226.2,57
+Jacket,Clothing,Red,Florida,M,Male,Standard,Credit Card,1,1,Spring,Occasionally,4,41.85,48
+Shoes,Accessories,Blue,Texas,S,Male,Express,Debit Card,0,1,Spring,Monthly,2,414.4,58
+Dress,Footwear,Green,Florida,L,Female,Standard,Credit Card,1,1,Summer,Weekly,8,71.71,54
+Dress,Accessories,Yellow,California,XL,Male,Standard,PayPal,0,1,Fall,Weekly,0,452.52,19
+Shoes,Outerwear,White,Nevada,XL,Male,Standard,PayPal,1,1,Spring,Weekly,3,433.47,19
+Jacket,Clothing,Blue,New York,L,Female,Standard,Credit Card,1,0,Fall,Monthly,9,237.65,56
+Jeans,Accessories,Yellow,Florida,S,Female,Standard,Credit Card,1,1,Winter,Monthly,9,374.74,66
+Dress,Accessories,Red,Florida,L,Female,Express,PayPal,0,0,Spring,Monthly,3,313.53,59
+Shoes,Outerwear,Green,Texas,M,Female,Express,Credit Card,0,0,Spring,Monthly,0,403.51,61
+T-shirt,Accessories,White,Texas,S,Female,Standard,PayPal,0,1,Fall,Occasionally,1,221.58,51
+Shoes,Accessories,Blue,Florida,S,Male,Express,Debit Card,0,0,Spring,Monthly,0,395.05,59
+T-shirt,Outerwear,Yellow,California,S,Female,Standard,PayPal,1,0,Spring,Monthly,5,236.6,37
+Jacket,Footwear,Yellow,New York,XL,Female,Express,Debit Card,1,1,Spring,Monthly,2,471.07,50
+Jeans,Outerwear,White,Texas,L,Female,Express,Credit Card,0,1,Summer,Weekly,6,248.32,21
+Shoes,Footwear,Red,California,S,Male,Express,Credit Card,1,1,Summer,Weekly,4,236.68,62
+Dress,Clothing,White,Nevada,S,Female,Express,Debit Card,1,0,Spring,Weekly,8,394.69,61
+Jacket,Footwear,Yellow,Texas,S,Female,Express,Credit Card,0,1,Summer,Occasionally,6,412.57,28
+Shoes,Footwear,Black,California,L,Female,Standard,Debit Card,1,1,Winter,Occasionally,3,281.7,59
+Dress,Clothing,Blue,California,XL,Male,Standard,Credit Card,1,1,Spring,Monthly,4,98.1,64
+Shoes,Footwear,White,New York,M,Female,Express,PayPal,0,1,Winter,Weekly,4,239.2,22
+T-shirt,Outerwear,Yellow,New York,XL,Female,Standard,Credit Card,1,0,Fall,Occasionally,4,484.36,42
+Shoes,Footwear,Red,Nevada,S,Female,Express,PayPal,1,1,Winter,Weekly,9,378.96,66
+Shoes,Clothing,Yellow,California,XL,Male,Standard,PayPal,1,0,Fall,Occasionally,8,407.47,54
+Shoes,Outerwear,Red,California,XL,Female,Express,Debit Card,0,1,Spring,Occasionally,9,26.08,51
+Jacket,Clothing,White,New York,M,Female,Express,Credit Card,0,0,Fall,Monthly,2,239.25,26
+Shoes,Clothing,Red,Texas,L,Female,Express,Debit Card,1,0,Fall,Monthly,5,326.84,23
+Dress,Accessories,Green,Texas,L,Male,Standard,Credit Card,1,0,Winter,Occasionally,7,416.72,35
+T-shirt,Accessories,Green,Florida,XL,Female,Standard,PayPal,1,1,Winter,Monthly,8,34.14,31
+T-shirt,Clothing,Green,New York,XL,Female,Express,PayPal,0,0,Winter,Occasionally,6,427.7,36
+Shoes,Clothing,Black,Florida,L,Female,Express,Credit Card,0,1,Spring,Occasionally,2,278.72,31
+Jacket,Clothing,White,New York,L,Male,Standard,Credit Card,0,1,Spring,Weekly,0,106.68,57
+Jacket,Accessories,Yellow,Nevada,M,Male,Standard,Debit Card,1,1,Winter,Monthly,3,165.46,34
+Dress,Accessories,Yellow,California,S,Female,Standard,Credit Card,1,1,Spring,Monthly,5,148.15,52
+Shoes,Footwear,Black,Nevada,XL,Male,Standard,Credit Card,1,1,Spring,Monthly,2,270.12,46
+T-shirt,Footwear,Red,New York,L,Male,Standard,Credit Card,1,0,Fall,Weekly,0,35.33,59
+Jacket,Clothing,Black,California,XL,Male,Express,Debit Card,1,1,Fall,Weekly,5,87.68,34
+Shoes,Outerwear,Red,Texas,XL,Female,Standard,Credit Card,0,0,Winter,Weekly,0,408.22,60
+Jacket,Outerwear,Red,Texas,L,Female,Express,PayPal,1,0,Spring,Monthly,8,74.98,25
+Jacket,Accessories,Blue,Florida,M,Male,Express,Debit Card,1,0,Fall,Monthly,0,124.36,18
+T-shirt,Accessories,Yellow,New York,XL,Male,Standard,Debit Card,1,0,Summer,Monthly,5,232.15,62
+Jeans,Accessories,Green,New York,M,Male,Standard,PayPal,0,0,Spring,Weekly,0,263.39,53
+Dress,Clothing,Red,Texas,L,Female,Express,PayPal,1,0,Summer,Weekly,6,384.17,24
+Dress,Outerwear,Blue,Nevada,S,Female,Standard,PayPal,0,0,Winter,Occasionally,2,229.19,63
+T-shirt,Footwear,Yellow,California,S,Male,Express,Credit Card,0,1,Spring,Weekly,5,397.03,22
+Jacket,Clothing,Green,Nevada,XL,Male,Standard,PayPal,0,0,Winter,Occasionally,6,312.99,41
+Shoes,Footwear,Red,Nevada,L,Male,Standard,Credit Card,0,1,Winter,Monthly,0,65.42,45
+Jacket,Footwear,Red,Texas,M,Male,Standard,Debit Card,0,0,Winter,Weekly,0,86.6,60
+T-shirt,Clothing,Black,Texas,XL,Female,Express,Debit Card,1,0,Winter,Monthly,4,224.15,34
+Dress,Footwear,Black,Texas,L,Male,Standard,PayPal,1,0,Winter,Monthly,5,204.48,54
+Jacket,Outerwear,Yellow,Florida,L,Female,Express,Credit Card,0,0,Spring,Monthly,8,374.34,37
+Dress,Footwear,Green,Nevada,M,Male,Standard,PayPal,0,1,Summer,Monthly,0,294.56,20
+Shoes,Outerwear,Red,New York,XL,Male,Express,PayPal,0,1,Spring,Weekly,3,200.19,54
+Dress,Outerwear,Yellow,California,L,Male,Standard,Credit Card,1,1,Spring,Monthly,9,93.67,43
+Dress,Outerwear,Yellow,Florida,L,Male,Express,PayPal,1,0,Spring,Occasionally,7,121.15,32
+Jeans,Accessories,White,New York,L,Male,Express,Debit Card,0,0,Fall,Weekly,9,292.0,68
+Jeans,Footwear,Black,Nevada,M,Female,Express,PayPal,1,0,Fall,Monthly,8,217.49,65
+Jeans,Clothing,Green,Texas,XL,Male,Express,Credit Card,1,1,Spring,Weekly,2,262.31,25
+Dress,Clothing,Red,Nevada,XL,Male,Express,Credit Card,0,0,Summer,Occasionally,1,93.63,30
+T-shirt,Footwear,Yellow,California,XL,Male,Express,Debit Card,0,1,Spring,Monthly,3,334.82,65
+Dress,Accessories,Red,Florida,XL,Female,Standard,Credit Card,1,1,Winter,Occasionally,1,427.74,20
+T-shirt,Accessories,White,Florida,S,Female,Express,Credit Card,1,0,Fall,Monthly,0,136.39,18
+T-shirt,Outerwear,Green,California,S,Female,Express,Debit Card,1,0,Fall,Occasionally,2,250.84,26
+Jeans,Footwear,Yellow,New York,XL,Female,Express,PayPal,0,1,Spring,Monthly,6,488.01,48
+Jacket,Footwear,Red,New York,M,Male,Standard,Debit Card,0,1,Spring,Weekly,0,173.29,58
+Shoes,Clothing,Black,Florida,S,Male,Standard,PayPal,0,1,Summer,Monthly,1,301.57,43
+Jeans,Footwear,White,Florida,L,Male,Standard,Debit Card,1,0,Summer,Weekly,0,54.2,34
+Jeans,Accessories,Green,Texas,S,Female,Express,PayPal,1,0,Winter,Monthly,7,306.95,51
+Jacket,Footwear,White,New York,L,Male,Standard,Debit Card,0,0,Spring,Monthly,4,53.92,26
+Shoes,Clothing,Black,California,XL,Male,Standard,PayPal,1,0,Spring,Occasionally,7,480.03,68
+Dress,Outerwear,Green,New York,S,Female,Express,Debit Card,0,0,Spring,Occasionally,2,360.67,30
+Dress,Clothing,White,Texas,M,Female,Express,PayPal,1,0,Fall,Occasionally,6,396.2,22
+Jeans,Clothing,Blue,Florida,S,Female,Standard,Debit Card,0,1,Winter,Monthly,7,355.01,58
+Shoes,Outerwear,Black,Florida,S,Male,Express,Credit Card,1,1,Summer,Monthly,5,298.97,30
+Jeans,Clothing,Black,Texas,S,Male,Express,PayPal,1,1,Fall,Monthly,6,230.46,18
+T-shirt,Clothing,Black,California,XL,Female,Express,Debit Card,0,0,Fall,Weekly,1,430.6,42
+Jeans,Footwear,Blue,Florida,M,Male,Express,PayPal,0,1,Fall,Weekly,7,478.85,64
+Jeans,Footwear,Blue,Nevada,S,Female,Standard,PayPal,0,0,Fall,Monthly,4,254.53,21
+Dress,Outerwear,Red,Florida,M,Female,Express,Debit Card,0,0,Winter,Occasionally,6,466.45,53
+Dress,Footwear,Yellow,Nevada,XL,Male,Standard,PayPal,0,1,Spring,Occasionally,0,295.83,69
+Dress,Footwear,White,Texas,L,Female,Standard,Debit Card,1,0,Summer,Occasionally,4,273.81,27
+T-shirt,Clothing,Red,Texas,S,Female,Standard,Credit Card,0,1,Summer,Monthly,0,232.7,45
+Dress,Accessories,White,Florida,M,Female,Standard,PayPal,0,1,Fall,Occasionally,7,112.55,23
+Shoes,Footwear,Yellow,New York,M,Male,Express,Credit Card,0,0,Fall,Monthly,3,11.82,44
+Jacket,Accessories,Blue,Nevada,XL,Female,Express,PayPal,0,1,Winter,Weekly,3,128.34,29
+Shoes,Footwear,Yellow,California,S,Female,Express,PayPal,0,1,Fall,Occasionally,1,259.76,69
+Shoes,Footwear,Blue,Florida,L,Female,Standard,PayPal,1,1,Summer,Weekly,4,196.18,65
+Dress,Outerwear,Yellow,California,M,Female,Standard,Debit Card,0,1,Summer,Occasionally,0,229.76,20
+Jacket,Outerwear,Red,Florida,S,Female,Standard,Credit Card,0,0,Spring,Monthly,8,490.52,63
+Jacket,Outerwear,Green,New York,L,Female,Express,PayPal,0,1,Spring,Monthly,4,181.63,50
+Jacket,Accessories,Red,New York,M,Female,Standard,Debit Card,1,1,Summer,Monthly,5,231.57,27
+T-shirt,Clothing,White,New York,M,Male,Express,PayPal,1,1,Summer,Monthly,1,75.42,48
+Dress,Footwear,Red,New York,L,Male,Express,Debit Card,0,0,Winter,Occasionally,9,33.5,32
+Jacket,Footwear,Black,Texas,L,Female,Express,PayPal,0,1,Winter,Weekly,9,389.95,24
+T-shirt,Footwear,White,Texas,XL,Male,Express,Credit Card,1,0,Summer,Monthly,0,289.63,53
+Jeans,Accessories,Yellow,Nevada,S,Male,Standard,Credit Card,1,1,Fall,Occasionally,3,382.75,31
+Jeans,Outerwear,White,California,S,Female,Express,PayPal,1,1,Spring,Weekly,6,83.43,65
+T-shirt,Clothing,Green,Florida,XL,Male,Standard,Debit Card,0,1,Summer,Monthly,5,290.2,31
+T-shirt,Accessories,Blue,Florida,M,Female,Express,PayPal,0,0,Fall,Weekly,9,134.28,20
+Dress,Outerwear,Yellow,Texas,L,Female,Standard,Debit Card,1,0,Summer,Monthly,0,121.75,66
+Dress,Accessories,White,Florida,L,Female,Standard,PayPal,0,0,Spring,Weekly,0,15.65,63
+Jeans,Clothing,Yellow,Texas,L,Female,Express,Debit Card,1,0,Spring,Weekly,7,73.87,67
+Jacket,Outerwear,Yellow,Nevada,M,Female,Express,Credit Card,1,0,Winter,Monthly,3,161.54,20
+Jeans,Accessories,Yellow,California,L,Male,Express,PayPal,1,0,Winter,Occasionally,4,67.27,39
+Jacket,Clothing,Blue,Nevada,L,Female,Standard,Credit Card,0,1,Winter,Weekly,6,493.07,36
+Jacket,Footwear,Red,New York,XL,Male,Express,Credit Card,1,0,Winter,Monthly,7,161.23,52
+Dress,Clothing,Yellow,New York,M,Female,Express,PayPal,1,1,Spring,Weekly,9,73.86,29
+Shoes,Footwear,Black,New York,S,Female,Standard,PayPal,0,0,Fall,Weekly,6,107.55,22
+Shoes,Accessories,Green,Nevada,XL,Female,Express,Debit Card,1,0,Fall,Occasionally,1,297.97,27
+T-shirt,Outerwear,Blue,Florida,XL,Male,Standard,Debit Card,0,0,Fall,Weekly,3,41.38,58
+Dress,Outerwear,White,California,S,Female,Express,Credit Card,1,1,Summer,Weekly,9,432.59,50
+Jacket,Accessories,Blue,New York,XL,Female,Standard,Debit Card,0,0,Winter,Monthly,0,481.13,30
+Shoes,Outerwear,White,New York,M,Female,Standard,Debit Card,1,0,Winter,Monthly,9,130.91,52
+Jacket,Outerwear,Blue,New York,L,Female,Express,PayPal,1,1,Spring,Occasionally,8,230.55,68
+Shoes,Footwear,White,California,M,Male,Standard,Debit Card,1,1,Spring,Weekly,2,20.85,49
+Shoes,Accessories,Yellow,New York,S,Female,Express,Credit Card,1,1,Summer,Weekly,2,323.95,28
+Shoes,Clothing,Red,California,S,Male,Express,Debit Card,1,1,Summer,Weekly,9,212.82,65
+Dress,Footwear,White,New York,XL,Female,Standard,Credit Card,0,0,Fall,Occasionally,8,142.33,55
+Jeans,Accessories,White,Nevada,M,Male,Express,PayPal,0,1,Spring,Weekly,9,111.35,41
+Jacket,Footwear,Black,Nevada,M,Male,Standard,Credit Card,1,0,Winter,Monthly,2,330.47,52
+Dress,Clothing,White,California,S,Female,Standard,Debit Card,1,0,Fall,Occasionally,7,213.95,36
+Dress,Clothing,Black,Nevada,M,Female,Standard,PayPal,1,1,Winter,Monthly,1,98.03,23
+Dress,Accessories,Green,California,S,Male,Standard,Debit Card,0,0,Fall,Monthly,2,347.66,57
+Dress,Clothing,Yellow,Nevada,M,Female,Standard,PayPal,0,1,Winter,Occasionally,1,286.89,62
+Dress,Footwear,Black,Nevada,M,Female,Standard,PayPal,1,0,Summer,Monthly,0,430.75,61
+T-shirt,Clothing,Red,California,M,Female,Standard,Debit Card,0,1,Fall,Weekly,1,67.56,59
+Jacket,Footwear,Yellow,Florida,S,Male,Standard,Debit Card,1,1,Winter,Occasionally,7,394.98,52
+Dress,Footwear,Black,Nevada,XL,Female,Express,PayPal,1,1,Winter,Monthly,8,340.02,21
+Jacket,Clothing,Yellow,New York,M,Female,Express,PayPal,1,1,Spring,Weekly,1,66.36,50
+T-shirt,Accessories,Yellow,Florida,S,Female,Standard,Debit Card,0,1,Fall,Weekly,6,350.46,30
+T-shirt,Outerwear,Yellow,California,S,Male,Express,Credit Card,1,1,Winter,Monthly,4,226.36,53
+Jacket,Clothing,Green,Florida,M,Female,Express,Debit Card,1,0,Spring,Weekly,2,473.04,60
+Shoes,Footwear,Red,Texas,M,Male,Express,PayPal,1,0,Winter,Occasionally,8,79.39,36
+Jeans,Footwear,Blue,Texas,XL,Female,Express,Debit Card,0,0,Fall,Monthly,5,324.99,60
+Shoes,Clothing,Blue,Nevada,S,Male,Express,Credit Card,0,1,Summer,Weekly,0,197.17,29
+Shoes,Accessories,Black,Nevada,S,Female,Express,Debit Card,0,0,Fall,Weekly,4,478.84,28
+Shoes,Accessories,Yellow,New York,L,Female,Standard,PayPal,1,1,Fall,Monthly,6,171.69,23
+Dress,Footwear,Black,Florida,S,Male,Express,Debit Card,0,0,Winter,Monthly,3,481.47,29
+T-shirt,Footwear,Green,Texas,XL,Male,Express,PayPal,1,0,Winter,Monthly,7,451.73,44
+Shoes,Accessories,Green,Nevada,L,Male,Express,PayPal,0,1,Fall,Monthly,9,142.49,58
+T-shirt,Outerwear,White,Florida,L,Female,Express,Debit Card,1,0,Spring,Occasionally,4,403.74,42
+Jacket,Clothing,Green,Nevada,L,Female,Standard,PayPal,0,0,Spring,Monthly,8,497.85,59
+Jeans,Footwear,White,Nevada,M,Female,Standard,PayPal,1,0,Spring,Occasionally,8,133.8,20
+Jacket,Footwear,Red,Texas,M,Female,Standard,Credit Card,0,1,Winter,Occasionally,8,224.02,20
+Jacket,Accessories,Black,Texas,S,Male,Standard,Credit Card,0,0,Winter,Monthly,0,264.89,37
+Dress,Clothing,Red,Nevada,L,Female,Express,Credit Card,0,1,Fall,Occasionally,1,154.52,45
+Jeans,Accessories,Green,California,XL,Female,Standard,Credit Card,1,0,Summer,Monthly,2,17.48,40
+Jacket,Clothing,Red,Nevada,M,Female,Standard,PayPal,0,0,Winter,Monthly,3,117.86,65
+Jacket,Clothing,Red,Nevada,XL,Female,Standard,Debit Card,0,0,Fall,Weekly,9,148.15,20
+Jeans,Clothing,Red,New York,XL,Female,Standard,PayPal,0,0,Fall,Monthly,8,227.36,59
+Jeans,Footwear,Green,New York,M,Female,Express,PayPal,0,1,Summer,Weekly,9,93.84,41
+Jacket,Outerwear,Yellow,New York,M,Female,Standard,PayPal,1,0,Spring,Occasionally,5,437.89,60
+Jeans,Accessories,Red,California,M,Male,Express,Debit Card,0,1,Fall,Weekly,0,355.41,57
+Jacket,Outerwear,White,California,M,Female,Standard,Credit Card,1,1,Fall,Occasionally,8,51.75,23
+Jacket,Accessories,Green,Nevada,L,Female,Express,PayPal,1,0,Fall,Monthly,5,328.55,37
+Dress,Clothing,Red,New York,L,Female,Express,PayPal,1,0,Spring,Occasionally,3,330.29,28
+Shoes,Footwear,Yellow,California,L,Female,Standard,Credit Card,1,1,Spring,Occasionally,3,478.55,49
+Jacket,Outerwear,Green,Texas,L,Male,Standard,PayPal,0,1,Summer,Monthly,2,11.48,44
+T-shirt,Footwear,Blue,Nevada,S,Male,Standard,Debit Card,1,0,Winter,Occasionally,6,131.49,38
+Shoes,Accessories,Yellow,Florida,L,Male,Standard,PayPal,1,0,Spring,Monthly,2,464.62,61
+Shoes,Footwear,White,Nevada,M,Male,Express,PayPal,1,0,Winter,Weekly,1,466.75,65
+Shoes,Footwear,Red,Florida,XL,Male,Express,Credit Card,1,0,Winter,Monthly,9,363.09,67
+Dress,Outerwear,Blue,New York,L,Male,Standard,PayPal,0,0,Spring,Monthly,7,385.22,30
+Jacket,Clothing,Blue,Florida,S,Female,Standard,PayPal,0,1,Fall,Occasionally,3,54.83,39
+Dress,Footwear,Green,New York,M,Male,Express,Debit Card,1,0,Summer,Weekly,7,261.8,52
+Jacket,Clothing,Blue,Texas,XL,Male,Standard,Credit Card,1,0,Winter,Monthly,0,123.48,64
+Dress,Accessories,White,Florida,XL,Female,Express,Credit Card,1,1,Fall,Weekly,4,98.8,39
+Dress,Footwear,White,Nevada,L,Male,Standard,Debit Card,0,0,Spring,Weekly,8,407.05,45
+T-shirt,Outerwear,Black,New York,XL,Female,Express,PayPal,0,0,Winter,Occasionally,0,76.17,38
+Dress,Accessories,White,Nevada,L,Female,Express,Credit Card,0,1,Winter,Monthly,3,239.64,63
+Jeans,Accessories,Yellow,California,L,Male,Express,Credit Card,0,0,Winter,Occasionally,5,469.9,35
+T-shirt,Outerwear,Blue,New York,M,Female,Express,PayPal,0,1,Fall,Monthly,9,101.06,48
+Dress,Footwear,White,Florida,M,Male,Express,PayPal,1,0,Fall,Weekly,7,489.22,63
+Shoes,Footwear,Green,New York,S,Male,Standard,Credit Card,0,0,Fall,Monthly,2,497.2,54
+Jeans,Accessories,Black,Nevada,M,Female,Express,PayPal,0,0,Winter,Monthly,4,282.25,38
+Jeans,Footwear,Blue,Texas,M,Female,Standard,Credit Card,1,1,Winter,Weekly,6,93.37,31
+Jeans,Clothing,Black,New York,L,Male,Express,PayPal,0,1,Summer,Weekly,0,164.89,42
+T-shirt,Outerwear,Blue,Florida,M,Female,Express,PayPal,0,1,Summer,Monthly,6,218.0,44
+Dress,Clothing,Green,California,L,Female,Standard,Debit Card,0,1,Fall,Occasionally,7,161.57,57
+Dress,Footwear,Black,Texas,L,Male,Standard,PayPal,1,0,Fall,Monthly,7,147.51,40
+Shoes,Accessories,Red,California,M,Male,Standard,Debit Card,0,1,Spring,Weekly,8,486.39,48
+Shoes,Outerwear,Yellow,New York,S,Female,Standard,PayPal,1,1,Fall,Occasionally,5,85.15,64
+Jeans,Footwear,Yellow,Nevada,S,Male,Express,Credit Card,1,1,Summer,Weekly,5,369.33,46
+Shoes,Footwear,Blue,Nevada,XL,Male,Standard,Credit Card,0,0,Summer,Weekly,1,10.2,64
+T-shirt,Accessories,Red,Florida,XL,Male,Express,PayPal,0,0,Summer,Occasionally,2,302.13,47
+Dress,Accessories,Black,Nevada,M,Male,Standard,PayPal,0,1,Winter,Weekly,3,458.81,68
+Jeans,Clothing,Red,Texas,S,Male,Standard,Credit Card,0,1,Winter,Weekly,3,151.09,43
+Shoes,Outerwear,Red,Nevada,L,Male,Express,PayPal,1,0,Fall,Weekly,7,100.91,37
+T-shirt,Outerwear,Black,Florida,XL,Male,Express,Debit Card,0,1,Spring,Weekly,0,329.32,55
+T-shirt,Accessories,Green,New York,L,Female,Standard,Debit Card,1,1,Spring,Weekly,9,359.17,36
+Shoes,Clothing,Red,New York,XL,Male,Express,Debit Card,1,1,Spring,Weekly,3,347.13,44
+Dress,Outerwear,Red,Nevada,M,Female,Express,Debit Card,1,1,Winter,Weekly,3,166.47,42
+Shoes,Accessories,Green,California,S,Female,Express,Debit Card,1,0,Summer,Weekly,0,133.58,57
+Jeans,Footwear,Red,New York,XL,Female,Express,PayPal,1,0,Summer,Weekly,2,478.4,55
+Shoes,Outerwear,Red,Nevada,S,Male,Express,PayPal,0,0,Winter,Monthly,4,462.42,69
+T-shirt,Clothing,Red,Florida,L,Male,Express,Debit Card,1,1,Spring,Monthly,5,234.09,40
+Shoes,Clothing,Yellow,Nevada,M,Female,Express,PayPal,1,1,Spring,Weekly,8,424.63,46
+Dress,Clothing,White,New York,S,Male,Express,PayPal,0,0,Fall,Monthly,8,231.64,32
+Jacket,Footwear,Green,Florida,M,Female,Standard,Debit Card,0,0,Fall,Occasionally,8,217.95,20
+Shoes,Outerwear,Red,Nevada,S,Male,Express,PayPal,1,0,Spring,Monthly,0,86.81,27
+Dress,Outerwear,Yellow,Texas,L,Male,Standard,PayPal,1,1,Winter,Weekly,8,218.94,32
+Dress,Footwear,Green,Florida,L,Female,Express,PayPal,0,0,Spring,Weekly,7,273.33,33
+T-shirt,Outerwear,Blue,Texas,M,Female,Express,Debit Card,1,1,Fall,Monthly,1,21.03,34
+Dress,Footwear,Blue,California,L,Female,Express,PayPal,0,1,Spring,Weekly,0,227.62,36
+Dress,Footwear,Red,Florida,XL,Male,Express,Credit Card,0,0,Winter,Occasionally,0,392.86,28
+Dress,Footwear,Yellow,Texas,S,Female,Standard,Credit Card,1,0,Summer,Occasionally,5,343.22,65
+Dress,Clothing,Yellow,New York,L,Male,Standard,Debit Card,0,1,Winter,Weekly,8,321.23,22
+Jeans,Outerwear,Green,New York,XL,Male,Express,Credit Card,1,0,Winter,Occasionally,6,455.68,22
+Jeans,Footwear,Green,California,M,Male,Standard,Debit Card,1,0,Fall,Occasionally,4,18.84,31
+T-shirt,Outerwear,Yellow,Florida,XL,Female,Express,Credit Card,1,1,Winter,Monthly,1,282.95,67
+Shoes,Clothing,Green,Florida,M,Female,Express,Credit Card,0,1,Winter,Occasionally,0,395.8,43
+Dress,Footwear,Yellow,Florida,M,Female,Standard,Credit Card,1,1,Fall,Monthly,1,275.25,25
+Shoes,Accessories,White,California,S,Male,Standard,Debit Card,0,1,Fall,Weekly,0,168.71,22
+Shoes,Clothing,Yellow,Florida,S,Male,Express,Debit Card,1,1,Summer,Monthly,2,76.76,24
+T-shirt,Accessories,Blue,New York,XL,Female,Express,PayPal,1,0,Spring,Weekly,5,444.91,33
+Dress,Outerwear,Green,Texas,S,Male,Standard,Debit Card,0,1,Winter,Weekly,7,240.67,31
+Dress,Outerwear,Yellow,New York,S,Male,Express,Credit Card,1,1,Fall,Weekly,2,440.28,54
+Jacket,Clothing,Yellow,New York,S,Female,Standard,Credit Card,1,1,Summer,Weekly,9,297.07,58
+Shoes,Outerwear,Green,Texas,XL,Female,Express,Debit Card,0,0,Spring,Weekly,8,340.35,21
+Shoes,Accessories,White,New York,L,Female,Express,Debit Card,0,1,Fall,Monthly,9,404.09,53
+Jeans,Footwear,White,California,S,Male,Standard,Debit Card,0,1,Spring,Weekly,4,332.99,65
+Jacket,Footwear,Green,Texas,S,Male,Standard,PayPal,1,1,Spring,Occasionally,6,205.05,34
+Jeans,Footwear,Black,New York,XL,Male,Standard,Credit Card,0,0,Winter,Occasionally,7,261.68,64
+Jeans,Clothing,Green,Nevada,L,Male,Express,PayPal,0,1,Winter,Weekly,2,403.49,53
+Jeans,Outerwear,Green,New York,S,Male,Express,PayPal,1,1,Fall,Occasionally,1,193.09,23
+T-shirt,Accessories,White,California,M,Female,Express,Credit Card,0,1,Spring,Monthly,1,200.18,33
+T-shirt,Outerwear,White,Florida,XL,Male,Express,Credit Card,1,0,Fall,Monthly,4,56.89,46
+Jeans,Outerwear,Green,New York,S,Male,Standard,Debit Card,1,0,Fall,Weekly,0,458.15,53
+Jacket,Outerwear,Green,Florida,S,Male,Express,Debit Card,0,0,Spring,Weekly,1,54.61,55
+Shoes,Footwear,Green,Nevada,M,Female,Express,PayPal,1,0,Fall,Weekly,8,327.62,54
+Jacket,Accessories,White,New York,M,Female,Express,Debit Card,0,1,Spring,Occasionally,6,212.47,65
+Dress,Accessories,Green,Texas,XL,Female,Standard,Debit Card,0,1,Spring,Occasionally,5,208.75,65
+T-shirt,Outerwear,Green,Florida,XL,Male,Express,Credit Card,0,0,Spring,Monthly,8,342.98,27
+Shoes,Footwear,Red,Nevada,M,Female,Express,Credit Card,0,0,Spring,Occasionally,6,42.88,58
+Shoes,Footwear,Black,Texas,XL,Female,Standard,Debit Card,1,1,Summer,Monthly,4,300.92,53
+Dress,Accessories,Blue,Texas,M,Female,Express,Credit Card,1,1,Spring,Occasionally,8,388.3,46
+Dress,Footwear,Black,Texas,S,Male,Express,Debit Card,0,0,Winter,Monthly,5,415.82,31
+Jeans,Footwear,Red,Texas,M,Female,Standard,Credit Card,0,0,Winter,Weekly,5,93.56,21
+T-shirt,Footwear,Blue,New York,M,Male,Express,Credit Card,1,0,Winter,Occasionally,3,449.74,61
+T-shirt,Clothing,Green,New York,L,Male,Express,Credit Card,0,0,Spring,Monthly,0,331.51,59
+Jacket,Outerwear,Red,New York,M,Female,Express,Credit Card,1,1,Winter,Occasionally,4,442.11,53
+Jeans,Accessories,Green,Nevada,M,Male,Standard,Debit Card,0,0,Summer,Weekly,8,247.79,67
+Jeans,Accessories,White,Nevada,L,Female,Express,PayPal,1,0,Fall,Monthly,7,275.6,62
+Jeans,Clothing,Yellow,Nevada,XL,Male,Express,Credit Card,1,1,Spring,Occasionally,7,460.33,30
+Jeans,Outerwear,Red,California,L,Female,Standard,Debit Card,1,1,Winter,Occasionally,4,450.96,63
+T-shirt,Accessories,White,Nevada,S,Female,Standard,Debit Card,0,1,Summer,Weekly,8,229.6,35
+T-shirt,Footwear,Red,New York,L,Female,Express,Credit Card,0,1,Fall,Weekly,2,144.46,50
+Jeans,Accessories,Red,New York,S,Male,Express,PayPal,0,1,Summer,Monthly,2,202.65,38
+Jacket,Footwear,White,California,XL,Female,Express,Credit Card,0,0,Winter,Occasionally,0,200.0,33
+Shoes,Clothing,Blue,California,L,Male,Express,Debit Card,0,0,Summer,Occasionally,8,150.56,32
+Shoes,Footwear,Black,Nevada,L,Female,Standard,PayPal,1,0,Fall,Weekly,5,141.6,22
+Jacket,Accessories,Green,Florida,XL,Male,Express,Debit Card,1,1,Winter,Weekly,1,431.92,23
+Jeans,Accessories,Red,California,S,Male,Standard,Credit Card,1,0,Fall,Monthly,7,44.23,55
+T-shirt,Accessories,Green,Texas,L,Female,Standard,PayPal,1,1,Summer,Occasionally,8,342.03,20
+Shoes,Clothing,Yellow,New York,S,Female,Express,Debit Card,1,0,Spring,Occasionally,8,94.68,65
+Dress,Clothing,White,Texas,L,Female,Express,Debit Card,1,0,Spring,Monthly,1,178.81,29
+Dress,Outerwear,Green,New York,M,Female,Standard,Debit Card,1,1,Spring,Monthly,1,40.16,53
+Jacket,Accessories,White,New York,L,Female,Standard,Credit Card,0,1,Spring,Weekly,6,142.29,50
+Jeans,Footwear,Green,California,XL,Male,Express,PayPal,1,0,Fall,Weekly,3,386.53,53
+Shoes,Clothing,Black,California,XL,Female,Standard,Credit Card,0,0,Spring,Monthly,0,443.66,50
+Jeans,Accessories,Black,Texas,S,Female,Express,Credit Card,1,0,Fall,Monthly,7,118.55,48
+Shoes,Accessories,Black,New York,L,Male,Express,Credit Card,1,0,Winter,Occasionally,1,237.14,38
+Jacket,Clothing,Black,Texas,S,Female,Standard,PayPal,0,0,Spring,Monthly,2,240.46,44
+Jacket,Outerwear,Black,Florida,S,Female,Standard,Credit Card,1,1,Fall,Monthly,4,438.05,44
+Dress,Clothing,Black,Texas,M,Male,Express,Credit Card,0,1,Spring,Occasionally,2,383.77,25
+Jeans,Clothing,White,Nevada,M,Female,Standard,Credit Card,1,1,Spring,Monthly,6,261.41,54
+Dress,Footwear,Red,Texas,XL,Female,Express,Credit Card,0,1,Spring,Weekly,6,338.67,49
+Jeans,Footwear,Green,Nevada,S,Female,Express,Debit Card,1,0,Fall,Weekly,1,425.2,43
+Dress,Outerwear,Black,Nevada,XL,Male,Express,Credit Card,0,0,Summer,Occasionally,6,14.67,19
+T-shirt,Accessories,White,Nevada,L,Female,Standard,Debit Card,0,1,Spring,Monthly,5,207.42,29
+T-shirt,Clothing,White,Florida,S,Male,Express,Credit Card,1,0,Spring,Weekly,9,454.55,39
+T-shirt,Outerwear,White,Texas,S,Female,Express,PayPal,1,1,Winter,Weekly,8,372.75,34
+T-shirt,Footwear,Red,Texas,L,Male,Express,Debit Card,0,0,Summer,Weekly,8,275.99,24
+Shoes,Clothing,Green,Florida,L,Female,Express,Debit Card,1,0,Fall,Weekly,1,269.53,60
+T-shirt,Accessories,Red,New York,XL,Male,Express,Debit Card,0,0,Winter,Monthly,6,180.41,21
+Jacket,Footwear,Blue,California,XL,Male,Express,Debit Card,1,1,Spring,Monthly,4,265.06,54
+Jacket,Footwear,White,Texas,L,Male,Express,PayPal,0,1,Winter,Monthly,5,331.14,55
+Shoes,Footwear,Blue,California,XL,Male,Express,Credit Card,1,1,Winter,Monthly,0,215.0,49
+T-shirt,Outerwear,Yellow,Florida,L,Male,Express,Debit Card,0,1,Spring,Weekly,6,359.94,28
+T-shirt,Accessories,Black,New York,S,Male,Express,PayPal,1,0,Summer,Occasionally,5,432.0,18
+T-shirt,Clothing,Black,New York,S,Female,Express,Debit Card,0,0,Summer,Occasionally,3,85.8,42
+Dress,Outerwear,Red,New York,M,Female,Standard,Credit Card,0,0,Winter,Weekly,0,231.26,59
+Jeans,Outerwear,Green,Florida,S,Male,Express,Debit Card,1,0,Spring,Weekly,8,209.93,69
+Dress,Outerwear,Blue,Nevada,L,Male,Express,PayPal,1,1,Fall,Occasionally,3,346.86,41
+Jeans,Footwear,Green,Nevada,XL,Male,Express,Credit Card,0,0,Winter,Occasionally,1,132.44,60
+T-shirt,Accessories,Red,California,M,Male,Standard,PayPal,0,0,Fall,Weekly,7,323.72,34
+T-shirt,Outerwear,Black,Nevada,XL,Female,Express,Credit Card,0,0,Winter,Weekly,1,439.97,25
+Dress,Clothing,Green,Nevada,L,Male,Standard,Credit Card,0,1,Winter,Monthly,4,214.88,62
+Dress,Accessories,Green,New York,S,Female,Express,Credit Card,1,1,Spring,Monthly,5,456.4,44
+Jeans,Clothing,Black,New York,M,Female,Express,Debit Card,0,1,Spring,Occasionally,7,496.65,69
+Jacket,Accessories,Blue,California,L,Male,Standard,PayPal,0,0,Fall,Weekly,0,61.99,35
+Jeans,Clothing,Black,Texas,M,Male,Express,PayPal,0,1,Fall,Occasionally,0,124.2,44
+Dress,Footwear,Green,California,M,Female,Standard,PayPal,1,0,Summer,Monthly,3,475.69,39
+Dress,Outerwear,Blue,California,S,Female,Standard,Credit Card,0,0,Spring,Monthly,4,479.58,33
+Shoes,Clothing,Blue,Florida,L,Male,Express,Debit Card,1,0,Winter,Occasionally,8,57.88,19
+Dress,Accessories,Black,Florida,XL,Male,Express,Credit Card,1,1,Winter,Monthly,6,17.35,22
+Shoes,Outerwear,Green,California,M,Male,Express,PayPal,1,1,Summer,Weekly,6,88.94,35
+Jacket,Outerwear,Red,California,M,Female,Express,Debit Card,1,0,Spring,Occasionally,7,498.05,20
+Jeans,Accessories,Green,California,XL,Female,Standard,Debit Card,1,0,Winter,Weekly,4,98.2,44
+Jeans,Clothing,White,Nevada,L,Male,Standard,Debit Card,1,1,Summer,Weekly,4,256.25,34
+Shoes,Footwear,Yellow,Florida,M,Female,Express,PayPal,1,1,Summer,Monthly,0,425.72,33
+Jeans,Footwear,Red,California,M,Female,Standard,Debit Card,0,1,Winter,Weekly,8,20.0,23
+Dress,Clothing,Blue,New York,M,Male,Standard,Debit Card,0,0,Winter,Occasionally,5,306.2,68
+T-shirt,Outerwear,Red,New York,L,Male,Express,Credit Card,1,0,Fall,Weekly,8,145.74,24
+Shoes,Outerwear,Blue,Nevada,L,Female,Standard,Credit Card,0,0,Spring,Weekly,2,432.54,67
+Jeans,Outerwear,Blue,Nevada,XL,Female,Standard,Debit Card,0,1,Fall,Weekly,4,148.9,31
+Shoes,Outerwear,Red,Texas,L,Male,Express,Debit Card,1,1,Summer,Weekly,1,346.51,55
+Shoes,Clothing,Blue,Texas,L,Male,Standard,Credit Card,0,1,Winter,Weekly,9,340.37,57
+T-shirt,Outerwear,Blue,Texas,S,Male,Express,Credit Card,1,0,Fall,Monthly,4,118.53,32
+Dress,Accessories,White,Nevada,XL,Male,Standard,Credit Card,0,0,Summer,Occasionally,7,27.05,64
+Shoes,Outerwear,Green,Nevada,M,Male,Express,PayPal,1,1,Spring,Monthly,1,210.53,64
+Jeans,Footwear,Green,Nevada,L,Female,Standard,PayPal,1,0,Winter,Occasionally,7,151.7,65
+Jacket,Outerwear,Yellow,New York,M,Female,Standard,Credit Card,0,1,Fall,Occasionally,3,406.4,50
+Shoes,Clothing,Yellow,Nevada,M,Female,Express,Debit Card,0,0,Spring,Occasionally,9,402.18,60
+Shoes,Footwear,White,New York,S,Female,Express,Credit Card,1,1,Fall,Occasionally,9,233.94,44
+T-shirt,Clothing,Yellow,Texas,L,Male,Express,PayPal,1,0,Summer,Occasionally,0,307.19,46
+Dress,Clothing,Red,Texas,XL,Male,Express,Debit Card,1,0,Spring,Weekly,4,306.09,54
+Jacket,Footwear,Black,Texas,L,Male,Standard,PayPal,0,1,Fall,Monthly,0,415.31,22
+Jeans,Clothing,Black,California,M,Female,Standard,Debit Card,0,1,Spring,Monthly,6,218.25,46
+Jacket,Clothing,Black,California,XL,Female,Standard,PayPal,0,1,Summer,Weekly,7,144.97,49
+Jeans,Outerwear,White,Florida,L,Female,Express,Debit Card,0,1,Spring,Occasionally,2,139.87,23
+Dress,Accessories,White,Florida,M,Male,Standard,Debit Card,1,1,Fall,Monthly,2,272.73,19
+Jeans,Clothing,Blue,Florida,M,Female,Standard,Debit Card,1,0,Summer,Weekly,6,230.08,23
+T-shirt,Clothing,Black,California,S,Male,Express,Debit Card,1,1,Winter,Weekly,3,225.66,63
+T-shirt,Clothing,Red,California,S,Male,Express,PayPal,1,1,Fall,Monthly,2,54.66,60
+T-shirt,Outerwear,Yellow,Florida,S,Male,Standard,PayPal,0,1,Fall,Monthly,7,362.12,21
+T-shirt,Accessories,Red,Florida,M,Male,Express,Debit Card,1,0,Summer,Occasionally,2,114.73,46
+Jacket,Footwear,Yellow,Nevada,L,Male,Standard,Debit Card,1,1,Summer,Occasionally,6,106.51,42
+Dress,Outerwear,Black,Florida,S,Male,Standard,PayPal,0,1,Winter,Monthly,1,212.25,26
+Jeans,Outerwear,Black,Nevada,L,Female,Express,Debit Card,0,1,Fall,Occasionally,0,121.61,20
+Jeans,Accessories,Black,New York,S,Male,Standard,Debit Card,1,0,Summer,Weekly,5,296.09,43
+T-shirt,Accessories,White,California,XL,Male,Express,Debit Card,0,0,Winter,Occasionally,7,192.02,65
+T-shirt,Outerwear,Yellow,Florida,XL,Female,Express,Credit Card,1,1,Winter,Occasionally,0,229.97,60
+Shoes,Footwear,White,California,S,Male,Standard,Debit Card,0,0,Summer,Weekly,9,273.21,44
+Dress,Outerwear,White,California,M,Female,Standard,Credit Card,0,1,Fall,Occasionally,8,109.73,53
+Jacket,Accessories,Green,California,S,Female,Standard,Debit Card,1,0,Spring,Weekly,2,86.32,49
+Jeans,Footwear,Red,New York,S,Female,Express,PayPal,0,1,Spring,Occasionally,2,441.41,18
+Shoes,Accessories,Red,Texas,M,Male,Standard,Credit Card,1,0,Winter,Monthly,3,222.52,33
+Shoes,Footwear,Blue,Florida,XL,Male,Express,Credit Card,0,1,Spring,Occasionally,0,211.93,68
+Jeans,Clothing,White,Texas,L,Female,Express,Debit Card,0,1,Spring,Monthly,8,27.45,65
+Jacket,Accessories,Yellow,Texas,S,Male,Standard,Debit Card,0,0,Summer,Monthly,2,254.01,28
+Shoes,Accessories,Green,Texas,M,Male,Express,Credit Card,0,1,Winter,Monthly,9,281.54,43
+Shoes,Outerwear,Green,California,S,Female,Standard,PayPal,0,1,Fall,Monthly,3,283.83,57
+Dress,Accessories,Red,Nevada,M,Female,Standard,PayPal,1,1,Winter,Monthly,0,356.45,18
+Jacket,Accessories,White,California,L,Male,Standard,Debit Card,0,1,Summer,Weekly,3,96.97,43
+Shoes,Clothing,Blue,California,L,Female,Standard,PayPal,1,0,Spring,Weekly,0,133.59,45
+Jacket,Accessories,White,Texas,XL,Female,Standard,PayPal,0,1,Fall,Weekly,4,407.26,26
+Jeans,Clothing,Black,California,M,Female,Standard,Debit Card,1,0,Winter,Monthly,4,474.11,61
+T-shirt,Clothing,White,Texas,M,Male,Standard,PayPal,0,0,Spring,Occasionally,6,76.61,39
+Shoes,Clothing,Black,Nevada,XL,Male,Express,Debit Card,1,0,Winter,Weekly,7,253.85,25
+Dress,Clothing,Black,Florida,XL,Male,Standard,Credit Card,1,0,Fall,Occasionally,3,114.95,66
+Jeans,Footwear,Blue,Texas,M,Female,Express,Debit Card,0,1,Winter,Occasionally,6,39.44,59
+Jacket,Outerwear,Yellow,Nevada,XL,Male,Express,Credit Card,0,1,Winter,Monthly,3,169.5,44
+Jeans,Footwear,Red,Florida,L,Female,Express,Credit Card,0,0,Winter,Monthly,2,80.41,56
+Shoes,Accessories,White,New York,S,Male,Standard,PayPal,1,1,Spring,Monthly,5,357.87,36
+Jacket,Footwear,Black,Texas,L,Male,Express,PayPal,1,0,Fall,Weekly,3,271.53,42
+T-shirt,Footwear,White,Texas,XL,Female,Express,PayPal,0,1,Fall,Monthly,2,80.48,55
+Jeans,Accessories,Yellow,New York,M,Male,Standard,Debit Card,0,1,Spring,Weekly,8,14.53,38
+Shoes,Accessories,Red,New York,M,Female,Standard,PayPal,1,1,Spring,Weekly,4,406.0,41
+Dress,Accessories,Yellow,Texas,L,Male,Express,Credit Card,1,0,Spring,Weekly,6,96.34,41
+Jacket,Footwear,Red,New York,M,Male,Standard,PayPal,0,0,Summer,Weekly,5,307.05,36
+Jeans,Footwear,Green,California,XL,Female,Standard,PayPal,1,1,Winter,Monthly,9,175.09,67
+Jeans,Accessories,Red,Florida,L,Female,Standard,Debit Card,0,0,Winter,Weekly,4,296.89,64
+T-shirt,Outerwear,Blue,Florida,M,Female,Standard,Debit Card,0,0,Fall,Monthly,6,164.67,19
+T-shirt,Outerwear,Yellow,Florida,S,Male,Express,Credit Card,0,1,Winter,Monthly,5,52.6,31
+Dress,Clothing,Black,California,S,Male,Standard,Debit Card,1,0,Summer,Weekly,9,119.25,49
+Dress,Accessories,Green,New York,XL,Male,Standard,PayPal,1,1,Spring,Monthly,1,102.15,59
+Shoes,Clothing,Blue,Nevada,M,Female,Standard,Debit Card,1,1,Fall,Occasionally,2,219.73,49
+Shoes,Outerwear,White,New York,XL,Female,Express,Credit Card,1,1,Fall,Monthly,1,332.56,45
+Dress,Clothing,Yellow,Texas,L,Female,Express,PayPal,0,0,Winter,Monthly,2,139.26,65
+Dress,Accessories,Black,Florida,S,Male,Standard,Credit Card,1,1,Fall,Weekly,0,15.91,56
+Jacket,Accessories,Red,New York,L,Male,Standard,Debit Card,0,1,Spring,Weekly,7,264.28,57
+T-shirt,Accessories,Black,Nevada,M,Female,Express,Debit Card,0,0,Fall,Monthly,5,306.82,59
+Shoes,Footwear,White,Texas,XL,Male,Standard,Credit Card,0,0,Spring,Weekly,1,481.81,64
+T-shirt,Clothing,Green,California,XL,Female,Standard,PayPal,1,0,Summer,Occasionally,7,298.84,57
+T-shirt,Outerwear,Green,California,XL,Male,Express,Debit Card,0,0,Summer,Occasionally,5,240.87,30
+Dress,Outerwear,Yellow,Nevada,L,Male,Standard,Debit Card,0,1,Spring,Weekly,6,290.97,29
+Jacket,Outerwear,Green,Texas,S,Female,Standard,PayPal,1,0,Winter,Monthly,0,464.67,25
+Jeans,Footwear,Yellow,Florida,L,Male,Express,Debit Card,0,0,Fall,Occasionally,6,415.91,32
+Jacket,Footwear,Yellow,New York,L,Male,Express,Credit Card,1,0,Winter,Occasionally,2,168.26,43
+Jacket,Accessories,Yellow,Texas,M,Female,Standard,Debit Card,1,0,Fall,Monthly,7,126.25,29
+T-shirt,Outerwear,Red,California,M,Female,Express,Debit Card,1,1,Summer,Weekly,5,138.69,60
+Jacket,Footwear,Blue,Nevada,M,Male,Standard,PayPal,0,0,Summer,Occasionally,3,257.17,68
+Shoes,Accessories,Yellow,Nevada,S,Female,Standard,Credit Card,1,1,Summer,Monthly,7,374.58,63
+T-shirt,Outerwear,Yellow,New York,S,Male,Standard,PayPal,1,0,Fall,Monthly,8,256.58,44
+Shoes,Clothing,Blue,Nevada,M,Female,Express,Debit Card,1,1,Summer,Occasionally,9,43.22,35
+Jeans,Accessories,Black,Nevada,M,Male,Express,Debit Card,1,1,Summer,Weekly,1,364.55,62
+T-shirt,Footwear,Yellow,Texas,S,Male,Standard,PayPal,0,0,Summer,Occasionally,5,404.93,53
+Jeans,Footwear,Red,Florida,XL,Female,Standard,PayPal,1,1,Summer,Monthly,4,151.85,66
+T-shirt,Accessories,Green,New York,S,Male,Express,PayPal,0,0,Winter,Occasionally,4,335.42,68
+Dress,Accessories,Green,Texas,S,Male,Express,Credit Card,1,1,Summer,Weekly,9,219.03,44
+Jacket,Footwear,White,Florida,S,Female,Express,Debit Card,0,1,Summer,Monthly,2,445.67,26
+Dress,Clothing,White,Texas,M,Female,Standard,PayPal,1,1,Winter,Weekly,7,424.16,56
+Jeans,Outerwear,Green,Texas,XL,Male,Express,Debit Card,0,0,Winter,Occasionally,7,267.46,18
+Jacket,Clothing,Green,Nevada,S,Female,Express,Credit Card,1,1,Fall,Occasionally,4,348.84,24
+T-shirt,Accessories,Red,Florida,M,Female,Standard,Credit Card,0,0,Spring,Weekly,7,442.84,43
+Jacket,Clothing,Blue,New York,L,Male,Standard,Credit Card,0,1,Summer,Occasionally,9,252.9,24
+Shoes,Footwear,White,New York,L,Male,Standard,Credit Card,0,1,Summer,Weekly,7,163.49,69
+Jacket,Accessories,Blue,Florida,S,Female,Express,Debit Card,1,1,Summer,Occasionally,2,379.3,24
+Shoes,Outerwear,Red,Nevada,L,Female,Standard,Credit Card,0,1,Fall,Weekly,1,117.83,25
+Jacket,Footwear,Green,California,XL,Female,Standard,Credit Card,0,1,Summer,Weekly,8,200.38,33
+Shoes,Footwear,Yellow,Texas,L,Male,Standard,PayPal,0,1,Spring,Monthly,1,434.21,20
+Jeans,Outerwear,Blue,Nevada,L,Male,Standard,Credit Card,0,0,Winter,Monthly,8,364.97,62
+Dress,Outerwear,Green,Florida,XL,Male,Express,PayPal,1,0,Fall,Weekly,3,207.87,27
+T-shirt,Clothing,Green,Texas,S,Male,Standard,Credit Card,0,0,Winter,Occasionally,1,115.22,67
+Jacket,Accessories,Black,New York,S,Male,Express,Credit Card,0,1,Summer,Occasionally,9,184.42,24
+Dress,Outerwear,Blue,California,XL,Male,Express,PayPal,0,0,Summer,Occasionally,0,149.21,38
+T-shirt,Outerwear,Yellow,New York,XL,Male,Express,Credit Card,1,1,Summer,Weekly,3,96.28,54
+T-shirt,Accessories,Blue,Florida,XL,Female,Standard,Debit Card,0,0,Spring,Weekly,8,374.23,48
+Shoes,Outerwear,Green,Texas,L,Female,Express,Debit Card,0,0,Spring,Weekly,8,133.51,40
+Jeans,Outerwear,Yellow,Florida,XL,Male,Standard,Credit Card,0,1,Fall,Weekly,3,232.54,44
+Jeans,Clothing,Red,Texas,M,Male,Standard,Debit Card,0,1,Winter,Monthly,8,199.07,39
+Dress,Footwear,Black,Nevada,L,Male,Standard,PayPal,1,0,Summer,Weekly,5,491.22,56
+Jeans,Footwear,Green,California,S,Female,Express,Credit Card,0,0,Summer,Occasionally,0,201.64,44
+Jacket,Footwear,White,Nevada,S,Male,Standard,Credit Card,0,0,Summer,Monthly,9,49.19,66
+Jeans,Footwear,White,Nevada,S,Female,Standard,PayPal,1,0,Summer,Occasionally,5,54.01,21
+Dress,Outerwear,Black,Florida,L,Female,Standard,PayPal,1,1,Spring,Weekly,8,299.47,41
+Jeans,Accessories,Red,California,M,Female,Express,PayPal,1,0,Winter,Monthly,1,303.69,40
+Jacket,Accessories,Green,Texas,XL,Female,Express,Credit Card,0,1,Winter,Weekly,5,215.19,65
+Shoes,Clothing,Blue,Texas,XL,Female,Express,PayPal,1,1,Fall,Monthly,1,221.6,36
+Dress,Clothing,Black,New York,S,Male,Standard,PayPal,0,0,Spring,Occasionally,3,36.43,59
+Shoes,Outerwear,Red,Texas,S,Male,Express,Debit Card,1,1,Summer,Weekly,7,263.11,20
+Shoes,Accessories,Blue,Florida,L,Female,Standard,Debit Card,0,0,Winter,Weekly,6,257.32,44
+Shoes,Accessories,White,Nevada,M,Male,Standard,Credit Card,1,1,Winter,Monthly,8,83.28,20
+T-shirt,Footwear,White,Nevada,XL,Female,Express,Debit Card,0,1,Spring,Monthly,6,60.88,45
+T-shirt,Outerwear,Blue,Nevada,L,Female,Standard,Debit Card,1,0,Fall,Weekly,0,70.55,34
+Shoes,Outerwear,Black,California,XL,Male,Express,PayPal,0,1,Fall,Monthly,1,59.5,48
+Dress,Footwear,White,Texas,S,Male,Standard,PayPal,0,1,Summer,Weekly,5,308.76,27
+Jacket,Outerwear,Green,Florida,XL,Male,Express,Debit Card,0,0,Fall,Monthly,6,106.28,66
+Jacket,Outerwear,Yellow,California,M,Male,Standard,Debit Card,0,1,Winter,Occasionally,2,133.2,39
+Jeans,Clothing,Blue,New York,M,Male,Standard,Debit Card,0,1,Fall,Monthly,8,95.05,47
+Dress,Accessories,Blue,Florida,S,Female,Standard,Credit Card,0,0,Summer,Occasionally,6,479.34,66
+T-shirt,Outerwear,White,Florida,M,Male,Standard,Credit Card,0,0,Winter,Monthly,5,428.76,38
+Shoes,Clothing,Black,Florida,M,Male,Standard,Credit Card,0,1,Fall,Monthly,5,122.94,53
+Jeans,Accessories,Green,Nevada,L,Male,Express,Debit Card,1,1,Fall,Weekly,0,170.51,40
+Jacket,Footwear,Black,Florida,XL,Female,Standard,Debit Card,0,1,Spring,Monthly,4,112.85,55
+T-shirt,Clothing,Red,Texas,S,Male,Express,Credit Card,0,0,Summer,Monthly,9,251.02,29
+T-shirt,Clothing,Red,Florida,S,Female,Express,Credit Card,1,1,Fall,Occasionally,2,19.61,42
+Shoes,Accessories,Yellow,Nevada,S,Male,Express,Debit Card,0,1,Spring,Monthly,6,338.97,37
+Jacket,Footwear,White,Florida,S,Male,Standard,PayPal,1,1,Winter,Weekly,9,266.35,66
+Dress,Clothing,White,New York,S,Female,Standard,Credit Card,0,1,Spring,Occasionally,2,450.33,66
+T-shirt,Outerwear,White,New York,M,Male,Standard,Debit Card,1,1,Spring,Weekly,4,90.55,59
+Shoes,Outerwear,Yellow,Nevada,L,Male,Express,Debit Card,1,1,Fall,Weekly,6,404.01,24
+Dress,Outerwear,Red,Texas,S,Female,Standard,PayPal,0,0,Fall,Weekly,2,398.06,46
+Jacket,Footwear,Black,Texas,L,Male,Standard,Debit Card,1,0,Fall,Weekly,9,72.32,65
+T-shirt,Clothing,Yellow,California,L,Female,Express,Debit Card,0,1,Spring,Occasionally,1,205.29,46
+Dress,Outerwear,Yellow,Nevada,M,Female,Express,Credit Card,0,1,Winter,Monthly,5,93.37,30
+Dress,Footwear,Black,Florida,S,Female,Express,Credit Card,0,0,Summer,Weekly,7,134.81,20
+Dress,Outerwear,White,Nevada,M,Female,Express,PayPal,0,0,Spring,Occasionally,3,138.99,19
+T-shirt,Accessories,Green,California,S,Female,Express,PayPal,1,0,Fall,Weekly,8,282.56,33
+T-shirt,Clothing,Black,Nevada,M,Male,Express,Debit Card,0,1,Summer,Monthly,7,211.59,47
+Jeans,Clothing,Red,Nevada,L,Male,Standard,Credit Card,1,1,Winter,Occasionally,6,474.39,55
+Jacket,Footwear,Blue,California,S,Male,Express,PayPal,1,1,Summer,Occasionally,6,71.92,23
+Shoes,Footwear,Blue,Texas,XL,Female,Standard,PayPal,0,1,Fall,Monthly,2,487.11,62
+Dress,Clothing,Yellow,Florida,L,Female,Standard,PayPal,0,0,Spring,Occasionally,5,123.01,24
+Jeans,Outerwear,Blue,California,XL,Female,Standard,Debit Card,0,0,Spring,Monthly,4,388.71,22
+Shoes,Outerwear,Green,New York,L,Female,Express,Credit Card,0,0,Fall,Occasionally,0,176.1,24
+Jeans,Accessories,White,Texas,M,Male,Standard,PayPal,1,0,Spring,Occasionally,2,80.11,51
+T-shirt,Outerwear,Red,New York,S,Male,Express,Credit Card,0,1,Fall,Monthly,0,430.37,49
+Dress,Footwear,Green,Texas,L,Female,Express,PayPal,1,1,Spring,Monthly,3,161.34,66
+Shoes,Footwear,Red,Florida,M,Female,Standard,PayPal,0,0,Spring,Occasionally,9,332.84,30
+Shoes,Outerwear,Red,Florida,S,Male,Express,Credit Card,0,0,Spring,Occasionally,2,287.56,47
+Shoes,Footwear,White,Nevada,S,Female,Standard,Credit Card,0,0,Winter,Monthly,3,241.16,42
+Shoes,Clothing,Yellow,New York,L,Female,Standard,Credit Card,0,0,Winter,Monthly,8,252.95,38
+Shoes,Clothing,Blue,Texas,S,Female,Express,Debit Card,1,0,Fall,Occasionally,2,368.8,38
+Jeans,Outerwear,White,Florida,L,Male,Standard,PayPal,1,1,Winter,Occasionally,5,53.01,45
+Dress,Clothing,Green,California,S,Male,Standard,Debit Card,0,1,Fall,Occasionally,5,337.41,65
+T-shirt,Clothing,Yellow,Florida,XL,Female,Standard,Credit Card,1,0,Summer,Monthly,6,448.95,37
+T-shirt,Accessories,Green,California,M,Male,Express,PayPal,1,0,Summer,Occasionally,8,38.32,51
+T-shirt,Accessories,Yellow,Texas,XL,Female,Standard,Debit Card,0,0,Winter,Weekly,6,78.92,22
+T-shirt,Clothing,Green,Florida,L,Female,Express,PayPal,0,1,Summer,Monthly,0,361.15,35
+Jeans,Outerwear,White,Florida,XL,Male,Express,Debit Card,1,1,Summer,Occasionally,7,224.27,56
+Jacket,Accessories,Yellow,Texas,L,Female,Standard,Credit Card,1,1,Spring,Monthly,4,207.74,60
+Dress,Footwear,Yellow,Florida,S,Female,Standard,Debit Card,1,0,Spring,Weekly,8,77.11,28
+Shoes,Footwear,Red,California,S,Male,Express,PayPal,1,1,Fall,Monthly,9,258.32,34
+Jacket,Footwear,Red,Florida,L,Female,Express,PayPal,0,0,Summer,Occasionally,4,72.01,65
+T-shirt,Outerwear,Black,New York,XL,Female,Standard,PayPal,0,1,Fall,Weekly,4,243.54,62
+Jacket,Clothing,Green,Nevada,S,Female,Standard,PayPal,1,1,Fall,Weekly,1,384.17,39
+Dress,Footwear,Red,California,M,Male,Express,Credit Card,0,1,Summer,Occasionally,2,136.55,54
+Shoes,Outerwear,Black,New York,S,Female,Express,Debit Card,1,0,Winter,Occasionally,9,245.59,37
+Shoes,Accessories,Red,Texas,M,Male,Express,Credit Card,1,0,Summer,Occasionally,8,496.09,65
+Dress,Clothing,Green,California,XL,Female,Express,Credit Card,0,1,Spring,Monthly,6,346.46,65
+Dress,Accessories,Yellow,Nevada,M,Female,Express,Credit Card,1,0,Summer,Monthly,0,422.26,65
+T-shirt,Outerwear,Blue,Nevada,M,Female,Standard,PayPal,1,0,Winter,Monthly,2,213.28,63
+Shoes,Footwear,Green,Texas,M,Female,Express,PayPal,0,0,Fall,Occasionally,1,386.25,23
+Jacket,Footwear,White,Texas,M,Male,Express,PayPal,0,0,Fall,Occasionally,0,29.85,51
+Jeans,Outerwear,Red,California,S,Male,Standard,Debit Card,1,0,Spring,Monthly,8,70.23,31
+Jeans,Footwear,Red,Florida,M,Female,Standard,PayPal,1,0,Spring,Weekly,7,109.5,65
+Dress,Clothing,Yellow,Texas,S,Female,Express,Debit Card,0,0,Spring,Monthly,4,206.96,40
+T-shirt,Outerwear,White,Florida,M,Female,Express,PayPal,1,1,Fall,Weekly,1,424.41,37
+Jeans,Accessories,Yellow,New York,L,Female,Standard,PayPal,1,0,Spring,Occasionally,0,179.67,30
+Shoes,Outerwear,White,Nevada,XL,Female,Express,Credit Card,0,0,Summer,Occasionally,6,330.76,64
+Dress,Clothing,Blue,Florida,M,Female,Express,Credit Card,0,1,Fall,Monthly,1,357.56,61
+Jacket,Clothing,Red,Nevada,L,Female,Standard,Credit Card,0,1,Winter,Monthly,0,297.23,58
+Dress,Outerwear,Red,Florida,M,Female,Express,Debit Card,0,1,Fall,Occasionally,1,185.05,49
+Jacket,Outerwear,Blue,New York,M,Male,Standard,Debit Card,0,1,Summer,Monthly,6,292.76,43
+Dress,Footwear,Black,Texas,M,Male,Standard,PayPal,0,0,Summer,Occasionally,6,177.71,67
+Dress,Clothing,Yellow,New York,L,Male,Standard,Debit Card,1,1,Spring,Occasionally,9,51.1,31
+Dress,Outerwear,Blue,Texas,XL,Female,Standard,PayPal,1,1,Fall,Weekly,5,496.47,69
+Jacket,Outerwear,Yellow,Texas,L,Female,Express,Debit Card,0,0,Fall,Monthly,4,72.32,53
+Jacket,Clothing,Green,Nevada,XL,Female,Standard,Debit Card,0,0,Fall,Occasionally,2,45.45,25
+Dress,Outerwear,Red,New York,M,Male,Express,Debit Card,1,0,Winter,Monthly,2,440.48,57
+Jeans,Footwear,Yellow,Florida,S,Female,Express,Credit Card,1,1,Spring,Weekly,8,157.9,39
+T-shirt,Clothing,White,New York,M,Male,Express,Debit Card,1,0,Summer,Weekly,3,328.65,39
+T-shirt,Footwear,Yellow,Nevada,XL,Female,Express,Credit Card,0,1,Summer,Monthly,8,171.21,33
+T-shirt,Footwear,Green,Texas,L,Male,Express,Credit Card,0,0,Spring,Monthly,3,201.81,44
+Jacket,Footwear,Red,Nevada,M,Male,Standard,Debit Card,1,0,Summer,Occasionally,1,138.44,27
+Jacket,Footwear,Blue,California,L,Male,Standard,PayPal,0,1,Summer,Weekly,3,178.09,42
+Jeans,Clothing,Green,California,L,Female,Standard,PayPal,0,0,Spring,Weekly,5,211.24,48
+T-shirt,Footwear,Red,Florida,L,Male,Standard,PayPal,0,0,Summer,Weekly,5,363.0,38
+T-shirt,Footwear,Yellow,Nevada,M,Female,Express,Debit Card,1,0,Fall,Monthly,4,260.65,44
+Dress,Outerwear,Black,Florida,L,Female,Standard,PayPal,1,0,Winter,Occasionally,0,472.35,34
+Jacket,Clothing,Black,Florida,L,Female,Express,Credit Card,0,0,Spring,Monthly,2,30.52,50
+T-shirt,Clothing,White,California,M,Female,Express,PayPal,0,1,Winter,Monthly,4,256.5,48
+Jeans,Accessories,Red,Florida,L,Female,Standard,Debit Card,0,1,Summer,Monthly,5,296.27,67
+Jeans,Clothing,Black,California,M,Male,Standard,PayPal,0,0,Summer,Occasionally,0,460.9,59
+T-shirt,Clothing,Blue,Texas,XL,Female,Standard,Credit Card,0,1,Fall,Monthly,8,34.09,43
+Jacket,Accessories,Red,Nevada,XL,Female,Standard,Debit Card,1,1,Spring,Weekly,2,291.01,38
+Jeans,Clothing,Blue,Florida,XL,Female,Express,PayPal,0,1,Summer,Weekly,9,428.28,53
+Dress,Clothing,Blue,California,L,Female,Express,Debit Card,0,0,Spring,Weekly,2,128.54,18
+Jeans,Clothing,Black,New York,S,Female,Standard,Debit Card,0,0,Spring,Occasionally,1,439.38,21
+Shoes,Clothing,Red,Florida,S,Male,Express,Debit Card,1,0,Spring,Monthly,7,19.33,21
+Shoes,Accessories,Yellow,Texas,L,Male,Express,PayPal,1,1,Spring,Occasionally,2,368.9,43
+Jacket,Clothing,Green,Texas,S,Female,Express,Debit Card,0,1,Spring,Monthly,5,467.23,21
+T-shirt,Clothing,Black,New York,M,Male,Standard,PayPal,1,0,Winter,Weekly,1,332.03,66
