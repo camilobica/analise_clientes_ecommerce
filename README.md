@@ -57,7 +57,7 @@ A análise combina estatística descritiva, criação de superfeatures, machine 
 1. Clone o repositório:
 
 ```bash
-git clone git@github.com:camilobica/analise-ecommerce-clientes.git
+git clone git@github.com:camilobica/analise-clientes-ecommerce.git
 ```
 
 2. Crie o ambiente:
