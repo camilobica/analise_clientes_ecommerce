@@ -69,7 +69,7 @@ conda activate ecommerce
 
 ## 📑 Dicionário de Dados
 
-[Clique aqui](referenciais/dicionario_dados.md) para acessar o dicionário completo da base utilizada.
+[Clique aqui](referenciais/dicionario_de_dados.md) para acessar o dicionário completo da base utilizada.
 
 ## Principais Descobertas
 
